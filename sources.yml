@@ -1,0 +1,32 @@
+timezone: Asia/Shanghai
+site_title: "AI 资讯博客"
+
+# 说明：
+# - 先用 RSS/Atom 源保证“无人值守”稳定运行（不依赖浏览器自动化）。
+# - 你后续可以继续往 feeds 里加源，或替换成你常看的中文站点 RSS。
+
+feeds:
+  - name: OpenAI (Release)
+    url: https://openai.com/research/index/release/rss.xml
+    default_topics: ["大模型", "产品与应用"]
+  - name: Anthropic (News)
+    url: https://www.anthropic.com/news/rss.xml
+    default_topics: ["大模型", "产品与应用"]
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    default_topics: ["开源生态", "数据与评测"]
+  - name: NVIDIA Newsroom
+    url: https://nvidianews.nvidia.com/newsroom/rss?cat=all
+    default_topics: ["芯片与算力"]
+
+topic_rules:
+  # 关键词命中则追加该主题（在 default_topics 基础上）
+  - topic: "多模态"
+    keywords: ["image", "vision", "video", "multimodal", "omni", "图片", "视觉", "视频", "多模态"]
+  - topic: "智能体Agent"
+    keywords: ["agent", "agents", "workflow", "tool", "mcp", "智能体", "代理", "工具"]
+  - topic: "安全与对齐"
+    keywords: ["security", "safety", "privacy", "alignment", "secure", "安全", "隐私", "对齐", "redact", "pii"]
+  - topic: "训练与推理优化"
+    keywords: ["inference", "latency", "throughput", "quant", "kv", "cache", "推理", "延迟", "吞吐", "量化", "缓存"]
+

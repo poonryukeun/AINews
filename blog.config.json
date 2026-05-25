@@ -1,0 +1,11 @@
+{
+  "site_title": "AI 资讯博客",
+  "language": "zh-CN",
+  "timezone": "Asia/Shanghai",
+  "posts_dir": "posts",
+  "topics_dir": "topics",
+  "briefings_dir": "briefings",
+  "assets_dir": "assets",
+  "post_filename_format": "YYYY-MM-DD.md"
+}
+

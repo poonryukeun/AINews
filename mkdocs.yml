@@ -1,0 +1,31 @@
+site_name: AI 资讯博客
+site_description: 每日 AI 新闻简报 → 按主题聚合的资讯博客
+site_url: ""
+
+repo_name: ""
+repo_url: ""
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - 首页: index.md
+  - 主题聚合:
+      - 主题索引: topics/index.md
+  - 每日文章:
+      - 文章索引: posts/index.md
+
