@@ -615,7 +615,9 @@ def main() -> int:
         '---\n\n'
     )
     index_path = DOCS_DIR / "index.md"
-    index_path.write_text(index_md + content, encoding="utf-8")
+    body_start = content.find("\n---\n", content.find("---\n") + 5)
+    body = content[body_start + 5:] if body_start > 0 else content
+    index_path.write_text(index_md + body, encoding="utf-8")
     log(f"更新首页：{index_path}")
 
     # 第4步：更新索引
