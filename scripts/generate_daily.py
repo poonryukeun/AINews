@@ -603,18 +603,19 @@ def main() -> int:
     post_path.write_text(content, encoding="utf-8")
     log(f"写入文章：{post_path}")
 
-    # 同时更新 docs/index.md 首页内容
-    index_header = (
-        "---\n"
-        f'title: "AI 资讯博客 - 今日更新"
-'
-        "---\n\n"
-        "# AI 资讯博客\n\n"
-        f"> \ud83d\udcc5 **{today}** ｜ [查看所有文章](posts/index.md) ｜ [按主题浏览](topics/index.md)\n"
-        ">\n"
-        "> 每日自动更新，聚合 AI 领域重要资讯。\n\n"
-        "---\n\n"
+    # 同步更新 docs/index.md 首页
+    index_md = (
+        '---\n'
+        'title: "AI 资讯博客 - 今日更新"\n'
+        '---\n\n'
+        '# AI 资讯博客\n\n'
+        '> ✅ **' + today + '** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)\n'
+        '> \n'
+        '> 每日自动更新，聚合 AI 领域重要资讯。\n\n'
+        '---\n\n'
     )
+    index_path = DOCS_DIR / "index.md"
+    index_path.write_text(index_md + content, encoding="utf-8")
     index_path = DOCS_DIR / "index.md"
     index_path.write_text(index_header + content, encoding="utf-8")
     log(f"更新首页：{index_path}")
