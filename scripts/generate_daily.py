@@ -145,6 +145,12 @@ def date_str(d: dt.date) -> str:
     return d.strftime("%Y-%m-%d")
 
 
+def ensure_dirs() -> None:
+    POSTS_DIR.mkdir(parents=True, exist_ok=True)
+    TOPICS_DIR.mkdir(parents=True, exist_ok=True)
+    BRIEFINGS_DIR.mkdir(parents=True, exist_ok=True)
+
+
 def log(msg: str) -> None:
     ts = dt.datetime.now().strftime("%H:%M:%S")
     print(f"[{ts}] {msg}", flush=True)
