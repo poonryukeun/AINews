@@ -23,9 +23,9 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - 首页: index.md
-  - 主题聚合:
-      - 主题索引: topics/index.md
+  - 今日资讯: index.md
   - 每日文章:
       - 文章索引: posts/index.md
+  - 主题聚合:
+      - 主题索引: topics/index.md
 
