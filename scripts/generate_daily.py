@@ -37,6 +37,14 @@ except ImportError:
     requests = None
     BeautifulSoup = None
 
+try:
+    from deep_translator import GoogleTranslator
+    _translator = GoogleTranslator(source="auto", target="zh-CN")
+    TRANSLATOR_AVAILABLE = True
+except Exception:
+    _translator = None
+    TRANSLATOR_AVAILABLE = False
+
 ROOT = Path(__file__).resolve().parents[1]
 DOCS_DIR = ROOT / "docs"
 POSTS_DIR = DOCS_DIR / "posts"
@@ -170,16 +178,35 @@ def first_paragraph(html_or_text: str) -> str:
     return t[:300]
 
 
+def has_chinese(text: str) -> bool:
+    """判断文本是否包含中文字符"""
+    return bool(re.search(r"[\u4e00-\u9fff]", text))
+
+
+def translate_text(text: str, max_len: int = 800) -> str:
+    """将英文翻译成中文。如文本为中文或翻译不可用则原样返回。"""
+    if not text or has_chinese(text) or not TRANSLATOR_AVAILABLE:
+        return text
+    try:
+        result = _translator.translate(text[:max_len])
+        return result or text
+    except Exception as e:
+        log(f"  Translation error: {e}")
+        return text
+
+
 @dataclass
 class NewsItem:
-    title: str
+    title: str          # 原标题
     url: str
     published: dt.datetime | None = None
     source_name: str = ""
     source_url: str = ""
-    summary: str = ""
+    summary: str = ""   # 原摘要
+    title_cn: str = ""  # 中文标题
+    summary_cn: str = "" # 中文摘要
     topics: list[str] = field(default_factory=list)
-    anchor: str = ""
+    anchor: str = ""    # 锚点（用中文标题生成）""
 
 
 def load_config() -> dict[str, Any]:
@@ -336,6 +363,24 @@ def fetch_all_items(cfg: dict) -> list[NewsItem]:
             deduped.append(it)
             seen_urls.add(it.url)
 
+    # 翻译英文标题和摘要为中文
+    log("  翻译英文内容为中文...")
+    translated_count = 0
+    for it in deduped:
+        if it.title and not has_chinese(it.title):
+            cn = translate_text(it.title)
+            if cn and cn != it.title:
+                it.title_cn = cn
+                it.anchor = slugify_anchor(cn)
+                translated_count += 1
+            else:
+                it.title_cn = ""
+        if it.summary and not has_chinese(it.summary):
+            cn = translate_text(it.summary)
+            if cn and cn != it.summary:
+                it.summary_cn = cn
+    log(f"  已翻译 {translated_count} 条标题")
+
     return deduped[:15]
 
 
@@ -399,7 +444,8 @@ def render_post(today: str, site_title: str, items: list[NewsItem], from_fallbac
 
     if items:
         for it in items[:8]:
-            lines.append(f"- {it.title}（{it.source_name}）")
+            display_title = it.title_cn if it.title_cn else it.title
+            lines.append(f"- {display_title}（{it.source_name}）")
     else:
         lines.append("- （无可核实新增条目）")
     lines += ["", "## 主题速览", ""]
@@ -411,10 +457,20 @@ def render_post(today: str, site_title: str, items: list[NewsItem], from_fallbac
     for tpc in sorted(grouped.keys()):
         lines += [f"### {tpc}", ""]
         for it in grouped[tpc]:
+            # 显示中文标题 + 英文标题（双语）
+            if it.title_cn:
+                title_display = f"#### {it.title_cn}\n\n{it.title}"
+            else:
+                title_display = f"#### {it.title}"
+            # 显示中文摘要 + 英文摘要（双语）
+            if it.summary_cn:
+                summary_display = f"摘要：{it.summary_cn}\n\n原文：{it.summary or '（无摘要）'}"
+            else:
+                summary_display = f"摘要：{it.summary or '（无摘要）'}"
             lines += [
                 f'<a id="{it.anchor}"></a>',
-                f"#### {it.title}",
-                f"摘要：{it.summary or '（无摘要）'}",
+                title_display,
+                summary_display,
                 f"来源：[{it.source_name}]({it.url})",
                 "",
             ]
@@ -422,7 +478,8 @@ def render_post(today: str, site_title: str, items: list[NewsItem], from_fallbac
     if items:
         lines += ["## 延伸阅读", ""]
         for it in items[:5]:
-            lines.append(f"- [{it.title}]({it.url})")
+            display_title = it.title_cn if it.title_cn else it.title
+            lines.append(f"- [{display_title}]({it.url})")
         lines.append("")
 
     return "\n".join(lines)
