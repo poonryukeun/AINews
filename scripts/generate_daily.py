@@ -616,8 +616,6 @@ def main() -> int:
     )
     index_path = DOCS_DIR / "index.md"
     index_path.write_text(index_md + content, encoding="utf-8")
-    index_path = DOCS_DIR / "index.md"
-    index_path.write_text(index_header + content, encoding="utf-8")
     log(f"更新首页：{index_path}")
 
     # 第4步：更新索引
