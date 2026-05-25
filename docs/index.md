@@ -10,17 +10,6 @@ title: "AI 资讯博客 - 今日更新"
 
 ---
 
----
-title: "每日 AI 资讯｜2026-05-25"
-date: "2026-05-25"
-topics: ['产品与应用', '智能体Agent']
-sources:
-  - name: "Anthropic News"
-    url: "https://www.anthropic.com/news"
-  - name: "Google DeepMind Blog"
-    url: "https://deepmind.google/blog/"
-summary: "今日 AI 资讯聚合。"
----
 
 ## 今日要点
 
