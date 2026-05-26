@@ -17,7 +17,7 @@ title: "AI 资讯博客 - 今日更新"
 - 值得正确使用的工具、脚手架和人工智能代理术语（Hugging Face Blog）
 - 隆重推出 Claude Opus 4.7 产品 2026 年 4 月 16 日我们最新的 Opus 模型在编码、代理、虚拟化方面带来了更强的性能（Anthropic News）
 - 产品2026 年 4 月 17 日推出 Anthropic Labs 的 Claude Design 今天，我们推出新的 Anthropic Labs 的 Claude Design（Anthropic News）
-- 公告2026 年 2 月 4 日克劳德是一个思考的空间我们已经做出了选择：克劳德将保持无广告状态。 We explain why advert（Anthropic News）
+- 公告2026 年 2 月 4 日克劳德是一个思考的空间我们已经做出了选择：克劳德将保持无广告状态。我们解释为什么广告（Anthropic News）
 - 2026年5月25日公告Anthropic联合创始人Chris Olah对教皇利奥十四世通谕《Magnifica humanitas》的评论（Anthropic News）
 - 2026年5月19日公告扩大前沿人工智能的对话（Anthropic News）
 - 2026 年 5 月 19 日公告毕马威将 Claude 整合到其核心业务和超过 276,000 名员工的战略中（Anthropic News）
@@ -42,8 +42,8 @@ ProductApr 17, 2026Introducing Claude Design by Anthropic LabsToday, we’re lau
 摘要：（无摘要）
 来源：[Anthropic News](https://www.anthropic.com/news/claude-design-anthropic-labs)
 
-<a id="公告2026-年-2-月-4-日克劳德是一个思考的空间我们已经做出了选择克劳德将保持无广告状态-we-explain-why-advert"></a>
-#### 公告2026 年 2 月 4 日克劳德是一个思考的空间我们已经做出了选择：克劳德将保持无广告状态。 We explain why advert
+<a id="公告2026-年-2-月-4-日克劳德是一个思考的空间我们已经做出了选择克劳德将保持无广告状态我们解释为什么广告"></a>
+#### 公告2026 年 2 月 4 日克劳德是一个思考的空间我们已经做出了选择：克劳德将保持无广告状态。我们解释为什么广告
 
 AnnouncementsFeb 4, 2026Claude is a space to thinkWe’ve made a choice: Claude will remain ad-free. We explain why advert
 摘要：（无摘要）
@@ -141,4 +141,4 @@ May 5, 2026AnnouncementsAgents for financial services
 - [值得正确使用的工具、脚手架和人工智能代理术语](https://huggingface.co/blog/agent-glossary)
 - [隆重推出 Claude Opus 4.7 产品 2026 年 4 月 16 日我们最新的 Opus 模型在编码、代理、虚拟化方面带来了更强的性能](https://www.anthropic.com/news/claude-opus-4-7)
 - [产品2026 年 4 月 17 日推出 Anthropic Labs 的 Claude Design 今天，我们推出新的 Anthropic Labs 的 Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)
-- [公告2026 年 2 月 4 日克劳德是一个思考的空间我们已经做出了选择：克劳德将保持无广告状态。 We explain why advert](https://www.anthropic.com/news/claude-is-a-space-to-think)
+- [公告2026 年 2 月 4 日克劳德是一个思考的空间我们已经做出了选择：克劳德将保持无广告状态。我们解释为什么广告](https://www.anthropic.com/news/claude-is-a-space-to-think)
