@@ -3,23 +3,28 @@ site_title: "AI 资讯博客"
 
 # 信息源（支持 RSS/Atom + HTML 抓取两种模式）
 feeds:
-  # ---- RSS/Atom 源 ----
-  - name: "OpenAI News"
-    url: "https://openai.com/news/rss.xml"
-    mode: rss
-    default_topics: ["大模型", "产品与应用"]
-
+  # ---- RSS 源 ----
   - name: "NVIDIA Newsroom"
     url: "https://nvidianews.nvidia.com/rss"
     mode: rss
     default_topics: ["芯片与算力"]
 
-  - name: "Hugging Face Blog"
-    url: "https://huggingface.co/blog/feed.xml"
+  - name: "量子位 QbitAI"
+    url: "https://www.qbitai.com/rss"
+    mode: rss
+    default_topics: ["产品与应用", "大模型"]
+
+  - name: "MIT Technology Review AI"
+    url: "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
+    mode: rss
+    default_topics: ["大模型", "产品与应用"]
+
+  - name: "MarkTechPost"
+    url: "https://www.marktechpost.com/feed/"
     mode: rss
     default_topics: ["开源生态", "数据与评测"]
 
-  # ---- HTML 抓取源（直接解析页面，更稳定） ----
+  # ---- HTML 爬取源 ----
   - name: "Anthropic News"
     url: "https://www.anthropic.com/news"
     mode: html
@@ -38,23 +43,6 @@ feeds:
       link: "href"
     default_topics: ["大模型", "智能体Agent"]
 
-  # ---- 新增 RSS 源（已验证可用） ----
-  - name: "量子位 QbitAI"
-    url: "https://www.qbitai.com/rss"
-    mode: rss
-    default_topics: ["产品与应用", "大模型"]
-
-  - name: "MIT Technology Review AI"
-    url: "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
-    mode: rss
-    default_topics: ["大模型", "产品与应用"]
-
-  - name: "MarkTechPost"
-    url: "https://www.marktechpost.com/feed/"
-    mode: rss
-    default_topics: ["开源生态", "数据与评测"]
-
-  # ---- 新增 HTML 爬取源（替代无法直接获取的 RSS） ----
   - name: "机器之心"
     url: "https://www.jiqizhixin.com/"
     mode: html
@@ -72,7 +60,6 @@ feeds:
       title: "text"
       link: "href"
     default_topics: ["大模型", "产品与应用"]
-
 
 topic_rules:
   - topic: "多模态"
