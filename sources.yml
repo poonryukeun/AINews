@@ -38,6 +38,42 @@ feeds:
       link: "href"
     default_topics: ["大模型", "智能体Agent"]
 
+  # ---- 新增 RSS 源（已验证可用） ----
+  - name: "量子位 QbitAI"
+    url: "https://www.qbitai.com/rss"
+    mode: rss
+    default_topics: ["产品与应用", "大模型"]
+
+  - name: "MIT Technology Review AI"
+    url: "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
+    mode: rss
+    default_topics: ["大模型", "产品与应用"]
+
+  - name: "MarkTechPost"
+    url: "https://www.marktechpost.com/feed/"
+    mode: rss
+    default_topics: ["开源生态", "数据与评测"]
+
+  # ---- 新增 HTML 爬取源（替代无法直接获取的 RSS） ----
+  - name: "机器之心"
+    url: "https://www.jiqizhixin.com/"
+    mode: html
+    selectors:
+      list: "a[href*='/article/']"
+      title: "text"
+      link: "href"
+    default_topics: ["大模型", "数据与评测"]
+
+  - name: "雷锋网 AI 频道"
+    url: "https://www.leiphone.com/category/ai"
+    mode: html
+    selectors:
+      list: "a[href*='/category/ai/']"
+      title: "text"
+      link: "href"
+    default_topics: ["大模型", "产品与应用"]
+
+
 topic_rules:
   - topic: "多模态"
     keywords: ["image", "vision", "video", "multimodal", "omni", "图片", "视觉", "视频", "多模态", "sora"]
