@@ -21,3 +21,4 @@
 - 2026-05-26｜Build a Complete Langfuse Observability and Evaluation Pipeline for Tracing, Prompt Management, Scoring, and Experiments → [查看](../posts/2026-05-26.md#构建完整的-langfuse-可观测性和评估管道用于跟踪即时管理评分和实验)
 - 2026-05-27｜刚刚，国产Agent模型闯入全球第一梯队！限时免费 → [查看](../posts/2026-05-27.md#刚刚国产agent模型闯入全球第一梯队限时免费)
 - 2026-05-27｜Rethinking organizational design in the age of agentic AI → [查看](../posts/2026-05-27.md#重新思考代理人工智能时代的组织设计)
+- 2026-05-27｜DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时 → [查看](../posts/2026-05-27.md#deepseek陈德里开发自动研究skill写一篇论文人类只动脑2小时)

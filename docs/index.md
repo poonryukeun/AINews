@@ -13,14 +13,14 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
+- DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时（量子位 QbitAI）
+- 将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式（量子位 QbitAI）
 - 刚刚，国产AI自己造了AI，全球首例！（量子位 QbitAI）
 - 留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题（量子位 QbitAI）
 - 卡帕西Anthropic最新头衔：技术员工（MTS）（量子位 QbitAI）
 - 华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升（量子位 QbitAI）
 - 荣耀600系列手机发布：4K闪光微单Live，国补价2294.15元起（量子位 QbitAI）
 - “卡车界特斯拉”，刚刚又融了2亿美元（量子位 QbitAI）
-- 编程权威榜单：千问3.7仅次于Claude，阿里全球第二（量子位 QbitAI）
-- 刚刚，国产Agent模型闯入全球第一梯队！限时免费（量子位 QbitAI）
 
 ## 主题速览
 
@@ -61,16 +61,6 @@ title: "AI 资讯博客 - 今日更新"
 摘要：跻身全球编程模型第一梯队
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/05/425150.html)
 
-<a id="京东joyinside戴文军ai的终极形态不是聊天是融入你家每一件物品丨aigc2026"></a>
-#### 京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026
-摘要：硬件不该让人适应，它应该主动适应你
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/05/424794.html)
-
-<a id="无人车遇水则瘫waymo大规模召回叫停多城robotaxi服务"></a>
-#### 无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务
-摘要：特斯拉学会“躲交警”了
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/05/424610.html)
-
 <a id="对人工智能就业歇斯底里的现实检验"></a>
 #### 对人工智能就业歇斯底里的现实检验
 
@@ -84,7 +74,7 @@ A reality check on the AI jobs hysteria
 #### 是时候解决初级工作中迫在眉睫的危机了。
 
 It’s time to address the looming crisis in entry-level work.
-摘要：迄今为止，人工智能还没有产生一个干净的大规模失业故事。发达国家的总就业保持大致稳定，最近的评估发现有限的证据表明人工智能已经改变了总体数据。但表面之下可能隐藏着令人不安的变化
+摘要：迄今为止，人工智能还没有产生一个干净的大规模失业故事。发达国家的总就业保持大致稳定，最近的评估发现有限的证据表明人工智能已经改变了总体数据。 But a troubling change may be hiding beneath the surfac
 
 原文：Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surfac
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/)
@@ -107,7 +97,19 @@ Stability AI Releases Stable Audio 3: A Family of Fast Latent Diffusion Models f
 原文：Stability AI has released Stable Audio 3, a family of latent diffusion models for instrumental music and sound effects generation. The release includes open weights for the small and medium variants. Small runs on a MacBook Pro M4 CPU. Medium fits on consumer GPUs with 8 GB of VRAM. Both generate st
 来源：[MarkTechPost](https://www.marktechpost.com/2026/05/26/stability-ai-releases-stable-audio-3-a-family-of-fast-latent-diffusion-models-for-audio-generation-and-editing/)
 
+### 多模态
+
+<a id="将dsa注意力引入多模态快手keye20开启强化推理新范式"></a>
+#### 将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式
+摘要：光影之间，读懂未尽之意
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/05/425600.html)
+
 ### 智能体Agent
+
+<a id="deepseek陈德里开发自动研究skill写一篇论文人类只动脑2小时"></a>
+#### DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时
+摘要：“1%是我写的，99%是Agent写的。”
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/05/425523.html)
 
 <a id="刚刚国产agent模型闯入全球第一梯队限时免费"></a>
 #### 刚刚，国产Agent模型闯入全球第一梯队！限时免费
@@ -123,10 +125,17 @@ Rethinking organizational design in the age of agentic AI
 原文：Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They 
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/)
 
+### 训练与推理优化
+
+<a id="将dsa注意力引入多模态快手keye20开启强化推理新范式"></a>
+#### 将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式
+摘要：光影之间，读懂未尽之意
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/05/425600.html)
+
 ## 延伸阅读
 
+- [DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时](https://www.qbitai.com/2026/05/425523.html)
+- [将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式](https://www.qbitai.com/2026/05/425600.html)
 - [刚刚，国产AI自己造了AI，全球首例！](https://www.qbitai.com/2026/05/425511.html)
 - [留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题](https://www.qbitai.com/2026/05/425455.html)
 - [卡帕西Anthropic最新头衔：技术员工（MTS）](https://www.qbitai.com/2026/05/425304.html)
-- [华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升](https://www.qbitai.com/2026/05/425296.html)
-- [荣耀600系列手机发布：4K闪光微单Live，国补价2294.15元起](https://www.qbitai.com/2026/05/425155.html)
