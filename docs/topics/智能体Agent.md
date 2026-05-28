@@ -22,3 +22,7 @@
 - 2026-05-27｜刚刚，国产Agent模型闯入全球第一梯队！限时免费 → [查看](../posts/2026-05-27.md#刚刚国产agent模型闯入全球第一梯队限时免费)
 - 2026-05-27｜Rethinking organizational design in the age of agentic AI → [查看](../posts/2026-05-27.md#重新思考代理人工智能时代的组织设计)
 - 2026-05-27｜DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时 → [查看](../posts/2026-05-27.md#deepseek陈德里开发自动研究skill写一篇论文人类只动脑2小时)
+- 2026-05-28｜1400亿Agent入场，“流量”这条护城河要塌了 → [查看](../posts/2026-05-28.md#1400亿agent入场流量这条护城河要塌了)
+- 2026-05-28｜DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时 → [查看](../posts/2026-05-28.md#deepseek陈德里开发自动研究skill写一篇论文人类只动脑2小时)
+- 2026-05-28｜Rethinking organizational design in the age of agentic AI → [查看](../posts/2026-05-28.md#重新思考代理人工智能时代的组织设计)
+- 2026-05-28｜Introducing Claude Opus 4.7ProductApr 16, 2026Our latest Opus model brings stronger performance across coding, agents, v → [查看](../posts/2026-05-28.md#隆重推出-claude-opus-47-产品-2026-年-4-月-16-日我们最新的-opus-模型在编码代理虚拟化方面带来了更强的性能)
