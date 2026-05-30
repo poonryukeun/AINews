@@ -29,3 +29,7 @@
 - 2026-05-29｜Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行 → [查看](../posts/2026-05-29.md#claude-48炸场部分能力超过mythos支持数百子智能体并行)
 - 2026-05-29｜沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具 → [查看](../posts/2026-05-29.md#沙钢签约钉钉让悟空成为每一位钢铁人的生产力工具)
 - 2026-05-29｜7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看” → [查看](../posts/2026-05-29.md#7b打败o3gpt-5医学ai智能体让模型学会看哪里怎么看)
+- 2026-05-30｜创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora → [查看](../posts/2026-05-30.md#创意设计版workbuddy来了腾讯发布智能体创意工作室miora)
+- 2026-05-30｜Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行 → [查看](../posts/2026-05-30.md#claude-48炸场部分能力超过mythos支持数百子智能体并行)
+- 2026-05-30｜Hermes Agent Ships Tool Search for MCP: Anthropic Evals Show 49% to 74% Accuracy Gain on Opus 4 → [查看](../posts/2026-05-30.md#hermes-代理推出-mcp-搜索工具人择评估显示-opus-4-的准确度提高了-49-至-74)
+- 2026-05-30｜How to Use AgentTrove: Streaming 1.7M Agentic Traces and Building a Clean ShareGPT SFT Dataset in Python → [查看](../posts/2026-05-30.md#如何使用-agenttrove流式传输-17m-agentic-跟踪并在-python-中构建干净的-sharegpt-sft-数据集)
