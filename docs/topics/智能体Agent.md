@@ -33,3 +33,7 @@
 - 2026-05-30｜Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行 → [查看](../posts/2026-05-30.md#claude-48炸场部分能力超过mythos支持数百子智能体并行)
 - 2026-05-30｜Hermes Agent Ships Tool Search for MCP: Anthropic Evals Show 49% to 74% Accuracy Gain on Opus 4 → [查看](../posts/2026-05-30.md#hermes-代理推出-mcp-搜索工具人择评估显示-opus-4-的准确度提高了-49-至-74)
 - 2026-05-30｜How to Use AgentTrove: Streaming 1.7M Agentic Traces and Building a Clean ShareGPT SFT Dataset in Python → [查看](../posts/2026-05-30.md#如何使用-agenttrove流式传输-17m-agentic-跟踪并在-python-中构建干净的-sharegpt-sft-数据集)
+- 2026-05-31｜从Token无上限到全员Agent：MiniMax的AI Native组织进化实践 → [查看](../posts/2026-05-31.md#从token无上限到全员agentminimax的ai-native组织进化实践)
+- 2026-05-31｜英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」 → [查看](../posts/2026-05-31.md#英伟达清华团队提出gamma-world世界模型从一个人玩到多人共处)
+- 2026-05-31｜Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning → [查看](../posts/2026-05-31.md#使用-skillnet-构建技能增强型-ai-代理用于搜索评估图形分析和任务规划)
+- 2026-05-31｜Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation → [查看](../posts/2026-05-31.md#genesis-ai-发布-nyxquadrants-和-genesis-world-10-物理平台用于可扩展机器人基础模型评估)
