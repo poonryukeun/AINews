@@ -37,3 +37,6 @@
 - 2026-05-31｜英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」 → [查看](../posts/2026-05-31.md#英伟达清华团队提出gamma-world世界模型从一个人玩到多人共处)
 - 2026-05-31｜Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning → [查看](../posts/2026-05-31.md#使用-skillnet-构建技能增强型-ai-代理用于搜索评估图形分析和任务规划)
 - 2026-05-31｜Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation → [查看](../posts/2026-05-31.md#genesis-ai-发布-nyxquadrants-和-genesis-world-10-物理平台用于可扩展机器人基础模型评估)
+- 2026-06-01｜An Implementation of the Microsoft Agent Governance Toolkit for Safe AI Agent Tool Use with Policies, Approvals, Audit Logs, and Risk Controls → [查看](../posts/2026-06-01.md#microsoft-agent-governance-toolkit-的实现用于安全使用-ai-代理工具包括策略批准审核日志和风险控制)
+- 2026-06-01｜Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning → [查看](../posts/2026-06-01.md#使用-skillnet-构建技能增强型-ai-代理用于搜索评估图形分析和任务规划)
+- 2026-06-01｜Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation → [查看](../posts/2026-06-01.md#genesis-ai-发布-nyxquadrants-和-genesis-world-10-物理平台用于可扩展机器人基础模型评估)
