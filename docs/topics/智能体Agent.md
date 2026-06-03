@@ -44,3 +44,7 @@
 - 2026-06-02｜MiniMax Releases MiniMax M3 with MSA Architecture Supporting 1M-Token Context, Native Multimodality, and Agentic Coding → [查看](../posts/2026-06-02.md#minimax-发布-minimax-m3其-msa-架构支持-1m-token-上下文本机多模态和代理编码)
 - 2026-06-02｜Meet Memory OS: A 6-Layer Open-Source Memory Stack Built on Top of Hermes Agent → [查看](../posts/2026-06-02.md#认识内存操作系统构建在-hermes-agent-之上的-6-层开源内存堆栈)
 - 2026-06-02｜An Implementation of the Microsoft Agent Governance Toolkit for Safe AI Agent Tool Use with Policies, Approvals, Audit Logs, and Risk Controls → [查看](../posts/2026-06-02.md#microsoft-agent-governance-toolkit-的实现用于安全使用-ai-代理工具包括策略批准审核日志和风险控制)
+- 2026-06-03｜Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件 → [查看](../posts/2026-06-03.md#qwen37-plus上线多模态智能体新基座一键复刻桌面端专业软件)
+- 2026-06-03｜Rehumanizing global health care with agentic AI → [查看](../posts/2026-06-03.md#利用代理人工智能重新人性化全球医疗保健)
+- 2026-06-03｜TinyFish Launches BigSet: An Open-Source Multi-Agent System That Builds Structured Live Datasets from Plain-English Descriptions → [查看](../posts/2026-06-03.md#tinyfish-推出-bigset一个开源多代理系统可根据简单的英语描述构建结构化实时数据集)
+- 2026-06-03｜Alibaba’s Qwen Team Launches Qwen3.7-Plus, Adding Vision, Deep Reasoning, Tool Invocation, and Autonomous Iteration on the Bailian Platform → [查看](../posts/2026-06-03.md#阿里巴巴qwen团队推出qwen37-plus在百联平台新增视觉深度推理工具调用自主迭代)
