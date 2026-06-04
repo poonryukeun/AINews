@@ -48,3 +48,5 @@
 - 2026-06-03｜Rehumanizing global health care with agentic AI → [查看](../posts/2026-06-03.md#利用代理人工智能重新人性化全球医疗保健)
 - 2026-06-03｜TinyFish Launches BigSet: An Open-Source Multi-Agent System That Builds Structured Live Datasets from Plain-English Descriptions → [查看](../posts/2026-06-03.md#tinyfish-推出-bigset一个开源多代理系统可根据简单的英语描述构建结构化实时数据集)
 - 2026-06-03｜Alibaba’s Qwen Team Launches Qwen3.7-Plus, Adding Vision, Deep Reasoning, Tool Invocation, and Autonomous Iteration on the Bailian Platform → [查看](../posts/2026-06-03.md#阿里巴巴qwen团队推出qwen37-plus在百联平台新增视觉深度推理工具调用自主迭代)
+- 2026-06-04｜扣子3.0实测：手机就能远程遥控你电脑里的Agent → [查看](../posts/2026-06-04.md#扣子30实测手机就能远程遥控你电脑里的agent)
+- 2026-06-04｜Rehumanizing global health care with agentic AI → [查看](../posts/2026-06-04.md#利用代理人工智能重新人性化全球医疗保健)
