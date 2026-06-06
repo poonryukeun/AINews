@@ -50,3 +50,7 @@
 - 2026-06-03｜Alibaba’s Qwen Team Launches Qwen3.7-Plus, Adding Vision, Deep Reasoning, Tool Invocation, and Autonomous Iteration on the Bailian Platform → [查看](../posts/2026-06-03.md#阿里巴巴qwen团队推出qwen37-plus在百联平台新增视觉深度推理工具调用自主迭代)
 - 2026-06-04｜扣子3.0实测：手机就能远程遥控你电脑里的Agent → [查看](../posts/2026-06-04.md#扣子30实测手机就能远程遥控你电脑里的agent)
 - 2026-06-04｜Rehumanizing global health care with agentic AI → [查看](../posts/2026-06-04.md#利用代理人工智能重新人性化全球医疗保健)
+- 2026-06-06｜有人靠CPU把AI算力密度卷到了新高度 → [查看](../posts/2026-06-06.md#有人靠cpu把ai算力密度卷到了新高度)
+- 2026-06-06｜华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地” → [查看](../posts/2026-06-06.md#华为云发布agentic-ai系列新品-打造智能时代硅基黑土地)
+- 2026-06-06｜从超级个体到超级团队，腾讯云发布WorkBuddy企业版 → [查看](../posts/2026-06-06.md#从超级个体到超级团队腾讯云发布workbuddy企业版)
+- 2026-06-06｜The Meta hack shows there’s more to AI security than Mythos → [查看](../posts/2026-06-06.md#meta-黑客事件表明人工智能安全不仅仅是神话)
