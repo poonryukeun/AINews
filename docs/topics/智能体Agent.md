@@ -61,3 +61,6 @@
 - 2026-06-08｜Meet Harness-1: A 20B Retrieval Subagent Trained With Reinforcement Learning Inside a Stateful Search Harness on gpt-oss-20b → [查看](../posts/2026-06-08.md#认识-harness-1在-gpt-oss-20b-上的状态搜索-harness-内经过强化学习训练的-20b-检索子代理)
 - 2026-06-08｜NVIDIA garak Tutorial: Build a Complete Defensive LLM Red-Teaming Workflow with Custom Probes and Detectors → [查看](../posts/2026-06-08.md#nvidia-garak-教程使用自定义探针和探测器构建完整的防御性-llm-红队工作流程)
 - 2026-06-08｜Google’s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal → [查看](../posts/2026-06-08.md#谷歌的新-colab-cli-让开发人员和-ai-代理可以从终端在远程-colab-gpu-和-tpu-上运行-python)
+- 2026-06-09｜腾讯想让企业打开AI的方式只剩一个 → [查看](../posts/2026-06-09.md#腾讯想让企业打开ai的方式只剩一个)
+- 2026-06-09｜蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营 → [查看](../posts/2026-06-09.md#蚂蚁集团推出海外ai支付解决方案-商户可实现全球智能体运营)
+- 2026-06-09｜Google Research Adds Agentic RAG to Gemini Enterprise Agent Platform with a Sufficient Context Agent for multi-hop queries → [查看](../posts/2026-06-09.md#google-研究将-agentic-rag-添加到-gemini-企业代理平台并为多跳查询提供足够的上下文代理)
