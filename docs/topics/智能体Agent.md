@@ -64,3 +64,8 @@
 - 2026-06-09｜腾讯想让企业打开AI的方式只剩一个 → [查看](../posts/2026-06-09.md#腾讯想让企业打开ai的方式只剩一个)
 - 2026-06-09｜蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营 → [查看](../posts/2026-06-09.md#蚂蚁集团推出海外ai支付解决方案-商户可实现全球智能体运营)
 - 2026-06-09｜Google Research Adds Agentic RAG to Gemini Enterprise Agent Platform with a Sufficient Context Agent for multi-hop queries → [查看](../posts/2026-06-09.md#google-研究将-agentic-rag-添加到-gemini-企业代理平台并为多跳查询提供足够的上下文代理)
+- 2026-06-10｜与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent → [查看](../posts/2026-06-10.md#与爱为舞亮相腾讯云ai产业应用大会深耕教育大模型打造下一代学习agent)
+- 2026-06-10｜腾讯想让企业打开AI的方式只剩一个 → [查看](../posts/2026-06-10.md#腾讯想让企业打开ai的方式只剩一个)
+- 2026-06-10｜Learning to lead in a hybrid human-AI enterprise → [查看](../posts/2026-06-10.md#学习领导人类与人工智能混合型企业)
+- 2026-06-10｜NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, and Matrix Multiplication in Colab → [查看](../posts/2026-06-10.md#nvidia-cutile-python-教程在-colab-中构建用于矢量加法矩阵加法和矩阵乘法的分块-gpu-内核)
+- 2026-06-10｜A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work per Session vs 33 Seconds for Search → [查看](../posts/2026-06-10.md#哈佛大学和-perplexity-的一项新研究发现ai-代理每次自主工作的时间为-26-分钟而搜索时间为-33-秒)
