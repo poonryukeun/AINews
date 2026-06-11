@@ -69,3 +69,5 @@
 - 2026-06-10｜Learning to lead in a hybrid human-AI enterprise → [查看](../posts/2026-06-10.md#学习领导人类与人工智能混合型企业)
 - 2026-06-10｜NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, and Matrix Multiplication in Colab → [查看](../posts/2026-06-10.md#nvidia-cutile-python-教程在-colab-中构建用于矢量加法矩阵加法和矩阵乘法的分块-gpu-内核)
 - 2026-06-10｜A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work per Session vs 33 Seconds for Search → [查看](../posts/2026-06-10.md#哈佛大学和-perplexity-的一项新研究发现ai-代理每次自主工作的时间为-26-分钟而搜索时间为-33-秒)
+- 2026-06-11｜百度智能云与FluxA达成战略合作，共建 Agent 经济全球支付基础设施 → [查看](../posts/2026-06-11.md#百度智能云与fluxa达成战略合作共建-agent-经济全球支付基础设施)
+- 2026-06-11｜Learning to lead in a hybrid human-AI enterprise → [查看](../posts/2026-06-11.md#学习领导人类与人工智能混合型企业)
