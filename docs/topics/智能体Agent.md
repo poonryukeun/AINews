@@ -78,3 +78,6 @@
 - 2026-06-12｜xAI Ships Grok Build Plugin Marketplace With MongoDB, Vercel, Sentry, Chrome DevTools, Cloudflare, and Superpowers Plugins at Launch → [查看](../posts/2026-06-12.md#xai-在-grok-build-插件市场上发布了-mongodbvercelsentrychrome-devtoolscloudflare-和-superpo)
 - 2026-06-12｜Nous Research Ships Hermes Agent Profile Builder: Identity, Model, Skills, and MCP Servers in One Dashboard Flow → [查看](../posts/2026-06-12.md#nous-research-推出-hermes-agent-profile-builder在一个仪表板流程中提供身份模型技能和-mcp-服务器)
 - 2026-06-12｜Meet ‘North Mini Code’: Cohere’s 30B Open-Weight Mixture-of-Experts Model With 3B Active Parameters for Agentic Coding → [查看](../posts/2026-06-12.md#认识north-mini-codecohere-的-30b-开放权重混合专家模型具有用于代理编码的-3b-主动参数)
+- 2026-06-13｜“智能体最后的考试”，Fable 5竟然不敌GPT 5.5 → [查看](../posts/2026-06-13.md#智能体最后的考试fable-5竟然不敌gpt-55)
+- 2026-06-13｜1290万高考生看过来！阿里出了个志愿填报Agent，免费的 → [查看](../posts/2026-06-13.md#1290万高考生看过来阿里出了个志愿填报agent免费的)
+- 2026-06-13｜Google DeepMind is worried about what happens when millions of agents start to interact → [查看](../posts/2026-06-13.md#谷歌-deepmind-担心当数百万智能体开始交互时会发生什么)
