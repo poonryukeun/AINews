@@ -85,3 +85,4 @@
 - 2026-06-14｜How to Build a QwenPaw Agent Workspace with Custom Skills, Model Providers, Console Access, and Streaming API Testing → [查看](../posts/2026-06-14.md#如何使用自定义技能模型提供程序控制台访问和流-api-测试构建-qwenpaw-代理工作区)
 - 2026-06-14｜Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% on Kimi Code Bench v2 Over K2.6 → [查看](../posts/2026-06-14.md#moonshot-ai-发布-kimi-k27-code编码模型报告-kimi-code-bench-v2-较-k26-提高了-218)
 - 2026-06-14｜Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm → [查看](../posts/2026-06-14.md#moonshot-ai-推出-kimi-work这是一款本地桌面代理据称运行在-kimi-k26-上具有-300-个子代理代理群)
+- 2026-06-15｜Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践 → [查看](../posts/2026-06-15.md#agent终于长出了身体jiuwen-symbiosis背后的思考与实践)
