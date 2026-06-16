@@ -86,3 +86,6 @@
 - 2026-06-14｜Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% on Kimi Code Bench v2 Over K2.6 → [查看](../posts/2026-06-14.md#moonshot-ai-发布-kimi-k27-code编码模型报告-kimi-code-bench-v2-较-k26-提高了-218)
 - 2026-06-14｜Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm → [查看](../posts/2026-06-14.md#moonshot-ai-推出-kimi-work这是一款本地桌面代理据称运行在-kimi-k26-上具有-300-个子代理代理群)
 - 2026-06-15｜Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践 → [查看](../posts/2026-06-15.md#agent终于长出了身体jiuwen-symbiosis背后的思考与实践)
+- 2026-06-16｜Agent时代，华为云开始重新造地基了 → [查看](../posts/2026-06-16.md#agent时代华为云开始重新造地基了)
+- 2026-06-16｜Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides → [查看](../posts/2026-06-16.md#sakana-ai-在-sakana-marlin-中将-ab-mcts-商业化这是一款可通过幻灯片生成多达-100-页研究报告的企业代理)
+- 2026-06-16｜Claude Code Guide 2026: 25 Features with Examples + Demo → [查看](../posts/2026-06-16.md#claude-代码指南-202625-个功能以及示例-演示)
