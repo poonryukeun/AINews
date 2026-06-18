@@ -89,3 +89,4 @@
 - 2026-06-16｜Agent时代，华为云开始重新造地基了 → [查看](../posts/2026-06-16.md#agent时代华为云开始重新造地基了)
 - 2026-06-16｜Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides → [查看](../posts/2026-06-16.md#sakana-ai-在-sakana-marlin-中将-ab-mcts-商业化这是一款可通过幻灯片生成多达-100-页研究报告的企业代理)
 - 2026-06-16｜Claude Code Guide 2026: 25 Features with Examples + Demo → [查看](../posts/2026-06-16.md#claude-代码指南-202625-个功能以及示例-演示)
+- 2026-06-18｜微信支付发布AI专属卡 WorkBuddy率先接入 → [查看](../posts/2026-06-18.md#微信支付发布ai专属卡-workbuddy率先接入)
