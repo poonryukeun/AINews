@@ -90,3 +90,7 @@
 - 2026-06-16｜Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides → [查看](../posts/2026-06-16.md#sakana-ai-在-sakana-marlin-中将-ab-mcts-商业化这是一款可通过幻灯片生成多达-100-页研究报告的企业代理)
 - 2026-06-16｜Claude Code Guide 2026: 25 Features with Examples + Demo → [查看](../posts/2026-06-16.md#claude-代码指南-202625-个功能以及示例-演示)
 - 2026-06-18｜微信支付发布AI专属卡 WorkBuddy率先接入 → [查看](../posts/2026-06-18.md#微信支付发布ai专属卡-workbuddy率先接入)
+- 2026-06-19｜Salesforce CodeGen Tutorial: Generate, Validate, and Rerank Python Functions With Unit Tests and Safety Checks → [查看](../posts/2026-06-19.md#salesforce-codegen-教程通过单元测试和安全检查生成验证和重新排列-python-函数)
+- 2026-06-19｜Perplexity Launches Brain, a Self-Improving Memory System That Builds a Context Graph of an Agent’s Work and Learns Overnight → [查看](../posts/2026-06-19.md#perplexity-推出-brain这是一种自我改进的记忆系统可以构建智能体工作和夜间学习的上下文图)
+- 2026-06-19｜OpenAI Releases LifeSciBench, a 750-Task Benchmark Grading AI Models on Real Life-Science Research With Expert-Written Rubric → [查看](../posts/2026-06-19.md#openai-发布-lifescibench这是一个包含-750-项任务的基准使用专家撰写的评分标准对现实生命科学研究中的-ai-模型进行评分)
+- 2026-06-19｜NVIDIA SkillSpector Guide: Scanning AI Skills for Security Risks with Static Analysis and SARIF Reports → [查看](../posts/2026-06-19.md#nvidia-skillspector-指南使用静态分析和-sarif-报告扫描-ai-技能的安全风险)
