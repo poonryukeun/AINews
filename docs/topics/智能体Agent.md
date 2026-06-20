@@ -94,3 +94,5 @@
 - 2026-06-19｜Perplexity Launches Brain, a Self-Improving Memory System That Builds a Context Graph of an Agent’s Work and Learns Overnight → [查看](../posts/2026-06-19.md#perplexity-推出-brain这是一种自我改进的记忆系统可以构建智能体工作和夜间学习的上下文图)
 - 2026-06-19｜OpenAI Releases LifeSciBench, a 750-Task Benchmark Grading AI Models on Real Life-Science Research With Expert-Written Rubric → [查看](../posts/2026-06-19.md#openai-发布-lifescibench这是一个包含-750-项任务的基准使用专家撰写的评分标准对现实生命科学研究中的-ai-模型进行评分)
 - 2026-06-19｜NVIDIA SkillSpector Guide: Scanning AI Skills for Security Risks with Static Analysis and SARIF Reports → [查看](../posts/2026-06-19.md#nvidia-skillspector-指南使用静态分析和-sarif-报告扫描-ai-技能的安全风险)
+- 2026-06-20｜NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning → [查看](../posts/2026-06-20.md#nvidia-ai-推出-spatialclaw一种免训练代理将代码视为空间推理的动作接口)
+- 2026-06-20｜Salesforce CodeGen Tutorial: Generate, Validate, and Rerank Python Functions With Unit Tests and Safety Checks → [查看](../posts/2026-06-20.md#salesforce-codegen-教程通过单元测试和安全检查生成验证和重新排列-python-函数)
