@@ -96,3 +96,6 @@
 - 2026-06-19｜NVIDIA SkillSpector Guide: Scanning AI Skills for Security Risks with Static Analysis and SARIF Reports → [查看](../posts/2026-06-19.md#nvidia-skillspector-指南使用静态分析和-sarif-报告扫描-ai-技能的安全风险)
 - 2026-06-20｜NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning → [查看](../posts/2026-06-20.md#nvidia-ai-推出-spatialclaw一种免训练代理将代码视为空间推理的动作接口)
 - 2026-06-20｜Salesforce CodeGen Tutorial: Generate, Validate, and Rerank Python Functions With Unit Tests and Safety Checks → [查看](../posts/2026-06-20.md#salesforce-codegen-教程通过单元测试和安全检查生成验证和重新排列-python-函数)
+- 2026-06-21｜Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets → [查看](../posts/2026-06-21.md#nous-research-使用空白石板模式更新-hermes-agent该模式可通过-platformtoolsetscli-和-unavailabletoo)
+- 2026-06-21｜How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection → [查看](../posts/2026-06-21.md#如何使用基础模型和自动异常检测通过-timecopilot-构建预测管道)
+- 2026-06-21｜NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning → [查看](../posts/2026-06-21.md#nvidia-ai-推出-spatialclaw一种免训练代理将代码视为空间推理的动作接口)
