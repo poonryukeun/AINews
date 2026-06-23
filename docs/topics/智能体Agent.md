@@ -99,3 +99,8 @@
 - 2026-06-21｜Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets → [查看](../posts/2026-06-21.md#nous-research-使用空白石板模式更新-hermes-agent该模式可通过-platformtoolsetscli-和-unavailabletoo)
 - 2026-06-21｜How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection → [查看](../posts/2026-06-21.md#如何使用基础模型和自动异常检测通过-timecopilot-构建预测管道)
 - 2026-06-21｜NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning → [查看](../posts/2026-06-21.md#nvidia-ai-推出-spatialclaw一种免训练代理将代码视为空间推理的动作接口)
+- 2026-06-23｜DeepSeek缺Agent人才缺疯了！负责人各种贴广告 → [查看](../posts/2026-06-23.md#deepseek缺agent人才缺疯了负责人各种贴广告)
+- 2026-06-23｜xAI Launches /goal in Grok Build, Adding Long-Running Autonomous Execution With Built-In Verification for Multi-Step Coding Tasks → [查看](../posts/2026-06-23.md#xai-在-grok-build-中推出-goal为多步编码任务添加长时间运行的自主执行和内置验证)
+- 2026-06-23｜Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs → [查看](../posts/2026-06-23.md#sakana-ai-推出-sakana-fugu一种在可交换的前沿法学硕士池中路由任务的编排模型)
+- 2026-06-23｜The 7 Types of Agent Memory: A Technical Guide for AI Engineers → [查看](../posts/2026-06-23.md#7-种代理内存ai-工程师技术指南)
+- 2026-06-23｜Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export → [查看](../posts/2026-06-23.md#crawlee-for-python使用机器人处理链接图和-rag-块导出构建-web-爬行管道)
