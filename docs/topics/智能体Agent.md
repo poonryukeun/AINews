@@ -104,3 +104,5 @@
 - 2026-06-23｜Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs → [查看](../posts/2026-06-23.md#sakana-ai-推出-sakana-fugu一种在可交换的前沿法学硕士池中路由任务的编排模型)
 - 2026-06-23｜The 7 Types of Agent Memory: A Technical Guide for AI Engineers → [查看](../posts/2026-06-23.md#7-种代理内存ai-工程师技术指南)
 - 2026-06-23｜Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export → [查看](../posts/2026-06-23.md#crawlee-for-python使用机器人处理链接图和-rag-块导出构建-web-爬行管道)
+- 2026-06-24｜云计算一哥，让小鹏、Kimi和猎豹都爽了一把 → [查看](../posts/2026-06-24.md#云计算一哥让小鹏kimi和猎豹都爽了一把)
+- 2026-06-24｜刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码 → [查看](../posts/2026-06-24.md#刚刚豆包21发布agent自己跑18个小时搞定芯片设计代码)
