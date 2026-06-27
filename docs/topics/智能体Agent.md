@@ -106,3 +106,6 @@
 - 2026-06-23｜Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export → [查看](../posts/2026-06-23.md#crawlee-for-python使用机器人处理链接图和-rag-块导出构建-web-爬行管道)
 - 2026-06-24｜云计算一哥，让小鹏、Kimi和猎豹都爽了一把 → [查看](../posts/2026-06-24.md#云计算一哥让小鹏kimi和猎豹都爽了一把)
 - 2026-06-24｜刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码 → [查看](../posts/2026-06-24.md#刚刚豆包21发布agent自己跑18个小时搞定芯片设计代码)
+- 2026-06-27｜Building Supervised Fine-Tuning Data from NVIDIA Open-SWE-Traces: Trajectory Parsing, Patch Analysis, Token Budgets, and Tool-Use Metrics → [查看](../posts/2026-06-27.md#从-nvidia-open-swe-trace-构建有监督的微调数据轨迹解析补丁分析代币预算和工具使用指标)
+- 2026-06-27｜Cursor Study Finds Reward Hacking Inflates Coding-Agent Benchmark Scores on SWE-bench Pro → [查看](../posts/2026-06-27.md#cursor-研究发现奖励黑客行为会抬高-swe-bench-pro-上的-coding-agent-基准分数)
+- 2026-06-27｜Perplexity Launches Computer for Counsel: A Multi-Model Agentic Layer for Legal Workflows → [查看](../posts/2026-06-27.md#perplexity-推出律师计算机法律工作流程的多模型代理层)
