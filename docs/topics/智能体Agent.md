@@ -114,3 +114,7 @@
 - 2026-06-28｜Building Supervised Fine-Tuning Data from NVIDIA Open-SWE-Traces: Trajectory Parsing, Patch Analysis, Token Budgets, and Tool-Use Metrics → [查看](../posts/2026-06-28.md#从-nvidia-open-swe-trace-构建有监督的微调数据轨迹解析补丁分析代币预算和工具使用指标)
 - 2026-06-28｜Cursor Study Finds Reward Hacking Inflates Coding-Agent Benchmark Scores on SWE-bench Pro → [查看](../posts/2026-06-28.md#cursor-研究发现奖励黑客行为会抬高-swe-bench-pro-上的-coding-agent-基准分数)
 - 2026-06-28｜Perplexity Launches Computer for Counsel: A Multi-Model Agentic Layer for Legal Workflows → [查看](../posts/2026-06-28.md#perplexity-推出律师计算机法律工作流程的多模型代理层)
+- 2026-06-29｜BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力 → [查看](../posts/2026-06-29.md#browserbc克隆人类点击让一次网页操作转化为所有agent的能力)
+- 2026-06-29｜Building a Stable Fable 5 Traces Workflow in Colab: Parsing Tool Calls, Auditing Data, and Training Baselines → [查看](../posts/2026-06-29.md#在-colab-中构建稳定的-fable-5-traces-工作流程解析工具调用审核数据和训练基线)
+- 2026-06-29｜Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference → [查看](../posts/2026-06-29.md#liquid-ai-推出-lfm25-230m支持-llamacppmlxvllmsglang-和-onnx支持设备上推理)
+- 2026-06-29｜Meta’s Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read → [查看](../posts/2026-06-29.md#meta-的-astryx-将-cli-和-mcp-服务器引入代理可以读取的开源-react-设计系统)
