@@ -118,3 +118,8 @@
 - 2026-06-29｜Building a Stable Fable 5 Traces Workflow in Colab: Parsing Tool Calls, Auditing Data, and Training Baselines → [查看](../posts/2026-06-29.md#在-colab-中构建稳定的-fable-5-traces-工作流程解析工具调用审核数据和训练基线)
 - 2026-06-29｜Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference → [查看](../posts/2026-06-29.md#liquid-ai-推出-lfm25-230m支持-llamacppmlxvllmsglang-和-onnx支持设备上推理)
 - 2026-06-29｜Meta’s Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read → [查看](../posts/2026-06-29.md#meta-的-astryx-将-cli-和-mcp-服务器引入代理可以读取的开源-react-设计系统)
+- 2026-06-30｜AI agents are not your “coworkers” → [查看](../posts/2026-06-30.md#人工智能代理不是你的同事)
+- 2026-06-30｜Agent confidence on the technical frontier → [查看](../posts/2026-06-30.md#代理商对技术前沿的信心)
+- 2026-06-30｜OpenClaw Releases iOS and Android Companion Node Apps That Connect a Phone to a Self-Hosted AI Agent Gateway → [查看](../posts/2026-06-30.md#openclaw-发布-ios-和-android-配套节点应用程序可将手机连接到自托管-ai-代理网关)
+- 2026-06-30｜PyGraphistry Implementation Workflow for Interactive Graph Intelligence Pipelines in Security Analytics and Risk Investigation → [查看](../posts/2026-06-30.md#安全分析和风险调查中交互式图形智能管道的-pygraphistry-实施工作流程)
+- 2026-06-30｜NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery → [查看](../posts/2026-06-30.md#nvidia-bionemo-agent-工具包将生物分子模型转化为药物发现中-ai-代理的可调用技能)
