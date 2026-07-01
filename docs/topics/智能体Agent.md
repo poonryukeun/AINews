@@ -123,3 +123,5 @@
 - 2026-06-30｜OpenClaw Releases iOS and Android Companion Node Apps That Connect a Phone to a Self-Hosted AI Agent Gateway → [查看](../posts/2026-06-30.md#openclaw-发布-ios-和-android-配套节点应用程序可将手机连接到自托管-ai-代理网关)
 - 2026-06-30｜PyGraphistry Implementation Workflow for Interactive Graph Intelligence Pipelines in Security Analytics and Risk Investigation → [查看](../posts/2026-06-30.md#安全分析和风险调查中交互式图形智能管道的-pygraphistry-实施工作流程)
 - 2026-06-30｜NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery → [查看](../posts/2026-06-30.md#nvidia-bionemo-agent-工具包将生物分子模型转化为药物发现中-ai-代理的可调用技能)
+- 2026-07-01｜AI agents are not your “coworkers” → [查看](../posts/2026-07-01.md#人工智能代理不是你的同事)
+- 2026-07-01｜Agent confidence on the technical frontier → [查看](../posts/2026-07-01.md#代理商对技术前沿的信心)
