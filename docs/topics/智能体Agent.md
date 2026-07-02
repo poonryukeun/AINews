@@ -125,3 +125,4 @@
 - 2026-06-30｜NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery → [查看](../posts/2026-06-30.md#nvidia-bionemo-agent-工具包将生物分子模型转化为药物发现中-ai-代理的可调用技能)
 - 2026-07-01｜AI agents are not your “coworkers” → [查看](../posts/2026-07-01.md#人工智能代理不是你的同事)
 - 2026-07-01｜Agent confidence on the technical frontier → [查看](../posts/2026-07-01.md#代理商对技术前沿的信心)
+- 2026-07-02｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-07-02.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
