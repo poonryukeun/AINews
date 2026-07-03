@@ -126,3 +126,7 @@
 - 2026-07-01｜AI agents are not your “coworkers” → [查看](../posts/2026-07-01.md#人工智能代理不是你的同事)
 - 2026-07-01｜Agent confidence on the technical frontier → [查看](../posts/2026-07-01.md#代理商对技术前沿的信心)
 - 2026-07-02｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-07-02.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
+- 2026-07-03｜让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施 → [查看](../posts/2026-07-03.md#让agent越用越强areal-20开源打造面向自演进智能体的rl基础设施)
+- 2026-07-03｜天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊 → [查看](../posts/2026-07-03.md#天工-32-重磅升级skywork-tags-上线给-agent-一张工牌邀其加入你的工作群聊)
+- 2026-07-03｜Teaching AI to run with the turbines → [查看](../posts/2026-07-03.md#教人工智能与涡轮机一起运行)
+- 2026-07-03｜RAG-Anything Tutorial: Build a Multimodal Retrieval Pipeline for Text, Tables, Equations, and Images in Colab → [查看](../posts/2026-07-03.md#rag-anything-教程在-colab-中构建文本表格方程和图像的多模态检索管道)
