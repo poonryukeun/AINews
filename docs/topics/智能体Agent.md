@@ -133,3 +133,7 @@
 - 2026-07-04｜Teaching AI to run with the turbines → [查看](../posts/2026-07-04.md#教人工智能与涡轮机一起运行)
 - 2026-07-04｜Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Model Solving 587 of 672 PutnamBench Problems → [查看](../posts/2026-07-04.md#mistral-ai-发布-leanstral-15apache-20-lean-4-代码代理模型解决-672-个-putnambench-问题中的-587-个)
 - 2026-07-04｜Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox → [查看](../posts/2026-07-04.md#webbrain一个开源本地优先的-ai-浏览器代理可在-chrome-和-firefox-中读取页面并自动执行任务)
+- 2026-07-05｜Structured PDF-to-JSON: A Guide to Open-Source Extraction Models in 2026 → [查看](../posts/2026-07-05.md#结构化-pdf-到-json2026-年开源提取模型指南)
+- 2026-07-05｜Qwen’s Former Lead on What Hybrid Thinking Got Wrong — and Why He Now Backs Agents → [查看](../posts/2026-07-05.md#qwen-的前任领导关于混合思维的错误之处以及他现在支持特工的原因)
+- 2026-07-05｜Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines → [查看](../posts/2026-07-05.md#anthropic-推出-claude-science-beta用于可重复基因组学蛋白质组学和化学信息学管道的多代理人工智能工作台)
+- 2026-07-05｜NVIDIA HORIZON: A Hands-Free Agent that Evolves Git Worktrees and Hits 100% RTL Benchmark Completion → [查看](../posts/2026-07-05.md#nvidia-horizon一款免提代理可改进-git-工作树并达到-100-rtl-基准测试完成率)
