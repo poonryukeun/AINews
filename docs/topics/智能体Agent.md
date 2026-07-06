@@ -137,3 +137,5 @@
 - 2026-07-05｜Qwen’s Former Lead on What Hybrid Thinking Got Wrong — and Why He Now Backs Agents → [查看](../posts/2026-07-05.md#qwen-的前任领导关于混合思维的错误之处以及他现在支持特工的原因)
 - 2026-07-05｜Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines → [查看](../posts/2026-07-05.md#anthropic-推出-claude-science-beta用于可重复基因组学蛋白质组学和化学信息学管道的多代理人工智能工作台)
 - 2026-07-05｜NVIDIA HORIZON: A Hands-Free Agent that Evolves Git Worktrees and Hits 100% RTL Benchmark Completion → [查看](../posts/2026-07-05.md#nvidia-horizon一款免提代理可改进-git-工作树并达到-100-rtl-基准测试完成率)
+- 2026-07-06｜征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代 → [查看](../posts/2026-07-06.md#征程赶超waic-2026模型与智能体后scaling时代范式重构迈入智能体生产力时代)
+- 2026-07-06｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-07-06.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
