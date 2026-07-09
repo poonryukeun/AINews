@@ -141,3 +141,6 @@
 - 2026-07-06｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-07-06.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
 - 2026-07-07｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-07-07.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
 - 2026-07-08｜The foundational elements of AI architecture that IT leaders need to scale → [查看](../posts/2026-07-08.md#it-领导者需要扩展的-ai-架构的基本元素)
+- 2026-07-09｜阿里斩获国际AI顶会最佳资源论文奖，提出Agent评测新范式 → [查看](../posts/2026-07-09.md#阿里斩获国际ai顶会最佳资源论文奖提出agent评测新范式)
+- 2026-07-09｜The foundational elements of AI architecture that IT leaders need to scale → [查看](../posts/2026-07-09.md#it-领导者需要扩展的-ai-架构的基本元素)
+- 2026-07-09｜SpaceXAI Releases Grok 4.5, a Cursor-Trained Model for Coding, Agentic Tasks, and Knowledge Work at $2/M Input → [查看](../posts/2026-07-09.md#spacexai-发布-grok-45这是一种用于编码代理任务和知识工作的光标训练模型输入费用为-2-美元月)
