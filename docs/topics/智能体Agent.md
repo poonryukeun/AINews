@@ -144,3 +144,6 @@
 - 2026-07-09｜阿里斩获国际AI顶会最佳资源论文奖，提出Agent评测新范式 → [查看](../posts/2026-07-09.md#阿里斩获国际ai顶会最佳资源论文奖提出agent评测新范式)
 - 2026-07-09｜The foundational elements of AI architecture that IT leaders need to scale → [查看](../posts/2026-07-09.md#it-领导者需要扩展的-ai-架构的基本元素)
 - 2026-07-09｜SpaceXAI Releases Grok 4.5, a Cursor-Trained Model for Coding, Agentic Tasks, and Knowledge Work at $2/M Input → [查看](../posts/2026-07-09.md#spacexai-发布-grok-45这是一种用于编码代理任务和知识工作的光标训练模型输入费用为-2-美元月)
+- 2026-07-10｜Anthropic found a hidden space where Claude puzzles over concepts → [查看](../posts/2026-07-10.md#人类发现了一个隐藏的空间克劳德在这里对概念感到困惑)
+- 2026-07-10｜Meta Superintelligence Labs Releases Muse Spark 1.1: A Multimodal Reasoning Model for Agentic Tasks on Meta Model API → [查看](../posts/2026-07-10.md#meta-超级智能实验室发布-muse-spark-11基于-meta-model-api-的代理任务多模态推理模型)
+- 2026-07-10｜OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API → [查看](../posts/2026-07-10.md#openai-发布-gpt-56solterraluna一个三层模型系列在响应-api-中提供编程工具调用)
