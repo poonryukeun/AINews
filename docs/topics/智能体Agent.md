@@ -150,3 +150,5 @@
 - 2026-07-11｜日均提问次数暴增 20 倍！百度搭子宣布重磅升级，企业版同步发布 → [查看](../posts/2026-07-11.md#日均提问次数暴增-20-倍百度搭子宣布重磅升级企业版同步发布)
 - 2026-07-11｜Anthropic found a hidden space where Claude puzzles over concepts → [查看](../posts/2026-07-11.md#人类发现了一个隐藏的空间克劳德在这里对概念感到困惑)
 - 2026-07-11｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-07-11.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
+- 2026-07-12｜GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent → [查看](../posts/2026-07-12.md#gpt-56一小时解开50年数学猜想700词prompt驾驭64个子agent)
+- 2026-07-12｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-07-12.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
