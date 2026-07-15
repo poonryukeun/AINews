@@ -162,3 +162,6 @@
 - 2026-07-14｜Prime Intellect Releases Verifiers v1: Composable Tasksets, Harnesses, and Runtimes for Agentic RL Training and Evaluations → [查看](../posts/2026-07-14.md#prime-intellect-发布-verifiers-v1用于-agentic-rl-训练和评估的可组合任务集工具和运行时)
 - 2026-07-14｜Guide to Loop Engineering: How ‘autoresearch’ and ‘Bilevel Autoresearch’ Turn AI Agents Into Autonomous Machine Learning ML Research Loops → [查看](../posts/2026-07-14.md#循环工程指南自动研究和双层自动研究如何将-ai-代理转变为自主机器学习-ml-研究循环)
 - 2026-07-14｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-07-14.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
+- 2026-07-15｜阶跃入局，重构智能体时代操作系统 → [查看](../posts/2026-07-15.md#阶跃入局重构智能体时代操作系统)
+- 2026-07-15｜Mistral Vibe for Code vs Claude Code vs Cursor vs Codex: Four Agents Scored on One Scaffold-to-PR Task → [查看](../posts/2026-07-15.md#mistral-vibe-for-code-vs-claude-code-vs-cursor-vs-codex四名智能体在一项脚手架到公关任务中得分)
+- 2026-07-15｜Meet Blume: An Open-Source, Zero-Config Documentation Framework That Ships AI-Ready Docs From a Markdown Folder → [查看](../posts/2026-07-15.md#认识-blume一个开源零配置的文档框架可从-markdown-文件夹发送-ai-就绪文档)
