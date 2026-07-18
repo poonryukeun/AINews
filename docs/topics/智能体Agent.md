@@ -168,3 +168,7 @@
 - 2026-07-16｜荣膺2026 WAIC“镇馆之宝”！大模型原生智能体手机STEPX Neo解锁AI交互新范式 → [查看](../posts/2026-07-16.md#荣膺2026-waic镇馆之宝大模型原生智能体手机stepx-neo解锁ai交互新范式)
 - 2026-07-17｜Patter SDK Guide to Building a Restaurant Booking Phone Agent with Dynamic Variables, Guardrails, Latency Dashboards, and Eval Checks → [查看](../posts/2026-07-17.md#patter-sdk-指南用于构建具有动态变量护栏延迟仪表板和评估检查的餐厅预订电话代理)
 - 2026-07-17｜SpaceXAI Open-Sources Grok Build: The Rust Agent Harness, TUI, and Tool Layer Behind Its Coding CLI → [查看](../posts/2026-07-17.md#spacexai-开源-grok-buildrust-agent-harnesstui-及其编码-cli-背后的工具层)
+- 2026-07-18｜PPIO发布智能模型网关，打造面向Agent时代的智能Token工厂 → [查看](../posts/2026-07-18.md#ppio发布智能模型网关打造面向agent时代的智能token工厂)
+- 2026-07-18｜WAIC 2026 | 如果Agent有性格，你的智能伙伴会是什么样的？ → [查看](../posts/2026-07-18.md#waic-2026-如果agent有性格你的智能伙伴会是什么样的)
+- 2026-07-18｜WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80% → [查看](../posts/2026-07-18.md#waic-2026商汤大装置发布算电协同agent单位电力成本token产出提升80)
+- 2026-07-18｜Build an Agentic Event Venue Operator with MongoDB Atlas, Voyage, and LangGraph → [查看](../posts/2026-07-18.md#使用-mongodb-atlasvoyage-和-langgraph-构建代理活动场地运营商)
