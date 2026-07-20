@@ -176,3 +176,4 @@
 - 2026-07-19｜Fine-Tuning Qwen3 with LoRA Using NVIDIA NeMo AutoModel: A Complete Single-GPU Google Colab Workflow Tutorial → [查看](../posts/2026-07-19.md#使用-nvidia-nemo-automodel-通过-lora-微调-qwen3完整的单-gpu-google-colab-工作流程教程)
 - 2026-07-19｜NVIDIA Released DeepStream 9.1: Bringing Agentic AI to Vision AI With 13 Skills and Multi-View 3D Tracking → [查看](../posts/2026-07-19.md#nvidia-发布-deepstream-91通过-13-项技能和多视图-3d-跟踪将-agentic-ai-引入视觉-ai)
 - 2026-07-19｜Google Cloud’s Always-On Memory Agent Replaces RAG and Embeddings With Continuous LLM Consolidation on Gemini 3.1 Flash-Lite → [查看](../posts/2026-07-19.md#google-cloud-始终在线的内存代理在-gemini-31-flash-lite-上通过持续的-llm-整合取代了-rag-和嵌入)
+- 2026-07-20｜Perplexity AI Releases WANDR: An Open Benchmark Evaluating Research Agents That Must Search Wide And Deep → [查看](../posts/2026-07-20.md#perplexity-ai-发布-wandr评估必须广泛和深入搜索的研究代理的开放基准)
