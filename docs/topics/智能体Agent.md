@@ -179,3 +179,6 @@
 - 2026-07-20｜Perplexity AI Releases WANDR: An Open Benchmark Evaluating Research Agents That Must Search Wide And Deep → [查看](../posts/2026-07-20.md#perplexity-ai-发布-wandr评估必须广泛和深入搜索的研究代理的开放基准)
 - 2026-07-21｜不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面 → [查看](../posts/2026-07-21.md#不同模型厂同一家agentic-infraagi时代的地基终于浮出水面)
 - 2026-07-21｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-07-21.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
+- 2026-07-22｜不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面 → [查看](../posts/2026-07-22.md#不同模型厂同一家agentic-infraagi时代的地基终于浮出水面)
+- 2026-07-22｜Poolside Releases Laguna S 2.1, an Open-Weight Agentic Coding Model Punching Above Its Weight Class on SWE-Bench Multilingual → [查看](../posts/2026-07-22.md#poolside-发布-laguna-s-21这是一种开放权重代理编码模型在-swe-bench-多语言上超越其权重级别)
+- 2026-07-22｜Google Releases Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber: A Cheaper, More Token-Efficient Flash Tier Built for Agentic Workloads → [查看](../posts/2026-07-22.md#google-发布-gemini-36-flash35-flash-lite-和-35-flash-cyber专为代理工作负载构建的更便宜更高效的闪存层)
