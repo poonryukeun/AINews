@@ -184,3 +184,5 @@
 - 2026-07-22｜Google Releases Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber: A Cheaper, More Token-Efficient Flash Tier Built for Agentic Workloads → [查看](../posts/2026-07-22.md#google-发布-gemini-36-flash35-flash-lite-和-35-flash-cyber专为代理工作负载构建的更便宜更高效的闪存层)
 - 2026-07-23｜百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军 → [查看](../posts/2026-07-23.md#百度文心助手任务agent登顶国际权威榜单超越claudegpt拿下全球智能体冠军)
 - 2026-07-23｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-07-23.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
+- 2026-07-24｜智能体政策新闻相关背景和简要解读 → [查看](../posts/2026-07-24.md#智能体政策新闻相关背景和简要解读)
+- 2026-07-24｜Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat → [查看](../posts/2026-07-24.md#andrew-ng-刚刚发布了-openworker一款开源本地优先的桌面-ai-同事可返回已完成的交付成果而不是聊天)
