@@ -188,3 +188,7 @@
 - 2026-07-24｜Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat → [查看](../posts/2026-07-24.md#andrew-ng-刚刚发布了-openworker一款开源本地优先的桌面-ai-同事可返回已完成的交付成果而不是聊天)
 - 2026-07-25｜长内容创作者苦AI失忆久矣，这个新Agent漂亮填坑！门槛低到只需要会用键盘打字 → [查看](../posts/2026-07-25.md#长内容创作者苦ai失忆久矣这个新agent漂亮填坑门槛低到只需要会用键盘打字)
 - 2026-07-25｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-07-25.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
+- 2026-07-26｜100%开源！吴恩达做了个个人桌面Agent → [查看](../posts/2026-07-26.md#100开源吴恩达做了个个人桌面agent)
+- 2026-07-26｜北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡 → [查看](../posts/2026-07-26.md#北京说agent已经能造世界杭州却说它是刚发明的电灯泡)
+- 2026-07-26｜Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers → [查看](../posts/2026-07-26.md#为什么-openai-代理会闯入抱脸为工程师解释奖励黑客行为而不是恶意行为)
+- 2026-07-26｜Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse → [查看](../posts/2026-07-26.md#使用-openspace-使用技能mcp血统和低成本重用构建自我进化的-ai-代理)
