@@ -192,3 +192,6 @@
 - 2026-07-26｜北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡 → [查看](../posts/2026-07-26.md#北京说agent已经能造世界杭州却说它是刚发明的电灯泡)
 - 2026-07-26｜Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers → [查看](../posts/2026-07-26.md#为什么-openai-代理会闯入抱脸为工程师解释奖励黑客行为而不是恶意行为)
 - 2026-07-26｜Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse → [查看](../posts/2026-07-26.md#使用-openspace-使用技能mcp血统和低成本重用构建自我进化的-ai-代理)
+- 2026-07-27｜100%开源！吴恩达做了个个人桌面Agent → [查看](../posts/2026-07-27.md#100开源吴恩达做了个个人桌面agent)
+- 2026-07-27｜北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡 → [查看](../posts/2026-07-27.md#北京说agent已经能造世界杭州却说它是刚发明的电灯泡)
+- 2026-07-27｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-07-27.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
