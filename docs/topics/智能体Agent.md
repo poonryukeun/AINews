@@ -195,3 +195,6 @@
 - 2026-07-27｜100%开源！吴恩达做了个个人桌面Agent → [查看](../posts/2026-07-27.md#100开源吴恩达做了个个人桌面agent)
 - 2026-07-27｜北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡 → [查看](../posts/2026-07-27.md#北京说agent已经能造世界杭州却说它是刚发明的电灯泡)
 - 2026-07-27｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-07-27.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
+- 2026-07-28｜智能体走向终端，个人AI时代正在到来 → [查看](../posts/2026-07-28.md#智能体走向终端个人ai时代正在到来)
+- 2026-07-28｜The path to artificial superintelligence → [查看](../posts/2026-07-28.md#通往超级人工智能之路)
+- 2026-07-28｜Building the enterprise environment for agentic AI → [查看](../posts/2026-07-28.md#构建代理人工智能的企业环境)
