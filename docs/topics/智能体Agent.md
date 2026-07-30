@@ -205,3 +205,7 @@
 - 2026-07-29｜智能体走向终端，个人AI时代正在到来 → [查看](../posts/2026-07-29.md#智能体走向终端个人ai时代正在到来)
 - 2026-07-29｜The path to artificial superintelligence → [查看](../posts/2026-07-29.md#通往超级人工智能之路)
 - 2026-07-29｜Building the enterprise environment for agentic AI → [查看](../posts/2026-07-29.md#构建代理人工智能的企业环境)
+- 2026-07-30｜超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一 → [查看](../posts/2026-07-30.md#超越openaianthropic国产ai安全智能体杀进全球前四国内第一)
+- 2026-07-30｜首个鸿蒙PC开源AI统一工作台JiuwenSwarm，办公编程一站式搞定 → [查看](../posts/2026-07-30.md#首个鸿蒙pc开源ai统一工作台jiuwenswarm办公编程一站式搞定)
+- 2026-07-30｜周鸿祎发布纳米Work：新一代企业智能体工作平台，为企业而生 → [查看](../posts/2026-07-30.md#周鸿祎发布纳米work新一代企业智能体工作平台为企业而生)
+- 2026-07-30｜Building Non-Interactive Agentic Coding Workflows with Moonshot AI’s Kimi CLI, JSONL Streaming, Testing, and Session Memory → [查看](../posts/2026-07-30.md#使用-moonshot-ai-的-kimi-clijsonl-流测试和会话内存构建非交互式代理编码工作流程)
