@@ -209,3 +209,5 @@
 - 2026-07-30｜首个鸿蒙PC开源AI统一工作台JiuwenSwarm，办公编程一站式搞定 → [查看](../posts/2026-07-30.md#首个鸿蒙pc开源ai统一工作台jiuwenswarm办公编程一站式搞定)
 - 2026-07-30｜周鸿祎发布纳米Work：新一代企业智能体工作平台，为企业而生 → [查看](../posts/2026-07-30.md#周鸿祎发布纳米work新一代企业智能体工作平台为企业而生)
 - 2026-07-30｜Building Non-Interactive Agentic Coding Workflows with Moonshot AI’s Kimi CLI, JSONL Streaming, Testing, and Session Memory → [查看](../posts/2026-07-30.md#使用-moonshot-ai-的-kimi-clijsonl-流测试和会话内存构建非交互式代理编码工作流程)
+- 2026-07-31｜WorkBuddy重大升级，AI时代的Office来了 → [查看](../posts/2026-07-31.md#workbuddy重大升级ai时代的office来了)
+- 2026-07-31｜Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99% → [查看](../posts/2026-07-31.md#了解-token-saver使用本地混合-rag-的开源-mcp-扩展可将-claude-pdf-令牌成本削减-90-99)
