@@ -211,3 +211,7 @@
 - 2026-07-30｜Building Non-Interactive Agentic Coding Workflows with Moonshot AI’s Kimi CLI, JSONL Streaming, Testing, and Session Memory → [查看](../posts/2026-07-30.md#使用-moonshot-ai-的-kimi-clijsonl-流测试和会话内存构建非交互式代理编码工作流程)
 - 2026-07-31｜WorkBuddy重大升级，AI时代的Office来了 → [查看](../posts/2026-07-31.md#workbuddy重大升级ai时代的office来了)
 - 2026-07-31｜Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99% → [查看](../posts/2026-07-31.md#了解-token-saver使用本地混合-rag-的开源-mcp-扩展可将-claude-pdf-令牌成本削减-90-99)
+- 2026-08-01｜米哈游蔡浩宇AI创业生变 → [查看](../posts/2026-08-01.md#米哈游蔡浩宇ai创业生变)
+- 2026-08-01｜DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains → [查看](../posts/2026-08-01.md#deepseek-升级-deepseek-v4-flash-0731在代理和编码方面取得重大进展)
+- 2026-08-01｜JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI → [查看](../posts/2026-08-01.md#jetbrains-开源-kotlinllm在运行时生成-kotlin-源代码并通过-jdi-热重载的智能宏)
+- 2026-08-01｜Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block’s Open Source Nostr Workspace for Humans and Agents → [查看](../posts/2026-08-01.md#nous-research-为-hermes-agent-和-buzzblock-的人类和代理开源-nostr-工作区提供了三种集成路径)
