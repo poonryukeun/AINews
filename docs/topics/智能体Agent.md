@@ -215,3 +215,5 @@
 - 2026-08-01｜DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains → [查看](../posts/2026-08-01.md#deepseek-升级-deepseek-v4-flash-0731在代理和编码方面取得重大进展)
 - 2026-08-01｜JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI → [查看](../posts/2026-08-01.md#jetbrains-开源-kotlinllm在运行时生成-kotlin-源代码并通过-jdi-热重载的智能宏)
 - 2026-08-01｜Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block’s Open Source Nostr Workspace for Humans and Agents → [查看](../posts/2026-08-01.md#nous-research-为-hermes-agent-和-buzzblock-的人类和代理开源-nostr-工作区提供了三种集成路径)
+- 2026-08-02｜Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks → [查看](../posts/2026-08-02.md#supabase-发布-evals一个开源基准测试可在真实-supabase-任务上对-claude-codecodex-和-opencode-进行评分)
+- 2026-08-02｜DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains → [查看](../posts/2026-08-02.md#deepseek-升级-deepseek-v4-flash-0731在代理和编码方面取得重大进展)
