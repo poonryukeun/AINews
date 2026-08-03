@@ -217,3 +217,5 @@
 - 2026-08-01｜Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block’s Open Source Nostr Workspace for Humans and Agents → [查看](../posts/2026-08-01.md#nous-research-为-hermes-agent-和-buzzblock-的人类和代理开源-nostr-工作区提供了三种集成路径)
 - 2026-08-02｜Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks → [查看](../posts/2026-08-02.md#supabase-发布-evals一个开源基准测试可在真实-supabase-任务上对-claude-codecodex-和-opencode-进行评分)
 - 2026-08-02｜DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains → [查看](../posts/2026-08-02.md#deepseek-升级-deepseek-v4-flash-0731在代理和编码方面取得重大进展)
+- 2026-08-03｜AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化 → [查看](../posts/2026-08-03.md#ai不再用完即忘华为诺亚开源mindmemos记忆和skill一起进化)
+- 2026-08-03｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-08-03.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
