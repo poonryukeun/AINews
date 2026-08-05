@@ -220,3 +220,6 @@
 - 2026-08-03｜AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化 → [查看](../posts/2026-08-03.md#ai不再用完即忘华为诺亚开源mindmemos记忆和skill一起进化)
 - 2026-08-03｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-08-03.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
 - 2026-08-04｜Here’s why AI agents lie and cheat to reach their goals → [查看](../posts/2026-08-04.md#error-500-server-error1500thats-an-errorthere-was-an-error-please-try-again-late)
+- 2026-08-05｜开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills → [查看](../posts/2026-08-05.md#开源版claude-science来了零依赖mit协议内置30项科研skills)
+- 2026-08-05｜开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟 → [查看](../posts/2026-08-05.md#开发者苦-造轮子-久矣harmonyos-7-正在抹平系统能力的接入鸿沟)
+- 2026-08-05｜Here’s why AI agents lie and cheat to reach their goals → [查看](../posts/2026-08-05.md#error-500-server-error1500thats-an-errorthere-was-an-error-please-try-again-late)
