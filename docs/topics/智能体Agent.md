@@ -223,3 +223,8 @@
 - 2026-08-05｜开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills → [查看](../posts/2026-08-05.md#开源版claude-science来了零依赖mit协议内置30项科研skills)
 - 2026-08-05｜开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟 → [查看](../posts/2026-08-05.md#开发者苦-造轮子-久矣harmonyos-7-正在抹平系统能力的接入鸿沟)
 - 2026-08-05｜Here’s why AI agents lie and cheat to reach their goals → [查看](../posts/2026-08-05.md#error-500-server-error1500thats-an-errorthere-was-an-error-please-try-again-late)
+- 2026-08-06｜开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills → [查看](../posts/2026-08-06.md#开源版claude-science来了零依赖mit协议内置30项科研skills)
+- 2026-08-06｜Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses → [查看](../posts/2026-08-06.md#microsoft-的-skillopt-展示了优化的代理技能工件跨模型规模以及-codex-和-claude-code-harness-之间的迁移)
+- 2026-08-06｜End-to-End Bayesian Marketing Mix Modeling with Google Meridian: Media Measurement, ROI Analysis, and Budget Optimization → [查看](../posts/2026-08-06.md#使用-google-meridian-进行端到端贝叶斯营销组合建模媒体测量投资回报率分析和预算优化)
+- 2026-08-06｜Meta AI Releases Muse Code (Beta): A Terminal Coding Agent Powered by the New Muse Spark 1.2 Model → [查看](../posts/2026-08-06.md#meta-ai-发布-muse-codebeta由新-muse-spark-12-模型支持的终端编码代理)
+- 2026-08-06｜CopilotKit Open Sources Channels SDK: An MIT Licensed Library That Runs Any AG-UI Agent Inside Slack And Microsoft Teams → [查看](../posts/2026-08-06.md#copilotkit-开源-channels-sdkmit-许可的库可在-slack-和-microsoft-teams-内部运行任何-ag-ui-代理)
