@@ -228,3 +228,5 @@
 - 2026-08-06｜End-to-End Bayesian Marketing Mix Modeling with Google Meridian: Media Measurement, ROI Analysis, and Budget Optimization → [查看](../posts/2026-08-06.md#使用-google-meridian-进行端到端贝叶斯营销组合建模媒体测量投资回报率分析和预算优化)
 - 2026-08-06｜Meta AI Releases Muse Code (Beta): A Terminal Coding Agent Powered by the New Muse Spark 1.2 Model → [查看](../posts/2026-08-06.md#meta-ai-发布-muse-codebeta由新-muse-spark-12-模型支持的终端编码代理)
 - 2026-08-06｜CopilotKit Open Sources Channels SDK: An MIT Licensed Library That Runs Any AG-UI Agent Inside Slack And Microsoft Teams → [查看](../posts/2026-08-06.md#copilotkit-开源-channels-sdkmit-许可的库可在-slack-和-microsoft-teams-内部运行任何-ag-ui-代理)
+- 2026-08-07｜Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一 → [查看](../posts/2026-08-07.md#artificial-analysis榜单阿里qwen38agentic能力得分全球第一)
+- 2026-08-07｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-08-07.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
