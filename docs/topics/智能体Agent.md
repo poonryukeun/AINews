@@ -230,3 +230,8 @@
 - 2026-08-06｜CopilotKit Open Sources Channels SDK: An MIT Licensed Library That Runs Any AG-UI Agent Inside Slack And Microsoft Teams → [查看](../posts/2026-08-06.md#copilotkit-开源-channels-sdkmit-许可的库可在-slack-和-microsoft-teams-内部运行任何-ag-ui-代理)
 - 2026-08-07｜Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一 → [查看](../posts/2026-08-07.md#artificial-analysis榜单阿里qwen38agentic能力得分全球第一)
 - 2026-08-07｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-08-07.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
+- 2026-08-08｜蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作 → [查看](../posts/2026-08-08.md#蚂蚁集团开源avernet让人与智能体像组织一样高效协作)
+- 2026-08-08｜Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents → [查看](../posts/2026-08-08.md#腾讯云开源tencentdb-agent-memory-v20面向ai-coding-agent的团队级内存中心)
+- 2026-08-08｜NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class → [查看](../posts/2026-08-08.md#nvidia-ai-发布-nooa一个面向对象的-python-框架可将-ai-代理转变为单个-python-类)
+- 2026-08-08｜Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot → [查看](../posts/2026-08-08.md#microsoft-开源代码测试生成器多语言单元测试代理的任务完成率达到-921而-stock-copilot-的任务完成率为-789)
+- 2026-08-08｜Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights → [查看](../posts/2026-08-08.md#liquid-ai-发布-lfm25-26b具有-128k-上下文工具调用和开放权重的设备上代理模型)
