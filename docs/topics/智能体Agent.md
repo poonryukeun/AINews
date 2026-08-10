@@ -239,3 +239,4 @@
 - 2026-08-09｜Meet Shepherd: An Open-Source Python Substrate That Lets Meta-Agents Fork, Replay, and Revert Any Agent Run → [查看](../posts/2026-08-09.md#认识一下-shepherd一个开源-python-底层允许元代理分叉重放和恢复任何代理运行)
 - 2026-08-09｜Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary → [查看](../posts/2026-08-09.md#pokee-ai-发布-pokee-isaac-28b专为在客户边界内运行而构建的-10m-代币上下文代理模型)
 - 2026-08-09｜Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents → [查看](../posts/2026-08-09.md#腾讯云开源tencentdb-agent-memory-v20面向ai-coding-agent的团队级内存中心)
+- 2026-08-10｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-08-10.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
