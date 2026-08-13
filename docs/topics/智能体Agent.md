@@ -244,3 +244,5 @@
 - 2026-08-11｜Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅 → [查看](../posts/2026-08-11.md#meoo秒悟团队版全量上线-接入qwen-38-max即日起可直接订阅)
 - 2026-08-12｜当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三 → [查看](../posts/2026-08-12.md#当ai开始自作主张谁来为智能体戴上项圈全球ai安全实战化大考中国方案打入前三)
 - 2026-08-12｜Building and Validating a Quantitative Trading Strategy with OctoBot, Walk-Forward Backtesting, Parameter Optimization, and Interactive Analysis → [查看](../posts/2026-08-12.md#使用-octobot前向回测参数优化和交互式分析构建和验证量化交易策略)
+- 2026-08-13｜Scaling AI agents with trustworthy data → [查看](../posts/2026-08-13.md#使用可信数据扩展人工智能代理)
+- 2026-08-13｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-08-13.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
