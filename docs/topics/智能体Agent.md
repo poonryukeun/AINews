@@ -246,3 +246,7 @@
 - 2026-08-12｜Building and Validating a Quantitative Trading Strategy with OctoBot, Walk-Forward Backtesting, Parameter Optimization, and Interactive Analysis → [查看](../posts/2026-08-12.md#使用-octobot前向回测参数优化和交互式分析构建和验证量化交易策略)
 - 2026-08-13｜Scaling AI agents with trustworthy data → [查看](../posts/2026-08-13.md#使用可信数据扩展人工智能代理)
 - 2026-08-13｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-08-13.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
+- 2026-08-14｜4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围 → [查看](../posts/2026-08-14.md#48亿美元砸向端侧算力agent芯片新贵冲出重围)
+- 2026-08-14｜Scaling AI agents with trustworthy data → [查看](../posts/2026-08-14.md#使用可信数据扩展人工智能代理)
+- 2026-08-14｜Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens → [查看](../posts/2026-08-14.md#google-ai-刚刚发布-gemini-37-flash编码和代理模型每-100-万个输入代币价格为-075-美元)
+- 2026-08-14｜Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Reads Screens, Grounds Objects, and Calls Tools On-Device → [查看](../posts/2026-08-14.md#liquid-ai-发布-lfm25-vl-3b一种-3b-视觉语言模型可读取屏幕接地物体并调用设备上的工具)
