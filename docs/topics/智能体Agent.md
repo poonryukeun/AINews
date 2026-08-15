@@ -250,3 +250,6 @@
 - 2026-08-14｜Scaling AI agents with trustworthy data → [查看](../posts/2026-08-14.md#使用可信数据扩展人工智能代理)
 - 2026-08-14｜Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens → [查看](../posts/2026-08-14.md#google-ai-刚刚发布-gemini-37-flash编码和代理模型每-100-万个输入代币价格为-075-美元)
 - 2026-08-14｜Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Reads Screens, Grounds Objects, and Calls Tools On-Device → [查看](../posts/2026-08-14.md#liquid-ai-发布-lfm25-vl-3b一种-3b-视觉语言模型可读取屏幕接地物体并调用设备上的工具)
+- 2026-08-15｜4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围 → [查看](../posts/2026-08-15.md#48亿美元砸向端侧算力agent芯片新贵冲出重围)
+- 2026-08-15｜Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM → [查看](../posts/2026-08-15.md#meet-needle-2开放的-45m-参数工具调用模型以-14mb-二进制文件形式提供并在-28mb-ram-中运行完整会话)
+- 2026-08-15｜Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus → [查看](../posts/2026-08-15.md#创建以推理为重点的法学硕士流式传输管理和微调-supralabs-推理语料库的实用指南)
