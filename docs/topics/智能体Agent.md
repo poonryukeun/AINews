@@ -253,3 +253,5 @@
 - 2026-08-15｜4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围 → [查看](../posts/2026-08-15.md#48亿美元砸向端侧算力agent芯片新贵冲出重围)
 - 2026-08-15｜Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM → [查看](../posts/2026-08-15.md#meet-needle-2开放的-45m-参数工具调用模型以-14mb-二进制文件形式提供并在-28mb-ram-中运行完整会话)
 - 2026-08-15｜Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus → [查看](../posts/2026-08-15.md#创建以推理为重点的法学硕士流式传输管理和微调-supralabs-推理语料库的实用指南)
+- 2026-08-16｜源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude → [查看](../posts/2026-08-16.md#源神启动一张消费级显卡跑opus级agentqwen38-27b多项榜单反超claude)
+- 2026-08-16｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-08-16.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
