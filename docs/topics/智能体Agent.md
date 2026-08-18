@@ -258,3 +258,5 @@
 - 2026-08-17｜WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队 → [查看](../posts/2026-08-17.md#workswarm引领办公智能体新范式让ai从一个助手进化为一支与你并肩作战的团队)
 - 2026-08-17｜源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude → [查看](../posts/2026-08-17.md#源神启动一张消费级显卡跑opus级agentqwen38-27b多项榜单反超claude)
 - 2026-08-17｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-08-17.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
+- 2026-08-18｜WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队 → [查看](../posts/2026-08-18.md#workswarm引领办公智能体新范式让ai从一个助手进化为一支与你并肩作战的团队)
+- 2026-08-18｜ByteDance Seed and Tsinghua AIR Introduces CUDA Agent: A Large-Scale Agentic RL System for CUDA Kernel Generation → [查看](../posts/2026-08-18.md#字节跳动seed与清华air推出cuda-agent用于cuda内核生成的大规模代理强化学习系统)
