@@ -264,3 +264,7 @@
 - 2026-08-19｜6个Agent组团Vibe Gaming：自己生成、试玩、修Bug → [查看](../posts/2026-08-19.md#6个agent组团vibe-gaming自己生成试玩修bug)
 - 2026-08-19｜阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了 → [查看](../posts/2026-08-19.md#阿里杀进agent上下文战场钉钉聊天企业文档工作数据终于要被agent吃进去了)
 - 2026-08-20｜IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选 → [查看](../posts/2026-08-20.md#idc发布2026中国ai50强360以智能体安全双轮驱动入选)
+- 2026-08-21｜Debates over AI consciousness are a trap → [查看](../posts/2026-08-21.md#关于人工智能意识的争论是一个陷阱)
+- 2026-08-21｜Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era → [查看](../posts/2026-08-21.md#认识-updf专为代理时代打造的轻量级-adobe-替代品)
+- 2026-08-21｜Auditing Preference Biases and Fine-Tuning Language Models with Direct Preference Optimization on Anthropic HH-RLHF Using TRL and LoRA → [查看](../posts/2026-08-21.md#使用-trl-和-lora-对-anthropic-hh-rlhf-进行直接偏好优化来审核偏好偏差并微调语言模型)
+- 2026-08-21｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-08-21.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
