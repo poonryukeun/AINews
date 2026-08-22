@@ -268,3 +268,5 @@
 - 2026-08-21｜Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era → [查看](../posts/2026-08-21.md#认识-updf专为代理时代打造的轻量级-adobe-替代品)
 - 2026-08-21｜Auditing Preference Biases and Fine-Tuning Language Models with Direct Preference Optimization on Anthropic HH-RLHF Using TRL and LoRA → [查看](../posts/2026-08-21.md#使用-trl-和-lora-对-anthropic-hh-rlhf-进行直接偏好优化来审核偏好偏差并微调语言模型)
 - 2026-08-21｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-08-21.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
+- 2026-08-22｜明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景 → [查看](../posts/2026-08-22.md#明略科技携手海康机器人亮相世界机器人大会以agent具身联合进入商业机器人场景)
+- 2026-08-22｜Debates over AI consciousness are a trap → [查看](../posts/2026-08-22.md#关于人工智能意识的争论是一个陷阱)
