@@ -270,3 +270,6 @@
 - 2026-08-21｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-08-21.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
 - 2026-08-22｜明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景 → [查看](../posts/2026-08-22.md#明略科技携手海康机器人亮相世界机器人大会以agent具身联合进入商业机器人场景)
 - 2026-08-22｜Debates over AI consciousness are a trap → [查看](../posts/2026-08-22.md#关于人工智能意识的争论是一个陷阱)
+- 2026-08-23｜明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景 → [查看](../posts/2026-08-23.md#明略科技携手海康机器人亮相世界机器人大会以agent具身联合进入商业机器人场景)
+- 2026-08-23｜Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each → [查看](../posts/2026-08-23.md#解码人工智能的开源课程映射了运行代理循环的三种方式以及每种方式背后的提供商经济学)
+- 2026-08-23｜Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure → [查看](../posts/2026-08-23.md#构建代理文档智能管道使用-autofigure-创建科学图形)
