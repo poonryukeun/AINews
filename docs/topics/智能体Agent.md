@@ -284,3 +284,6 @@
 - 2026-08-26｜人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机 → [查看](../posts/2026-08-26.md#人民教育音像数字出版社与小猿达成合作-中小学课本学习智能体首落小猿ai学习机)
 - 2026-08-27｜工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI → [查看](../posts/2026-08-27.md#工业agent不是套壳大模型西门子百年经验灌进工业ai)
 - 2026-08-27｜The inside story on why OpenAI agents hacked Hugging Face → [查看](../posts/2026-08-27.md#openai-特工黑客入侵-hugging-face-的内幕)
+- 2026-08-28｜全球首款专为iPhone用户打造的Agent耳机正式发布，有道AI耳机让声音变成生产力 → [查看](../posts/2026-08-28.md#全球首款专为iphone用户打造的agent耳机正式发布有道ai耳机让声音变成生产力)
+- 2026-08-28｜The inside story on why OpenAI agents hacked Hugging Face → [查看](../posts/2026-08-28.md#openai-特工黑客入侵-hugging-face-的内幕)
+- 2026-08-28｜Best Agent Sandboxes in 2026: Cold Start, Per-Second Pricing, and Network Policy Across E2B, Daytona, Modal, Cloudflare, and Vercel → [查看](../posts/2026-08-28.md#2026-年最佳代理沙盒跨-e2bdaytonamodalcloudflare-和-vercel-的冷启动每秒定价和网络策略)
