@@ -289,3 +289,6 @@
 - 2026-08-28｜Best Agent Sandboxes in 2026: Cold Start, Per-Second Pricing, and Network Policy Across E2B, Daytona, Modal, Cloudflare, and Vercel → [查看](../posts/2026-08-28.md#2026-年最佳代理沙盒跨-e2bdaytonamodalcloudflare-和-vercel-的冷启动每秒定价和网络策略)
 - 2026-08-29｜刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500% → [查看](../posts/2026-08-29.md#刚刚港股agi第一股杀疯了agent业务半年进账近5亿token收入q2暴涨500)
 - 2026-08-29｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-08-29.md#error-500-server-error1500thats-an-errorthere-was-an-error-please-try-again-late)
+- 2026-08-30｜刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500% → [查看](../posts/2026-08-30.md#刚刚港股agi第一股杀疯了agent业务半年进账近5亿token收入q2暴涨500)
+- 2026-08-30｜Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs → [查看](../posts/2026-08-30.md#error-500-server-error1500thats-an-errorthere-was-an-error-please-try-again-late)
+- 2026-08-30｜Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio → [查看](../posts/2026-08-30.md#error-500-server-error1500thats-an-errorthere-was-an-error-please-try-again-late)
