@@ -292,3 +292,5 @@
 - 2026-08-30｜刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500% → [查看](../posts/2026-08-30.md#刚刚港股agi第一股杀疯了agent业务半年进账近5亿token收入q2暴涨500)
 - 2026-08-30｜Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs → [查看](../posts/2026-08-30.md#error-500-server-error1500thats-an-errorthere-was-an-error-please-try-again-late)
 - 2026-08-30｜Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio → [查看](../posts/2026-08-30.md#error-500-server-error1500thats-an-errorthere-was-an-error-please-try-again-late)
+- 2026-08-31｜AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验 → [查看](../posts/2026-08-31.md#aqua让量化研究-agent-持续进化也让回测结果经得起检验)
+- 2026-08-31｜ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professi → [查看](../posts/2026-08-31.md#产品2026-年-6-月-30-日推出-claude-sonnet-5sonnet-5-在编码代理和专业领域提供前沿性能)
