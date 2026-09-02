@@ -300,3 +300,8 @@
 - 2026-09-01｜Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark → [查看](../posts/2026-09-01.md#适用于语音和实时代理的最低延迟推理-api首次通证时间-ttft-优先基准)
 - 2026-09-01｜Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds → [查看](../posts/2026-09-01.md#谷歌-ai-推出-envharness一个可编程层可将静态代理环境转变为自适应训练世界)
 - 2026-09-01｜Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for  AI Agents to Safely Operate Physical Devices → [查看](../posts/2026-09-01.md#anthropic-开放模型硬件标准-mhs-的研究预览ai-代理安全操作物理设备的共享规范)
+- 2026-09-02｜企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资 → [查看](../posts/2026-09-02.md#企业级agent落地样板间百融硅基员工批量上岗按结果领工资)
+- 2026-09-02｜GitHub最热架构图Agent，开发者故事看哭了 → [查看](../posts/2026-09-02.md#github最热架构图agent开发者故事看哭了)
+- 2026-09-02｜The Hugging Face hack could indicate cultural issues at OpenAI → [查看](../posts/2026-09-02.md#hugging-face-黑客事件可能表明-openai-存在文化问题)
+- 2026-09-02｜Researchers from Princeton, Ant Group and Stanford Introduce AQuA: A Two-Part Agentic Framework for Autonomous Factor Discovery and Model Development in Quantitative Finance → [查看](../posts/2026-09-02.md#来自普林斯顿大学蚂蚁集团和斯坦福大学的研究人员推出了-aqua定量金融中自主因子发现和模型开发的两部分代理框架)
+- 2026-09-02｜Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour → [查看](../posts/2026-09-02.md#keenable-ai-开源-needle每小时重建查询集的实时搜索基准)
