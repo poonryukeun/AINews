@@ -305,3 +305,6 @@
 - 2026-09-02｜The Hugging Face hack could indicate cultural issues at OpenAI → [查看](../posts/2026-09-02.md#hugging-face-黑客事件可能表明-openai-存在文化问题)
 - 2026-09-02｜Researchers from Princeton, Ant Group and Stanford Introduce AQuA: A Two-Part Agentic Framework for Autonomous Factor Discovery and Model Development in Quantitative Finance → [查看](../posts/2026-09-02.md#来自普林斯顿大学蚂蚁集团和斯坦福大学的研究人员推出了-aqua定量金融中自主因子发现和模型开发的两部分代理框架)
 - 2026-09-02｜Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour → [查看](../posts/2026-09-02.md#keenable-ai-开源-needle每小时重建查询集的实时搜索基准)
+- 2026-09-03｜前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局 → [查看](../posts/2026-09-03.md#前字节强化学习专家孙鹏博士加盟星尘智能完善physical-ai全栈技术布局)
+- 2026-09-03｜企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资 → [查看](../posts/2026-09-03.md#企业级agent落地样板间百融硅基员工批量上岗按结果领工资)
+- 2026-09-03｜Facilitating AI integration with simplicity at scale → [查看](../posts/2026-09-03.md#大规模简化-ai-集成)
