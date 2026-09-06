@@ -311,3 +311,4 @@
 - 2026-09-04｜Facilitating AI integration with simplicity at scale → [查看](../posts/2026-09-04.md#大规模简化-ai-集成)
 - 2026-09-04｜Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment → [查看](../posts/2026-09-04.md#anthropic-发布了-claude-commerce-agents针对零售旅游电信和娱乐领域的购物和商业代理的-apache-20-蓝图)
 - 2026-09-04｜Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Than Muse Spark 1.2 → [查看](../posts/2026-09-04.md#meta-ai-发布了-muse-spark-13一种代理编码模型与-muse-spark-12-相比它使用的工具调用减少了约-20令牌减少了约-25)
+- 2026-09-06｜GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI → [查看](../posts/2026-09-06.md#github-推出-hydrafusion-项目运行时多模型编排可在-copilot-cli-中为每个编码任务构建工作流程)
