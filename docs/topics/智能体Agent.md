@@ -317,3 +317,5 @@
 - 2026-09-07｜GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI → [查看](../posts/2026-09-07.md#github-推出-hydrafusion-项目运行时多模型编排可在-copilot-cli-中为每个编码任务构建工作流程)
 - 2026-09-07｜Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88% → [查看](../posts/2026-09-07.md#谷歌推出适用于-gemini-flash-模型的代理视频理解将视频代币削减高达-88)
 - 2026-09-07｜NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes → [查看](../posts/2026-09-07.md#nvidia-发布个人-ai-路由器-pair一款开源虚拟推理路由器可跨-rtxdgx-spark-和-mac-节点分发本地-ai-请求)
+- 2026-09-08｜国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12% → [查看](../posts/2026-09-08.md#国内首份办公agent用户行为报告发布北京用户量全国居首海外用户占比超12)
+- 2026-09-08｜业内首个！“千问办公”推出“多人工作台” → [查看](../posts/2026-09-08.md#业内首个千问办公推出多人工作台)
