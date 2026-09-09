@@ -319,3 +319,5 @@
 - 2026-09-07｜NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes → [查看](../posts/2026-09-07.md#nvidia-发布个人-ai-路由器-pair一款开源虚拟推理路由器可跨-rtxdgx-spark-和-mac-节点分发本地-ai-请求)
 - 2026-09-08｜国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12% → [查看](../posts/2026-09-08.md#国内首份办公agent用户行为报告发布北京用户量全国居首海外用户占比超12)
 - 2026-09-08｜业内首个！“千问办公”推出“多人工作台” → [查看](../posts/2026-09-08.md#业内首个千问办公推出多人工作台)
+- 2026-09-09｜What OpenAI’s latest controversy tells us about the future of math → [查看](../posts/2026-09-09.md#openai-的最新争议告诉我们数学的未来)
+- 2026-09-09｜This AI entrepreneur is developing agents that can plan ahead for the unexpected → [查看](../posts/2026-09-09.md#这位人工智能企业家正在开发能够提前计划意外情况的代理)
