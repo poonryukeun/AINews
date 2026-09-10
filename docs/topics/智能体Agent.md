@@ -321,3 +321,6 @@
 - 2026-09-08｜业内首个！“千问办公”推出“多人工作台” → [查看](../posts/2026-09-08.md#业内首个千问办公推出多人工作台)
 - 2026-09-09｜What OpenAI’s latest controversy tells us about the future of math → [查看](../posts/2026-09-09.md#openai-的最新争议告诉我们数学的未来)
 - 2026-09-09｜This AI entrepreneur is developing agents that can plan ahead for the unexpected → [查看](../posts/2026-09-09.md#这位人工智能企业家正在开发能够提前计划意外情况的代理)
+- 2026-09-10｜What OpenAI’s latest controversy tells us about the future of math → [查看](../posts/2026-09-10.md#openai-的最新争议告诉我们数学的未来)
+- 2026-09-10｜This AI entrepreneur is developing agents that can plan ahead for the unexpected → [查看](../posts/2026-09-10.md#这位人工智能企业家正在开发能够提前计划意外情况的代理)
+- 2026-09-10｜SIMA 2An agent that plays, reasons, and learns with you → [查看](../posts/2026-09-10.md#sima-2与您一起玩耍推理和学习的代理)
