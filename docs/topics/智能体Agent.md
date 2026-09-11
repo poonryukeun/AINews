@@ -324,3 +324,5 @@
 - 2026-09-10｜What OpenAI’s latest controversy tells us about the future of math → [查看](../posts/2026-09-10.md#openai-的最新争议告诉我们数学的未来)
 - 2026-09-10｜This AI entrepreneur is developing agents that can plan ahead for the unexpected → [查看](../posts/2026-09-10.md#这位人工智能企业家正在开发能够提前计划意外情况的代理)
 - 2026-09-10｜SIMA 2An agent that plays, reasons, and learns with you → [查看](../posts/2026-09-10.md#sima-2与您一起玩耍推理和学习的代理)
+- 2026-09-11｜OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call → [查看](../posts/2026-09-11.md#error-500-server-error1500thats-an-errorthere-was-an-error-please-try-again-late)
+- 2026-09-11｜DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse → [查看](../posts/2026-09-11.md#error-500-server-error1500thats-an-errorthere-was-an-error-please-try-again-late)
