@@ -326,3 +326,6 @@
 - 2026-09-10｜SIMA 2An agent that plays, reasons, and learns with you → [查看](../posts/2026-09-10.md#sima-2与您一起玩耍推理和学习的代理)
 - 2026-09-11｜OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call → [查看](../posts/2026-09-11.md#error-500-server-error1500thats-an-errorthere-was-an-error-please-try-again-late)
 - 2026-09-11｜DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse → [查看](../posts/2026-09-11.md#error-500-server-error1500thats-an-errorthere-was-an-error-please-try-again-late)
+- 2026-09-12｜银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭 → [查看](../posts/2026-09-12.md#银行agent上岗4200万小微经营者可用信贷票据财税一把梭)
+- 2026-09-12｜Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize → [查看](../posts/2026-09-12.md#法学硕士可以设计自己的代理工具吗字节跳动-seed-的-harnessdev-表示-64-项更改中只有-34-项具有概括性)
+- 2026-09-12｜Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills → [查看](../posts/2026-09-12.md#anthropic-向-claude-代码添加插件评估6-个分级机类型无插件基线和-ci-技能门)
