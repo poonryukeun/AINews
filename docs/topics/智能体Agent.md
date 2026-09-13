@@ -329,3 +329,7 @@
 - 2026-09-12｜银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭 → [查看](../posts/2026-09-12.md#银行agent上岗4200万小微经营者可用信贷票据财税一把梭)
 - 2026-09-12｜Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize → [查看](../posts/2026-09-12.md#法学硕士可以设计自己的代理工具吗字节跳动-seed-的-harnessdev-表示-64-项更改中只有-34-项具有概括性)
 - 2026-09-12｜Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills → [查看](../posts/2026-09-12.md#anthropic-向-claude-代码添加插件评估6-个分级机类型无插件基线和-ci-技能门)
+- 2026-09-13｜银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭 → [查看](../posts/2026-09-13.md#银行agent上岗4200万小微经营者可用信贷票据财税一把梭)
+- 2026-09-13｜Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference → [查看](../posts/2026-09-13.md#使用-nvidia-cumlrapidsgpu-基准测试可解释性聚类和模型推理实施机器学习工作流程)
+- 2026-09-13｜Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost → [查看](../posts/2026-09-13.md#cognition-发布-swe-2kimi-k3-训练后编码模型与-frontiercode-上的-fable-51-相匹配成本降低-64)
+- 2026-09-13｜Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize → [查看](../posts/2026-09-13.md#法学硕士可以设计自己的代理工具吗字节跳动-seed-的-harnessdev-表示-64-项更改中只有-34-项具有概括性)
