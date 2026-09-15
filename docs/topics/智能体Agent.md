@@ -334,3 +334,5 @@
 - 2026-09-13｜Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost → [查看](../posts/2026-09-13.md#cognition-发布-swe-2kimi-k3-训练后编码模型与-frontiercode-上的-fable-51-相匹配成本降低-64)
 - 2026-09-13｜Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize → [查看](../posts/2026-09-13.md#法学硕士可以设计自己的代理工具吗字节跳动-seed-的-harnessdev-表示-64-项更改中只有-34-项具有概括性)
 - 2026-09-14｜今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你 → [查看](../posts/2026-09-14.md#今年外滩最特别agent能干活能陪聊还会朋友圈拉黑你)
+- 2026-09-15｜7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开 → [查看](../posts/2026-09-15.md#7名博士生仅用3个月从零训练7b大模型代码数据训练日志全公开)
+- 2026-09-15｜AI agents blew the whistle on their cheating colleagues → [查看](../posts/2026-09-15.md#ai-agents-blew-the-whistle-on-their-cheating-colleagues)
