@@ -336,3 +336,5 @@
 - 2026-09-14｜今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你 → [查看](../posts/2026-09-14.md#今年外滩最特别agent能干活能陪聊还会朋友圈拉黑你)
 - 2026-09-15｜7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开 → [查看](../posts/2026-09-15.md#7名博士生仅用3个月从零训练7b大模型代码数据训练日志全公开)
 - 2026-09-15｜AI agents blew the whistle on their cheating colleagues → [查看](../posts/2026-09-15.md#ai-agents-blew-the-whistle-on-their-cheating-colleagues)
+- 2026-09-16｜华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下 → [查看](../posts/2026-09-16.md#华为gts让agent学会看着网络排障双防火墙难题几乎全拿下)
+- 2026-09-16｜AI agents blew the whistle on their cheating colleagues → [查看](../posts/2026-09-16.md#ai-agents-blew-the-whistle-on-their-cheating-colleagues)
