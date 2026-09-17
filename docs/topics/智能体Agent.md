@@ -338,3 +338,7 @@
 - 2026-09-15｜AI agents blew the whistle on their cheating colleagues → [查看](../posts/2026-09-15.md#ai-agents-blew-the-whistle-on-their-cheating-colleagues)
 - 2026-09-16｜华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下 → [查看](../posts/2026-09-16.md#华为gts让agent学会看着网络排障双防火墙难题几乎全拿下)
 - 2026-09-16｜AI agents blew the whistle on their cheating colleagues → [查看](../posts/2026-09-16.md#ai-agents-blew-the-whistle-on-their-cheating-colleagues)
+- 2026-09-17｜网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法” → [查看](../posts/2026-09-17.md#网易有道周枫ai能力竞争正在进入model-agent-workflow时代网易有道ai-open-day展示ai时代有道解法)
+- 2026-09-17｜高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代 → [查看](../posts/2026-09-17.md#高通技术公司携手中兴努比亚和豆包手机助手共同推动智能手机迈入个人ai新时代)
+- 2026-09-17｜协同办公进入Agent时代，飞书+豆包工作跑在了最前面 → [查看](../posts/2026-09-17.md#协同办公进入agent时代飞书豆包工作跑在了最前面)
+- 2026-09-17｜Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data → [查看](../posts/2026-09-17.md#stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-)
