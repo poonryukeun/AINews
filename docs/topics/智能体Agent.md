@@ -342,3 +342,5 @@
 - 2026-09-17｜高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代 → [查看](../posts/2026-09-17.md#高通技术公司携手中兴努比亚和豆包手机助手共同推动智能手机迈入个人ai新时代)
 - 2026-09-17｜协同办公进入Agent时代，飞书+豆包工作跑在了最前面 → [查看](../posts/2026-09-17.md#协同办公进入agent时代飞书豆包工作跑在了最前面)
 - 2026-09-17｜Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data → [查看](../posts/2026-09-17.md#stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-)
+- 2026-09-18｜刚刚，Claude Code大重构！内部3万Agent管理技术免费开放 → [查看](../posts/2026-09-18.md#刚刚claude-code大重构内部3万agent管理技术免费开放)
+- 2026-09-18｜央企做了个通用Agent，直接杀进IDC实测前三！ → [查看](../posts/2026-09-18.md#央企做了个通用agent直接杀进idc实测前三)
