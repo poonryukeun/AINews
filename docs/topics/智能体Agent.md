@@ -344,3 +344,4 @@
 - 2026-09-17｜Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data → [查看](../posts/2026-09-17.md#stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-)
 - 2026-09-18｜刚刚，Claude Code大重构！内部3万Agent管理技术免费开放 → [查看](../posts/2026-09-18.md#刚刚claude-code大重构内部3万agent管理技术免费开放)
 - 2026-09-18｜央企做了个通用Agent，直接杀进IDC实测前三！ → [查看](../posts/2026-09-18.md#央企做了个通用agent直接杀进idc实测前三)
+- 2026-09-19｜刚刚，Claude Code大重构！内部3万Agent管理技术免费开放 → [查看](../posts/2026-09-19.md#刚刚claude-code大重构内部3万agent管理技术免费开放)
