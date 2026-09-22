@@ -347,3 +347,6 @@
 - 2026-09-19｜刚刚，Claude Code大重构！内部3万Agent管理技术免费开放 → [查看](../posts/2026-09-19.md#刚刚claude-code大重构内部3万agent管理技术免费开放)
 - 2026-09-21｜汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA → [查看](../posts/2026-09-21.md#汽车行业首个ai超级智能体迪迪虾来了腾势多款车型即将ota)
 - 2026-09-21｜谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！ → [查看](../posts/2026-09-21.md#谷歌ai首次越狱竟然自己破解密码入侵三家公司)
+- 2026-09-22｜国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单 → [查看](../posts/2026-09-22.md#国产数据库跑出ai新能力oceanbase登顶国际data-agent榜单)
+- 2026-09-22｜GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent → [查看](../posts/2026-09-22.md#gpt-6-astra开进机器人身体清华联手无问芯穹等开源rpent)
+- 2026-09-22｜AWS Strands Agents Team Releases Strands Harness: An Open-Source Agent Harness With 28% Lower Token Cost at Comparable Accuracy → [查看](../posts/2026-09-22.md#aws-strands-agents-team-releases-strands-harness-an-open-source-agent-harness-wi)
