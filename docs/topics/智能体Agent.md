@@ -352,3 +352,6 @@
 - 2026-09-22｜AWS Strands Agents Team Releases Strands Harness: An Open-Source Agent Harness With 28% Lower Token Cost at Comparable Accuracy → [查看](../posts/2026-09-22.md#aws-strands-agents-team-releases-strands-harness-an-open-source-agent-harness-wi)
 - 2026-09-23｜Agent时代，CPU的价值该重估了 → [查看](../posts/2026-09-23.md#agent时代cpu的价值该重估了)
 - 2026-09-23｜基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化 → [查看](../posts/2026-09-23.md#基元律动韩凯从多模型调度到反馈闭环探索agent持续进化)
+- 2026-09-24｜汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周” → [查看](../posts/2026-09-24.md#汇智智能发布hellome国内首个fde直连智能体服务平台把ai交付周期压进周)
+- 2026-09-24｜DeepSeek新论文公开Agent训练！梁文锋署名 → [查看](../posts/2026-09-24.md#deepseek新论文公开agent训练梁文锋署名)
+- 2026-09-24｜The AI Hype Index: AI loves cheating → [查看](../posts/2026-09-24.md#the-ai-hype-index-ai-loves-cheating)
