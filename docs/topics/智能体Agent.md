@@ -355,3 +355,5 @@
 - 2026-09-24｜汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周” → [查看](../posts/2026-09-24.md#汇智智能发布hellome国内首个fde直连智能体服务平台把ai交付周期压进周)
 - 2026-09-24｜DeepSeek新论文公开Agent训练！梁文锋署名 → [查看](../posts/2026-09-24.md#deepseek新论文公开agent训练梁文锋署名)
 - 2026-09-24｜The AI Hype Index: AI loves cheating → [查看](../posts/2026-09-24.md#the-ai-hype-index-ai-loves-cheating)
+- 2026-09-25｜出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意 → [查看](../posts/2026-09-25.md#出海agent小元ai入驻腾讯workbuddy找买家写开发信谈生意)
+- 2026-09-25｜The AI Hype Index: AI loves cheating → [查看](../posts/2026-09-25.md#the-ai-hype-index-ai-loves-cheating)
