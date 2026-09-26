@@ -357,3 +357,6 @@
 - 2026-09-24｜The AI Hype Index: AI loves cheating → [查看](../posts/2026-09-24.md#the-ai-hype-index-ai-loves-cheating)
 - 2026-09-25｜出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意 → [查看](../posts/2026-09-25.md#出海agent小元ai入驻腾讯workbuddy找买家写开发信谈生意)
 - 2026-09-25｜The AI Hype Index: AI loves cheating → [查看](../posts/2026-09-25.md#the-ai-hype-index-ai-loves-cheating)
+- 2026-09-26｜别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill → [查看](../posts/2026-09-26.md#别人忙着卷codekimi抽身反打浏览器插件网页操作一秒变skill)
+- 2026-09-26｜出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意 → [查看](../posts/2026-09-26.md#出海agent小元ai入驻腾讯workbuddy找买家写开发信谈生意)
+- 2026-09-26｜Perplexity Trains Its Computer Agent on Real Mistakes With Hint-Guided Self-Distillation → [查看](../posts/2026-09-26.md#perplexity-trains-its-computer-agent-on-real-mistakes-with-hint-guided-self-dist)
