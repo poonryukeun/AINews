@@ -362,3 +362,4 @@
 - 2026-09-26｜Perplexity Trains Its Computer Agent on Real Mistakes With Hint-Guided Self-Distillation → [查看](../posts/2026-09-26.md#perplexity-trains-its-computer-agent-on-real-mistakes-with-hint-guided-self-dist)
 - 2026-09-27｜OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光 → [查看](../posts/2026-09-27.md#openai失控agent还找deepseekkimi当外援近百万条作案短链曝光)
 - 2026-09-27｜别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill → [查看](../posts/2026-09-27.md#别人忙着卷codekimi抽身反打浏览器插件网页操作一秒变skill)
+- 2026-09-28｜OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光 → [查看](../posts/2026-09-28.md#openai失控agent还找deepseekkimi当外援近百万条作案短链曝光)
