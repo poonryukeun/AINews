@@ -369,3 +369,7 @@
 - 2026-09-29｜Alibaba Qwen Releases Qwen-Audio-3.1-Realtime: A Full-Duplex Voice Model Trained to Think, Act, and Decide When to Speak → [查看](../posts/2026-09-29.md#alibaba-qwen-releases-qwen-audio-31-realtime-a-full-duplex-voice-model-trained-t)
 - 2026-09-29｜NVIDIA Launches Open Agent Safety Platform: OpenShell Sandboxes Agents on Vera CPUs While Sentry on BlueField-4 Quarantines Them in Milliseconds → [查看](../posts/2026-09-29.md#nvidia-launches-open-agent-safety-platform-openshell-sandboxes-agents-on-vera-cp)
 - 2026-09-29｜20 Agentic Use Cases of TypeSafe AI’s Jev → [查看](../posts/2026-09-29.md#20-agentic-use-cases-of-typesafe-ais-jev)
+- 2026-09-30｜工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路 → [查看](../posts/2026-09-30.md#工业创新进入组队局拆解西门子xcelerator开放生态的赋能链路)
+- 2026-09-30｜When can we say AI made a scientific discovery? → [查看](../posts/2026-09-30.md#when-can-we-say-ai-made-a-scientific-discovery)
+- 2026-09-30｜Who’s liable when AI agents go rogue? → [查看](../posts/2026-09-30.md#whos-liable-when-ai-agents-go-rogue)
+- 2026-09-30｜One Bad Prompt Took Down a Company’s Salesforce: RSA’s Jim Taylor on Agent ID and Taming the 4,000 Shadow AI Agents Hiding in Your Enterprise → [查看](../posts/2026-09-30.md#one-bad-prompt-took-down-a-companys-salesforce-rsas-jim-taylor-on-agent-id-and-t)
