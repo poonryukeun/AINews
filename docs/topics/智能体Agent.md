@@ -373,3 +373,8 @@
 - 2026-09-30｜When can we say AI made a scientific discovery? → [查看](../posts/2026-09-30.md#when-can-we-say-ai-made-a-scientific-discovery)
 - 2026-09-30｜Who’s liable when AI agents go rogue? → [查看](../posts/2026-09-30.md#whos-liable-when-ai-agents-go-rogue)
 - 2026-09-30｜One Bad Prompt Took Down a Company’s Salesforce: RSA’s Jim Taylor on Agent ID and Taming the 4,000 Shadow AI Agents Hiding in Your Enterprise → [查看](../posts/2026-09-30.md#one-bad-prompt-took-down-a-companys-salesforce-rsas-jim-taylor-on-agent-id-and-t)
+- 2026-10-01｜“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer → [查看](../posts/2026-10-01.md#were-not-going-to-shoot-ourselves-in-the-foot-over-hack-fallout-says-openais-chi)
+- 2026-10-01｜OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price → [查看](../posts/2026-10-01.md#openai-releases-gpt-61-sol-near-astra-coding-and-computer-use-at-one-fifth-of-as)
+- 2026-10-01｜One Bad Prompt Took Down a Company’s Salesforce: RSA’s Jim Taylor on Agent ID and Taming the 4,000 Shadow AI Agents Hiding in Your Enterprise → [查看](../posts/2026-10-01.md#one-bad-prompt-took-down-a-companys-salesforce-rsas-jim-taylor-on-agent-id-and-t)
+- 2026-10-01｜OpenAI Launches dots: Always-On GPT-6 Astra Agents That Work From Their Own Cloud Computers → [查看](../posts/2026-10-01.md#openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud)
+- 2026-10-01｜Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting → [查看](../posts/2026-10-01.md#google-research-open-sources-rrsi-ai-agents-that-improve-their-own-harness-witho)
