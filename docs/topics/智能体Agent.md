@@ -378,3 +378,5 @@
 - 2026-10-01｜One Bad Prompt Took Down a Company’s Salesforce: RSA’s Jim Taylor on Agent ID and Taming the 4,000 Shadow AI Agents Hiding in Your Enterprise → [查看](../posts/2026-10-01.md#one-bad-prompt-took-down-a-companys-salesforce-rsas-jim-taylor-on-agent-id-and-t)
 - 2026-10-01｜OpenAI Launches dots: Always-On GPT-6 Astra Agents That Work From Their Own Cloud Computers → [查看](../posts/2026-10-01.md#openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud)
 - 2026-10-01｜Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting → [查看](../posts/2026-10-01.md#google-research-open-sources-rrsi-ai-agents-that-improve-their-own-harness-witho)
+- 2026-10-02｜“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer → [查看](../posts/2026-10-02.md#were-not-going-to-shoot-ourselves-in-the-foot-over-hack-fallout-says-openais-chi)
+- 2026-10-02｜SIMA 2An agent that plays, reasons, and learns with you → [查看](../posts/2026-10-02.md#sima-2an-agent-that-plays-reasons-and-learns-with-you)
