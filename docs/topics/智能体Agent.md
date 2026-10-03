@@ -380,3 +380,7 @@
 - 2026-10-01｜Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting → [查看](../posts/2026-10-01.md#google-research-open-sources-rrsi-ai-agents-that-improve-their-own-harness-witho)
 - 2026-10-02｜“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer → [查看](../posts/2026-10-02.md#were-not-going-to-shoot-ourselves-in-the-foot-over-hack-fallout-says-openais-chi)
 - 2026-10-02｜SIMA 2An agent that plays, reasons, and learns with you → [查看](../posts/2026-10-02.md#sima-2an-agent-that-plays-reasons-and-learns-with-you)
+- 2026-10-03｜openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗 → [查看](../posts/2026-10-03.md#openjiuwen-x-router自演进模型路由技术首发昇腾亲和agent越跑越省实测减少50token消耗)
+- 2026-10-03｜NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference → [查看](../posts/2026-10-03.md#nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-a)
+- 2026-10-03｜AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms → [查看](../posts/2026-10-03.md#aws-strands-labs-releases-strands-decider-2b-an-open-source-decision-model-that-)
+- 2026-10-03｜Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Embedding 2, and OpenAI → [查看](../posts/2026-10-03.md#cohere-releases-embed-5-how-it-compares-to-voyage-4-large-gemini-embedding-2-and)
