@@ -384,3 +384,4 @@
 - 2026-10-03｜NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference → [查看](../posts/2026-10-03.md#nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-a)
 - 2026-10-03｜AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms → [查看](../posts/2026-10-03.md#aws-strands-labs-releases-strands-decider-2b-an-open-source-decision-model-that-)
 - 2026-10-03｜Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Embedding 2, and OpenAI → [查看](../posts/2026-10-03.md#cohere-releases-embed-5-how-it-compares-to-voyage-4-large-gemini-embedding-2-and)
+- 2026-10-04｜openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗 → [查看](../posts/2026-10-04.md#openjiuwen-x-router自演进模型路由技术首发昇腾亲和agent越跑越省实测减少50token消耗)
