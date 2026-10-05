@@ -385,3 +385,7 @@
 - 2026-10-03｜AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms → [查看](../posts/2026-10-03.md#aws-strands-labs-releases-strands-decider-2b-an-open-source-decision-model-that-)
 - 2026-10-03｜Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Embedding 2, and OpenAI → [查看](../posts/2026-10-03.md#cohere-releases-embed-5-how-it-compares-to-voyage-4-large-gemini-embedding-2-and)
 - 2026-10-04｜openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗 → [查看](../posts/2026-10-04.md#openjiuwen-x-router自演进模型路由技术首发昇腾亲和agent越跑越省实测减少50token消耗)
+- 2026-10-05｜GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job → [查看](../posts/2026-10-05.md#gpt-6-astra-vs-gpt-61-sol-vs-gemini-4-argon-vs-claude-fable-51-which-frontier-mo)
+- 2026-10-05｜DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness → [查看](../posts/2026-10-05.md#deepseek-harness-v02-brings-official-desktop-apps-to-its-open-source-agent-harne)
+- 2026-10-05｜Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet? → [查看](../posts/2026-10-05.md#meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay)
+- 2026-10-05｜IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code → [查看](../posts/2026-10-05.md#ibm-brings-bob-to-self-hosted-and-air-gapped-environments-agentic-software-devel)
