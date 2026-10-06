@@ -389,3 +389,6 @@
 - 2026-10-05｜DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness → [查看](../posts/2026-10-05.md#deepseek-harness-v02-brings-official-desktop-apps-to-its-open-source-agent-harne)
 - 2026-10-05｜Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet? → [查看](../posts/2026-10-05.md#meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay)
 - 2026-10-05｜IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code → [查看](../posts/2026-10-05.md#ibm-brings-bob-to-self-hosted-and-air-gapped-environments-agentic-software-devel)
+- 2026-10-06｜Connecting AI agents to enterprise knowledge → [查看](../posts/2026-10-06.md#connecting-ai-agents-to-enterprise-knowledge)
+- 2026-10-06｜Bringing predictive analytics to the agentic AI era → [查看](../posts/2026-10-06.md#bringing-predictive-analytics-to-the-agentic-ai-era)
+- 2026-10-06｜Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads → [查看](../posts/2026-10-06.md#reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-param)
