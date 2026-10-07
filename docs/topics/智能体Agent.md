@@ -392,3 +392,5 @@
 - 2026-10-06｜Connecting AI agents to enterprise knowledge → [查看](../posts/2026-10-06.md#connecting-ai-agents-to-enterprise-knowledge)
 - 2026-10-06｜Bringing predictive analytics to the agentic AI era → [查看](../posts/2026-10-06.md#bringing-predictive-analytics-to-the-agentic-ai-era)
 - 2026-10-06｜Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads → [查看](../posts/2026-10-06.md#reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-param)
+- 2026-10-07｜Connecting AI agents to enterprise knowledge → [查看](../posts/2026-10-07.md#connecting-ai-agents-to-enterprise-knowledge)
+- 2026-10-07｜Bringing predictive analytics to the agentic AI era → [查看](../posts/2026-10-07.md#bringing-predictive-analytics-to-the-agentic-ai-era)
