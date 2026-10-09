@@ -396,3 +396,8 @@
 - 2026-10-07｜Bringing predictive analytics to the agentic AI era → [查看](../posts/2026-10-07.md#bringing-predictive-analytics-to-the-agentic-ai-era)
 - 2026-10-08｜大模型原生智能体手机STEPX Neo将于10月13日正式发布 → [查看](../posts/2026-10-08.md#大模型原生智能体手机stepx-neo将于10月13日正式发布)
 - 2026-10-08｜What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs → [查看](../posts/2026-10-08.md#what-happens-when-a-trusted-model-repo-changes-unsloth-studio-re-checks-before-i)
+- 2026-10-09｜openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业 → [查看](../posts/2026-10-09.md#openjiuwen发布并开源企业级agentos加速智能体规模落地企业)
+- 2026-10-09｜代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化 → [查看](../posts/2026-10-09.md#代码造世界扩散绘现实agentgarten让智能体在实时试炼场中边玩边进化)
+- 2026-10-09｜不等Gemini 4了！谷歌发布办公Agent，支持调用Claude → [查看](../posts/2026-10-09.md#不等gemini-4了谷歌发布办公agent支持调用claude)
+- 2026-10-09｜Building a safer path to autonomous industrial AI → [查看](../posts/2026-10-09.md#building-a-safer-path-to-autonomous-industrial-ai)
+- 2026-10-09｜JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents → [查看](../posts/2026-10-09.md#jetbrains-releases-mellum21-a-12b-moe-open-model-for-coding-agents)
