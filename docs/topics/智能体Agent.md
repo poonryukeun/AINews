@@ -401,3 +401,7 @@
 - 2026-10-09｜不等Gemini 4了！谷歌发布办公Agent，支持调用Claude → [查看](../posts/2026-10-09.md#不等gemini-4了谷歌发布办公agent支持调用claude)
 - 2026-10-09｜Building a safer path to autonomous industrial AI → [查看](../posts/2026-10-09.md#building-a-safer-path-to-autonomous-industrial-ai)
 - 2026-10-09｜JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents → [查看](../posts/2026-10-09.md#jetbrains-releases-mellum21-a-12b-moe-open-model-for-coding-agents)
+- 2026-10-10｜联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一 → [查看](../posts/2026-10-10.md#联想天禧自研代码智能体tianxicode斩获swe-bench-live全球第一)
+- 2026-10-10｜openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业 → [查看](../posts/2026-10-10.md#openjiuwen发布并开源企业级agentos加速智能体规模落地企业)
+- 2026-10-10｜代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化 → [查看](../posts/2026-10-10.md#代码造世界扩散绘现实agentgarten让智能体在实时试炼场中边玩边进化)
+- 2026-10-10｜Building a safer path to autonomous industrial AI → [查看](../posts/2026-10-10.md#building-a-safer-path-to-autonomous-industrial-ai)
