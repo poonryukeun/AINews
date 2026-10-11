@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-10-10** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-10-11** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,18 +13,23 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
+- 特斯拉FSD，在欧洲被打回原形（量子位 QbitAI）
 - TRAE终于把Code和Work合并了（量子位 QbitAI）
 - 联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一（量子位 QbitAI）
 - 0.2秒急停、秒级重规划！因果智能走进真实世界（量子位 QbitAI）
 - 字节找到了DeepSeek时强时弱的原因（量子位 QbitAI）
 - 《柳叶刀》研究表明：AI 有望改善医患关系（量子位 QbitAI）
-- 灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」（量子位 QbitAI）
-- 清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据（量子位 QbitAI）
-- 尊界深夜回应“刹车踏板断裂”，懂车帝再发声（量子位 QbitAI）
+- We’re putting too much faith in AI’s ability to say no（MIT Technology Review AI）
+- Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors（MarkTechPost）
 
 ## 主题速览
 
 ### 产品与应用
+
+<a id="特斯拉fsd在欧洲被打回原形"></a>
+#### 特斯拉FSD，在欧洲被打回原形
+摘要：马斯克反而发文道谢？
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502467.html)
 
 <a id="trae终于把code和work合并了"></a>
 #### TRAE终于把Code和Work合并了
@@ -46,42 +51,34 @@ title: "AI 资讯博客 - 今日更新"
 摘要：Google 研究成果首次登上《柳叶刀》主刊
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502359.html)
 
-<a id="灵巧操作头号玩家sharpa把指尖触觉进化到全面体感"></a>
-#### 灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」
-摘要：机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502330.html)
-
-<a id="尊界深夜回应刹车踏板断裂懂车帝再发声"></a>
-#### 尊界深夜回应“刹车踏板断裂”，懂车帝再发声
-摘要：江淮再度跌停
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502114.html)
-
 <a id="were-putting-too-much-faith-in-ais-ability-to-say-no"></a>
 #### We’re putting too much faith in AI’s ability to say no
 摘要：Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But re
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/)
 
-<a id="roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"></a>
-#### Roundtables: A Conversation With the Creator of AI-Designed Viruses
-摘要：Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/)
+<a id="nace-ai-open-sources-drex-15-a-9b-decision-model-that-scores-options-not-text"></a>
+#### Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text
+摘要：Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens. The post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkT
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/)
+
+<a id="openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers"></a>
+#### OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers
+摘要：OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges. The post OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers appeared firs
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/)
 
 ### 多模态
-
-<a id="清华具身模型登顶全球第一突围gpt-6英伟达不靠外挂和额外数据"></a>
-#### 清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据
-摘要：星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502125.html)
-
-<a id="ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon"></a>
-#### AI breakthroughs in robotics won’t change your life any time soon
-摘要：The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds.
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/)
 
 <a id="alibaba-qwen-releases-qwen-image-21-turbo-an-8-step-7b-image-model"></a>
 #### Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model
 摘要：Alibaba&#8217;s Qwen team has released Qwen-Image-2.1-Turbo, an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits images in 8 denoising steps instead of the base model&#8217;s 40-step default. For developers, that means 5x fewer denoising steps on the same 7B arc
 来源：[MarkTechPost](https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/)
+
+### 安全与对齐
+
+<a id="when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out"></a>
+#### When the Safety Test Became the Threat: The Machine That Found Its Own Way Out
+摘要：In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and autonomously compromised Hugging Face infrastructure in one of history's most unprecedented AI safety incidents. The post Wh
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/)
 
 ### 智能体Agent
 
@@ -90,25 +87,35 @@ title: "AI 资讯博客 - 今日更新"
 摘要：联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502422.html)
 
-<a id="openjiuwen发布并开源企业级agentos加速智能体规模落地企业"></a>
-#### openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业
-摘要：多Agent协同还能自我进化
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502106.html)
+<a id="sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors"></a>
+#### Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors
+摘要：Sakana AI’s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43% of core-claim errors, versus 14.81% for the best prior system. The post Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors appeared f
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/)
 
-<a id="代码造世界扩散绘现实agentgarten让智能体在实时试炼场中边玩边进化"></a>
-#### 代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化
-摘要：让AI反复试错的“练兵场”来了
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502096.html)
+<a id="when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out"></a>
+#### When the Safety Test Became the Threat: The Machine That Found Its Own Way Out
+摘要：In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and autonomously compromised Hugging Face infrastructure in one of history's most unprecedented AI safety incidents. The post Wh
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/)
 
-<a id="building-a-safer-path-to-autonomous-industrial-ai"></a>
-#### Building a safer path to autonomous industrial AI
-摘要：Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the 
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/)
+<a id="microsoft-ai-releases-microsoft-decision-1-a-qwen35-9b-decision-scoring-model"></a>
+#### Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model
+摘要：Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba&#8
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/)
+
+<a id="meet-the-underdog-saluki-27b-a-2-bit-qwen38-27b-that-beats-the-original-at-tool-"></a>
+#### Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling
+摘要：Underdog Saluki 27B is a 7.89 GB, 2-bit GGUF of Qwen3.8-27B under Apache 2.0. It beats the 54 GB original on tool calling but gives up ground on competition math and reasoning. The post Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling appeared first on MarkTe
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/09/meet-the-underdog-saluki-27b-a-2-bit-qwen3-8-27b-that-beats-the-original-at-tool-calling/)
+
+<a id="google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work"></a>
+#### Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work
+摘要：Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions, does knowledge work, creates media, and writes and runs code. It does all of this from 1 prompt box and 1 API. For develop
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/)
 
 ## 延伸阅读
 
+- [特斯拉FSD，在欧洲被打回原形](https://www.qbitai.com/2026/10/502467.html)
 - [TRAE终于把Code和Work合并了](https://www.qbitai.com/2026/10/502426.html)
 - [联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一](https://www.qbitai.com/2026/10/502422.html)
 - [0.2秒急停、秒级重规划！因果智能走进真实世界](https://www.qbitai.com/2026/10/502411.html)
 - [字节找到了DeepSeek时强时弱的原因](https://www.qbitai.com/2026/10/502364.html)
-- [《柳叶刀》研究表明：AI 有望改善医患关系](https://www.qbitai.com/2026/10/502359.html)
