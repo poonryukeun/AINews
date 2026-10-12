@@ -411,3 +411,5 @@
 - 2026-10-11｜Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model → [查看](../posts/2026-10-11.md#microsoft-ai-releases-microsoft-decision-1-a-qwen35-9b-decision-scoring-model)
 - 2026-10-11｜Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling → [查看](../posts/2026-10-11.md#meet-the-underdog-saluki-27b-a-2-bit-qwen38-27b-that-beats-the-original-at-tool-)
 - 2026-10-11｜Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work → [查看](../posts/2026-10-11.md#google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work)
+- 2026-10-12｜Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors → [查看](../posts/2026-10-12.md#sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors)
+- 2026-10-12｜When the Safety Test Became the Threat: The Machine That Found Its Own Way Out → [查看](../posts/2026-10-12.md#when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out)

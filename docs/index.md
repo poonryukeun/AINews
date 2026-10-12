@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-10-11** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-10-12** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,67 +13,87 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
-- 特斯拉FSD，在欧洲被打回原形（量子位 QbitAI）
-- TRAE终于把Code和Work合并了（量子位 QbitAI）
-- 联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一（量子位 QbitAI）
-- 0.2秒急停、秒级重规划！因果智能走进真实世界（量子位 QbitAI）
-- 字节找到了DeepSeek时强时弱的原因（量子位 QbitAI）
-- 《柳叶刀》研究表明：AI 有望改善医患关系（量子位 QbitAI）
-- We’re putting too much faith in AI’s ability to say no（MIT Technology Review AI）
-- Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors（MarkTechPost）
+- 王的猜想，刚刚扩展到四维（量子位 QbitAI）
+- 硅谷AI现状：谁有算力谁是爹（量子位 QbitAI）
+- 下架8个月，GPT-4o的拯救行动居然还在继续（量子位 QbitAI）
+- DeepSeek Bot来了！民间版，DSH装个插件就能用（量子位 QbitAI）
+- 西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地（量子位 QbitAI）
+- 超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起（量子位 QbitAI）
+- 24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧（量子位 QbitAI）
+- Nano Banana终于2.1了！4K直出，中文进步太明显（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
+
+<a id="王的猜想刚刚扩展到四维"></a>
+#### 王的猜想，刚刚扩展到四维
+摘要：（无摘要）
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502584.html)
+
+<a id="硅谷ai现状谁有算力谁是爹"></a>
+#### 硅谷AI现状：谁有算力谁是爹
+摘要：马斯克连横A社，硅谷VC开始囤GPU
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502585.html)
+
+<a id="下架8个月gpt-4o的拯救行动居然还在继续"></a>
+#### 下架8个月，GPT-4o的拯救行动居然还在继续
+摘要：初代4o的API快照进入停用倒计时
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502550.html)
+
+<a id="deepseek-bot来了民间版dsh装个插件就能用"></a>
+#### DeepSeek Bot来了！民间版，DSH装个插件就能用
+摘要：Grok Bot我养不起，ds bot不得高低尝尝咸淡？
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502544.html)
+
+<a id="西门子将亮相2026工博会以软硬协同的工业全栈能力推动物理ai加速落地"></a>
+#### 西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地
+摘要：西门子将以更集中、更场景化的方式，展示其工业全栈能力
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502541.html)
+
+<a id="超清双2亿掌中电影机荣耀magic9-系列正式发布售价4499元起"></a>
+#### 超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起
+摘要：2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502496.html)
+
+<a id="24天jev估值翻至75亿美元年度硅谷最爽逆袭了吧"></a>
+#### 24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧
+摘要：（无摘要）
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502492.html)
+
+<a id="nano-banana终于21了4k直出中文进步太明显"></a>
+#### Nano Banana终于2.1了！4K直出，中文进步太明显
+摘要：（无摘要）
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502484.html)
 
 <a id="特斯拉fsd在欧洲被打回原形"></a>
 #### 特斯拉FSD，在欧洲被打回原形
 摘要：马斯克反而发文道谢？
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502467.html)
 
-<a id="trae终于把code和work合并了"></a>
-#### TRAE终于把Code和Work合并了
-摘要：大写的方便
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502426.html)
-
-<a id="02秒急停秒级重规划因果智能走进真实世界"></a>
-#### 0.2秒急停、秒级重规划！因果智能走进真实世界
-摘要：这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502411.html)
-
-<a id="字节找到了deepseek时强时弱的原因"></a>
-#### 字节找到了DeepSeek时强时弱的原因
-摘要：答不答得对，得看Token站位
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502364.html)
-
-<a id="柳叶刀研究表明ai-有望改善医患关系"></a>
-#### 《柳叶刀》研究表明：AI 有望改善医患关系
-摘要：Google 研究成果首次登上《柳叶刀》主刊
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502359.html)
-
-<a id="were-putting-too-much-faith-in-ais-ability-to-say-no"></a>
-#### We’re putting too much faith in AI’s ability to say no
-摘要：Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But re
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/)
-
-<a id="nace-ai-open-sources-drex-15-a-9b-decision-model-that-scores-options-not-text"></a>
-#### Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text
-摘要：Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens. The post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkT
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/)
-
-<a id="openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers"></a>
-#### OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers
-摘要：OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges. The post OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers appeared firs
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/)
+<a id="tii-releases-falcon-asr-16b-arabic-speech-model-hits-2092-wer"></a>
+#### TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER
+摘要：TII has released Falcon-ASR, a 1.6B speech recognition model for Arabic with an Emirati focus. It reports 20.92% average WER on 6 Arabic test sets, but weights and an API are not yet available. The post TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER appeared first on MarkTechPost.
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/11/tii-falcon-asr-arabic-speech-recognition/)
 
 ### 多模态
 
-<a id="alibaba-qwen-releases-qwen-image-21-turbo-an-8-step-7b-image-model"></a>
-#### Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model
-摘要：Alibaba&#8217;s Qwen team has released Qwen-Image-2.1-Turbo, an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits images in 8 denoising steps instead of the base model&#8217;s 40-step default. For developers, that means 5x fewer denoising steps on the same 7B arc
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/)
+<a id="meet-cloudflare-clef-omni-a-30b-a3b-multimodal-decision-model-for-audio-video-im"></a>
+#### Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text
+摘要：Cloudflare released Clef-omni, an Apache-2.0 multimodal decision model built on Qwen3-Omni-30B-A3B. It scores text, images, audio and video in one call for $0.15 per million input tokens, while Clef-flash drops to $0.038. The post Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Au
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/)
+
+<a id="what-is-decision-30-vllm-semantic-routers-new-open-decision-models"></a>
+#### What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models
+摘要：vLLM Semantic Router released Decision 3.0, 5 Apache-2.0 multimodal decision models from 0.8B to 27B. They answer choice, yes/no and score questions about text and images in one call, without generating text. The post What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models appeared fir
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/)
 
 ### 安全与对齐
+
+<a id="orcarouter-releases-orcacyber-zero-15-cybersecurity-model-with-1m-context"></a>
+#### OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context
+摘要：OrcaRouter released OrcaCyber Zero 1.5, a gated cybersecurity model with a 1M-token context window. It reports 100% on Cybench and 95.8% on an evaluable CVE-Bench subset, priced at $3.00 / $7.50 per 1M tokens. The post OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context appear
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/)
 
 <a id="when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out"></a>
 #### When the Safety Test Became the Threat: The Machine That Found Its Own Way Out
@@ -81,11 +101,6 @@ title: "AI 资讯博客 - 今日更新"
 来源：[MarkTechPost](https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/)
 
 ### 智能体Agent
-
-<a id="联想天禧自研代码智能体tianxicode斩获swe-bench-live全球第一"></a>
-#### 联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一
-摘要：联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/502422.html)
 
 <a id="sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors"></a>
 #### Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors
@@ -97,25 +112,10 @@ title: "AI 资讯博客 - 今日更新"
 摘要：In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and autonomously compromised Hugging Face infrastructure in one of history's most unprecedented AI safety incidents. The post Wh
 来源：[MarkTechPost](https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/)
 
-<a id="microsoft-ai-releases-microsoft-decision-1-a-qwen35-9b-decision-scoring-model"></a>
-#### Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model
-摘要：Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba&#8
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/)
-
-<a id="meet-the-underdog-saluki-27b-a-2-bit-qwen38-27b-that-beats-the-original-at-tool-"></a>
-#### Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling
-摘要：Underdog Saluki 27B is a 7.89 GB, 2-bit GGUF of Qwen3.8-27B under Apache 2.0. It beats the 54 GB original on tool calling but gives up ground on competition math and reasoning. The post Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling appeared first on MarkTe
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/09/meet-the-underdog-saluki-27b-a-2-bit-qwen3-8-27b-that-beats-the-original-at-tool-calling/)
-
-<a id="google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work"></a>
-#### Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work
-摘要：Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions, does knowledge work, creates media, and writes and runs code. It does all of this from 1 prompt box and 1 API. For develop
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/)
-
 ## 延伸阅读
 
-- [特斯拉FSD，在欧洲被打回原形](https://www.qbitai.com/2026/10/502467.html)
-- [TRAE终于把Code和Work合并了](https://www.qbitai.com/2026/10/502426.html)
-- [联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一](https://www.qbitai.com/2026/10/502422.html)
-- [0.2秒急停、秒级重规划！因果智能走进真实世界](https://www.qbitai.com/2026/10/502411.html)
-- [字节找到了DeepSeek时强时弱的原因](https://www.qbitai.com/2026/10/502364.html)
+- [王的猜想，刚刚扩展到四维](https://www.qbitai.com/2026/10/502584.html)
+- [硅谷AI现状：谁有算力谁是爹](https://www.qbitai.com/2026/10/502585.html)
+- [下架8个月，GPT-4o的拯救行动居然还在继续](https://www.qbitai.com/2026/10/502550.html)
+- [DeepSeek Bot来了！民间版，DSH装个插件就能用](https://www.qbitai.com/2026/10/502544.html)
+- [西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地](https://www.qbitai.com/2026/10/502541.html)
