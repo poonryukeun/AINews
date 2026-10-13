@@ -413,3 +413,6 @@
 - 2026-10-11｜Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work → [查看](../posts/2026-10-11.md#google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work)
 - 2026-10-12｜Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors → [查看](../posts/2026-10-12.md#sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors)
 - 2026-10-12｜When the Safety Test Became the Threat: The Machine That Found Its Own Way Out → [查看](../posts/2026-10-12.md#when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out)
+- 2026-10-13｜用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针 → [查看](../posts/2026-10-13.md#用不着ctrlf了全新ai论文工具帮你在原文献里海里捞针)
+- 2026-10-13｜Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents → [查看](../posts/2026-10-13.md#alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-hor)
+- 2026-10-13｜Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing → [查看](../posts/2026-10-13.md#top-12-ai-live-translation-tools-in-2026-latency-languages-pricing)
