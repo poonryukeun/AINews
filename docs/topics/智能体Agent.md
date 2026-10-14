@@ -416,3 +416,7 @@
 - 2026-10-13｜用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针 → [查看](../posts/2026-10-13.md#用不着ctrlf了全新ai论文工具帮你在原文献里海里捞针)
 - 2026-10-13｜Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents → [查看](../posts/2026-10-13.md#alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-hor)
 - 2026-10-13｜Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing → [查看](../posts/2026-10-13.md#top-12-ai-live-translation-tools-in-2026-latency-languages-pricing)
+- 2026-10-14｜Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It → [查看](../posts/2026-10-14.md#meta-launches-muse-wonder-and-muse-wonder-full-benchmarks-pricing-and-how-to-use)
+- 2026-10-14｜Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB → [查看](../posts/2026-10-14.md#zai-glm-legal-beats-claude-fable-5-and-kimi-k3-on-harvey-lab)
+- 2026-10-14｜Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents → [查看](../posts/2026-10-14.md#alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-hor)
+- 2026-10-14｜Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing → [查看](../posts/2026-10-14.md#top-12-ai-live-translation-tools-in-2026-latency-languages-pricing)
