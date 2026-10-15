@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-10-14** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-10-15** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,18 +13,43 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
-- Open models have real benefits. Do they outweigh the risks?（MIT Technology Review AI）
-- AI labs are buying data from dead startups to train their models（MIT Technology Review AI）
-- Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It（MarkTechPost）
-- How to Use Meta’s Rebalancer for Task Placement & Optimization（MarkTechPost）
-- Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB（MarkTechPost）
-- Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents（MarkTechPost）
-- Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing（MarkTechPost）
-- Expanding the Cyber Verification ProgramAnnouncementsOct 6, 2026We’re launching a new, expanded version of our Cyber Ver（Anthropic News）
+- 7天几百元开一家店！用千问办公电商版，立省启动资金5万元（量子位 QbitAI）
+- 抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！（量子位 QbitAI）
+- 阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行（量子位 QbitAI）
+- 智能不出彩的「领克」，刚靠一次坠崖事故出圈了（量子位 QbitAI）
+- 《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了（量子位 QbitAI）
+- STEPX首款大模型原生智能体手机STEPX Neo正式发布（量子位 QbitAI）
+- MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片（量子位 QbitAI）
+- 国内最年轻AI教授创业：要让世界模型走向全身全模态（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
+
+<a id="抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点"></a>
+#### 抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！
+摘要：“具身进实景，劳动最光荣”
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503294.html)
+
+<a id="智能不出彩的领克刚靠一次坠崖事故出圈了"></a>
+#### 智能不出彩的「领克」，刚靠一次坠崖事故出圈了
+摘要：汽车竞争正在回归汽车本身
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503231.html)
+
+<a id="变形计综艺赛博复活ai版mrbeast爆火libtv下场造星了"></a>
+#### 《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了
+摘要：从创意到成本，AI正在重写综艺的生产逻辑
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503211.html)
+
+<a id="memsilicon完成国际首款高密度大容量1t4r-1gb-rram芯片流片"></a>
+#### MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片
+摘要：CMOS标准工艺兼容的1TnR技术路线加速研发。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503198.html)
+
+<a id="国内最年轻ai教授创业要让世界模型走向全身全模态"></a>
+#### 国内最年轻AI教授创业：要让世界模型走向全身全模态
+摘要：给Ego补上缺失的交互信息
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503172.html)
 
 <a id="open-models-have-real-benefits-do-they-outweigh-the-risks"></a>
 #### Open models have real benefits. Do they outweigh the risks?
@@ -36,84 +61,56 @@ title: "AI 资讯博客 - 今日更新"
 摘要：When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pendi
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/)
 
-<a id="how-to-use-metas-rebalancer-for-task-placement-optimization"></a>
-#### How to Use Meta’s Rebalancer for Task Placement & Optimization
-摘要：In this comprehensive coding tutorial, we explore Meta's Rebalancer assignment solver using its C++ core and Python bindings. Learn how to build datacenters, manage task placements across racks, handle constraints and goal priorities, and compare local search against the exact HiGHS solver using pub
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/13/how-to-use-metas-rebalancer-for-task-placement-optimization/)
+<a id="fish-audio-releases-drama-3-a-35b-open-weight-moe-text-to-speech-model"></a>
+#### Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model
+摘要：Fish Audio released Drama 3, a 35B mixture-of-experts text-to-speech model with about 3B active parameters. It takes plain-language direction, covers 83 languages and ships open weights under a revenue-capped community license. The post Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Spee
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/)
 
-<a id="expanding-the-cyber-verification-programannouncementsoct-6-2026were-launching-a-"></a>
-#### Expanding the Cyber Verification ProgramAnnouncementsOct 6, 2026We’re launching a new, expanded version of our Cyber Ver
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/cyber-verification-program)
+### 多模态
 
-<a id="oct-8-2026announcements2026-usage-policy-update"></a>
-#### Oct 8, 2026Announcements2026 Usage Policy update
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/2026-usage-policy-update)
-
-<a id="oct-8-2026announcementsbuilding-on-our-commitment-to-american-scientific-discove"></a>
-#### Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/genesis-mission-commitment)
-
-<a id="oct-8-2026announcementsintroducing-the-anthropic-cyber-mission"></a>
-#### Oct 8, 2026AnnouncementsIntroducing the Anthropic Cyber Mission
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/anthropic-cyber-mission)
-
-<a id="oct-2-2026announcementsanthropic-invests-100-million-to-train-10000-engineers-an"></a>
-#### Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/claude-frontier-academy)
-
-<a id="oct-1-2026announcementsbarclays-scales-claude-to-upgrade-operations-and-improve-"></a>
-#### Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/barclays-scales-claude)
-
-<a id="sep-23-2026scienceclaude-discovers-a-novel-enzyme-system-with-crispr-like-repeat"></a>
-#### Sep 23, 2026ScienceClaude discovers a novel enzyme system with CRISPR-like repeats
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
-
-<a id="sep-18-2026announcementspartnering-with-accenture-on-embedded-evaluation"></a>
-#### Sep 18, 2026AnnouncementsPartnering with Accenture on embedded evaluation
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/accenture-embedded-evaluation)
+<a id="datalab-releases-omniparsebench-an-open-ocr-benchmark-with-16288-passfail-tests-"></a>
+#### Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers
+摘要：Datalab released OmniParseBench, an open OCR benchmark with 16,288 yes/no tests on 2,937 pages in 92 languages. Every score is a pass rate you can slice by tag, script or language. The post Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers appear
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark/)
 
 ### 智能体Agent
 
-<a id="meta-launches-muse-wonder-and-muse-wonder-full-benchmarks-pricing-and-how-to-use"></a>
-#### Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It
-摘要：Meta released Muse Wonder and Muse Wonder Full, 1M-context agent models. Muse Wonder costs $4/$20 per million tokens on Meta Model API. Wonder Full, on Muse Code plans, leads DeepSWE and SWE-Marathon. The post Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It appe
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/)
+<a id="7天几百元开一家店用千问办公电商版立省启动资金5万元"></a>
+#### 7天几百元开一家店！用千问办公电商版，立省启动资金5万元
+摘要：给企业Agent打了个样
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503303.html)
 
-<a id="zai-glm-legal-beats-claude-fable-5-and-kimi-k3-on-harvey-lab"></a>
-#### Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB
-摘要：Z.ai’s GLM-Legal is a legal AI model built on GLM-5.3-Flash. It scores 19.2% all-pass on Harvey’s Legal Agent Benchmark, nearly 3x its base, at $0.15 per test. Access is by application. The post Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB appeared first on MarkTechPost.
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/)
+<a id="阶跃终端首款agent手机stepx-neo正式发布创客先行"></a>
+#### 阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行
+摘要：这妥妥是个物理版Agent啊！
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503244.html)
 
-<a id="alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-hor"></a>
-#### Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents
-摘要：Alibaba&#8217;s Qwen team has introduced QwenGyre, an elastic reinforcement learning RL framework for extreme-long-horizon agent training. QwenGyre is an online reinforcement learning system from Alibaba that trains coding agents through unmodified, black-box harnesses. It targets rollouts that run 
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/)
+<a id="stepx首款大模型原生智能体手机stepx-neo正式发布"></a>
+#### STEPX首款大模型原生智能体手机STEPX Neo正式发布
+摘要：2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503201.html)
 
-<a id="top-12-ai-live-translation-tools-in-2026-latency-languages-pricing"></a>
-#### Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing
-摘要：We checked 12 AI live translation tools, including Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter and Wordly, against official pages for languages, latency, platforms and pricing. The post Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing appeared first on Mark
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/)
+<a id="调度效率提升80商汤大装置助力上海量子城市首批智能体落地"></a>
+#### 调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地
+摘要：从“懂空间”到“能干活”
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503173.html)
+
+<a id="响应速度比claude-code快3倍实现真正无限上下文apus-ai开源reflex-agent"></a>
+#### 响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent
+摘要：10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503165.html)
 
 ### 训练与推理优化
 
-<a id="top-12-ai-live-translation-tools-in-2026-latency-languages-pricing"></a>
-#### Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing
-摘要：We checked 12 AI live translation tools, including Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter and Wordly, against official pages for languages, latency, platforms and pricing. The post Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing appeared first on Mark
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/)
+<a id="9-best-ai-gateways-in-2026-bifrost-portkey-litellm-kong-and-5-more-ranked"></a>
+#### 9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked
+摘要：Marktechpost ranks the 9 best AI gateways for 2026. We compare Bifrost, Portkey, LiteLLM, Kong, TrueFoundry, Cloudflare, Vercel, OpenRouter and Orq.ai on latency, pricing, licensing, governance and deployment. The post 9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked app
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/)
 
 ## 延伸阅读
 
-- [Open models have real benefits. Do they outweigh the risks?](https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/)
-- [AI labs are buying data from dead startups to train their models](https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/)
-- [Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It](https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/)
-- [How to Use Meta’s Rebalancer for Task Placement & Optimization](https://www.marktechpost.com/2026/10/13/how-to-use-metas-rebalancer-for-task-placement-optimization/)
-- [Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB](https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/)
+- [7天几百元开一家店！用千问办公电商版，立省启动资金5万元](https://www.qbitai.com/2026/10/503303.html)
+- [抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！](https://www.qbitai.com/2026/10/503294.html)
+- [阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行](https://www.qbitai.com/2026/10/503244.html)
+- [智能不出彩的「领克」，刚靠一次坠崖事故出圈了](https://www.qbitai.com/2026/10/503231.html)
+- [《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了](https://www.qbitai.com/2026/10/503211.html)

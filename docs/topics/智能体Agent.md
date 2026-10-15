@@ -420,3 +420,8 @@
 - 2026-10-14｜Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB → [查看](../posts/2026-10-14.md#zai-glm-legal-beats-claude-fable-5-and-kimi-k3-on-harvey-lab)
 - 2026-10-14｜Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents → [查看](../posts/2026-10-14.md#alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-hor)
 - 2026-10-14｜Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing → [查看](../posts/2026-10-14.md#top-12-ai-live-translation-tools-in-2026-latency-languages-pricing)
+- 2026-10-15｜7天几百元开一家店！用千问办公电商版，立省启动资金5万元 → [查看](../posts/2026-10-15.md#7天几百元开一家店用千问办公电商版立省启动资金5万元)
+- 2026-10-15｜阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行 → [查看](../posts/2026-10-15.md#阶跃终端首款agent手机stepx-neo正式发布创客先行)
+- 2026-10-15｜STEPX首款大模型原生智能体手机STEPX Neo正式发布 → [查看](../posts/2026-10-15.md#stepx首款大模型原生智能体手机stepx-neo正式发布)
+- 2026-10-15｜调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地 → [查看](../posts/2026-10-15.md#调度效率提升80商汤大装置助力上海量子城市首批智能体落地)
+- 2026-10-15｜响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent → [查看](../posts/2026-10-15.md#响应速度比claude-code快3倍实现真正无限上下文apus-ai开源reflex-agent)
