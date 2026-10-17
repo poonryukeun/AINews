@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-10-16** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-10-17** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -66,22 +66,22 @@ title: "AI 资讯博客 - 今日更新"
 摘要：曝国行12月上线
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503434.html)
 
+<a id="roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"></a>
+#### Roundtables: A Conversation With the Creator of AI-Designed Viruses
+摘要：Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/)
+
 ### 多模态
+
+<a id="liquid-ai-releases-d1-ultra-a-multimodal-decision-model-that-scores-65-on-the-aa"></a>
+#### Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index
+摘要：Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens. The post Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on 
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/)
 
 <a id="nvidia-releases-nemotron-35-super-vl-a-120b-open-multimodal-agent-model"></a>
 #### NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model
 摘要：NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 DGX Spark, plus 2 Bolt edge models. The post NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model appeared first on Mar
 来源：[MarkTechPost](https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/)
-
-<a id="openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source"></a>
-#### openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026
-摘要：At Open Source Summit Europe 2026, openKylin outlined its vision for transitioning from resource management to intent management in the AI era. The community introduced KART, a unified AI runtime, alongside core desktop features in openKylin 3.0 like the AI Assistant, Global Intelligent Search, and 
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/)
-
-<a id="typesafe-ai-releases-jev-114-with-images-box-type-and-262k-context"></a>
-#### TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context
-摘要：TypeSafe AI released Jev 1.14 under the jev-preview alias. The System One model adds experimental image input, a Box bounding-box type and an opt-in 262k-token context, at $0.042 per million input tokens. The post TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context appeared first on
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/)
 
 ### 智能体Agent
 
@@ -95,6 +95,11 @@ title: "AI 资讯博客 - 今日更新"
 摘要：10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503611.html)
 
+<a id="perplexity-open-sources-space-a-firecracker-microvm-sandbox-for-ai-agents"></a>
+#### Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents
+摘要：Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. The code ships under Apache 2.0 on GitHub. For teams
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/)
+
 <a id="meta-releases-muse-spark-open-816b-open-weight-moe-with-1m-context"></a>
 #### Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context
 摘要：Meta released Muse Spark Open, an 816B-parameter open-weight MoE model with 42B active parameters and a 1M-token context. It leads open models on MCP-Atlas and runs on 2 M5 Ultra Mac Studios. The post Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context appeared first on MarkTechPost.
@@ -104,11 +109,6 @@ title: "AI 资讯博客 - 今日更新"
 #### NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model
 摘要：NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 DGX Spark, plus 2 Bolt edge models. The post NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model appeared first on Mar
 来源：[MarkTechPost](https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/)
-
-<a id="copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-a"></a>
-#### CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data
-摘要：Introduction Teams shipping AI agents at scale keep running into the same pattern. Even agents built on top-tier models like Fable and Astra struggle to carry out complex, end-to-end tasks inside a specific product consistently enough to deploy. So teams grind out evals for the workflows that matter
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/)
 
 ## 延伸阅读
 

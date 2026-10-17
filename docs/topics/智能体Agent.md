@@ -430,3 +430,8 @@
 - 2026-10-16｜Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context → [查看](../posts/2026-10-16.md#meta-releases-muse-spark-open-816b-open-weight-moe-with-1m-context)
 - 2026-10-16｜NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model → [查看](../posts/2026-10-16.md#nvidia-releases-nemotron-35-super-vl-a-120b-open-multimodal-agent-model)
 - 2026-10-16｜CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data → [查看](../posts/2026-10-16.md#copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-a)
+- 2026-10-17｜量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架 → [查看](../posts/2026-10-17.md#量子位智库发布agent落地报告拆解企业智能化六大断点附全链路破局框架)
+- 2026-10-17｜2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者 → [查看](../posts/2026-10-17.md#2026-tmot首个ai智能体走进电音现场让听众成为音乐共创者)
+- 2026-10-17｜Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents → [查看](../posts/2026-10-17.md#perplexity-open-sources-space-a-firecracker-microvm-sandbox-for-ai-agents)
+- 2026-10-17｜Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context → [查看](../posts/2026-10-17.md#meta-releases-muse-spark-open-816b-open-weight-moe-with-1m-context)
+- 2026-10-17｜NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model → [查看](../posts/2026-10-17.md#nvidia-releases-nemotron-35-super-vl-a-120b-open-multimodal-agent-model)
