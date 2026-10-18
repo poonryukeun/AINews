@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-10-17** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-10-18** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,107 +13,102 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
-- 京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相（量子位 QbitAI）
-- 库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本（量子位 QbitAI）
-- 量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架（量子位 QbitAI）
-- 2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者（量子位 QbitAI）
-- 这个双十一，百灵新模型干起活来不烧心（量子位 QbitAI）
-- AI时代，商学院这样培养未来商业领袖（量子位 QbitAI）
-- 基元律动宣布开发者入驻超30万，开启双11预售福利（量子位 QbitAI）
-- 苹果AI国内上线，阿里百度浮出水面（量子位 QbitAI）
+- 清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型（量子位 QbitAI）
+- 从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？（量子位 QbitAI）
+- 说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历（量子位 QbitAI）
+- 霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力（量子位 QbitAI）
+- 范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”（量子位 QbitAI）
+- 68岁亚马逊CTO：别让恐惧，替企业做AI决策（量子位 QbitAI）
+- 超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户（量子位 QbitAI）
+- 百度世界2026五大亮点曝光，企业和开发者值得关注什么？（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
 
-<a id="京东1111首日下单用户数同比双位数增长超百项服务首次全景亮相"></a>
-#### 京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相
-摘要：京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503645.html)
+<a id="清华特奖得主ai创业再1geopt一作入局物理世界模型"></a>
+#### 清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型
+摘要：从搭载物理建模能力的世界模型切入
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503880.html)
 
-<a id="库克苹果智能接入阿里千问大模型10月底在中国发布测试版本"></a>
-#### 库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本
-摘要：Siri AI这次不包括在内
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503640.html)
+<a id="从看懂世界到预演下一步世界模型与-vla如何让机器人拥有真正的具身大脑"></a>
+#### 从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？
+摘要：VLA解决“能干”，世界模型解决“想清楚再干”
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503865.html)
 
-<a id="这个双十一百灵新模型干起活来不烧心"></a>
-#### 这个双十一，百灵新模型干起活来不烧心
-摘要：大模型好不好用，百灵拿成品说话
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503532.html)
+<a id="范式智能联合睿思智联推出开源一站式-生产级-ai-部署平台-模域modelsphere"></a>
+#### 范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”
+摘要：范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503829.html)
 
-<a id="ai时代商学院这样培养未来商业领袖"></a>
-#### AI时代，商学院这样培养未来商业领袖
-摘要：未来十年共创1000个AI课题
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503504.html)
+<a id="68岁亚马逊cto别让恐惧替企业做ai决策"></a>
+#### 68岁亚马逊CTO：别让恐惧，替企业做AI决策
+摘要：经验没有压缩算法
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503815.html)
 
-<a id="基元律动宣布开发者入驻超30万开启双11预售福利"></a>
-#### 基元律动宣布开发者入驻超30万，开启双11预售福利
-摘要：基元律动（Token Rhythm）宣布已有超过30万名开发者入驻，同期推出双11预售限时福利。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503501.html)
+<a id="超1亿元融资砸向四川具身科技要把情绪价值卖进千家万户"></a>
+#### 超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户
+摘要：9.8万元起售，冲刺万台量产
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503782.html)
 
-<a id="苹果ai国内上线阿里百度浮出水面"></a>
-#### 苹果AI国内上线，阿里百度浮出水面
-摘要：苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503497.html)
+<a id="百度世界2026五大亮点曝光企业和开发者值得关注什么"></a>
+#### 百度世界2026五大亮点曝光，企业和开发者值得关注什么？
+摘要：10月15日，百度官方公众号发文公布百度世界2026五大亮点
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503779.html)
 
-<a id="前华为小艺大模型负责人创业押注主动式物理ai"></a>
-#### 前华为小艺大模型负责人创业，押注“主动式物理AI”
-摘要：（无摘要）
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503446.html)
+<a id="中国机器人羽毛球连打1452拍拿下吉尼斯波士顿动力大佬被硬控"></a>
+#### 中国机器人羽毛球连打1452拍！拿下吉尼斯，波士顿动力大佬被硬控
+摘要：背后是一套通用物理运动平台
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503756.html)
 
-<a id="刚刚苹果正式迈入5万亿美元时代"></a>
-#### 刚刚，苹果正式迈入5万亿美元时代
-摘要：曝国行12月上线
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503434.html)
+<a id="刚刚gemini-4终于来了谷歌重回御三家api限时半价"></a>
+#### 刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价
+摘要：谷歌就是季节性气候模型公司
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503701.html)
 
 <a id="roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"></a>
 #### Roundtables: A Conversation With the Creator of AI-Designed Viruses
 摘要：Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/)
 
+<a id="deepseek-just-released-v41-flash-1017-scores-770-on-deepswe-opens-search-api"></a>
+#### DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API
+摘要：DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores, faster task completion and shorter outputs than the September V4.1-Flash release. The company calls it a Pareto improvement
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/)
+
+<a id="20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026"></a>
+#### 20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026
+摘要：TypeSafe launched Jev on September 15, 2026. It is a decision model, not a chatbot. You define the allowed answers, and Jev returns a label, a score or a yes/no probability. In about 4 weeks, at least 20 Jev alternatives shipped. They come from Cloudflare, OpenAI, Perplexity, Liquid AI, AWS&#8217;s 
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/)
+
 ### 多模态
 
-<a id="liquid-ai-releases-d1-ultra-a-multimodal-decision-model-that-scores-65-on-the-aa"></a>
-#### Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index
-摘要：Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens. The post Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on 
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/)
+<a id="霸榜三大基准优必选-thinker-wm多模态统一表征单模型实现六大能力"></a>
+#### 霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力
+摘要：优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503843.html)
 
-<a id="nvidia-releases-nemotron-35-super-vl-a-120b-open-multimodal-agent-model"></a>
-#### NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model
-摘要：NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 DGX Spark, plus 2 Bolt edge models. The post NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model appeared first on Mar
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/)
+<a id="meet-kyutai-reki-the-24b-vla-model-bringing-efficient-memory-to-robot-manipulati"></a>
+#### Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation
+摘要：Kyutai, with Inria and École des Ponts, has released REKI, a 2.4B vision-language-action model (VLA) for robot manipulation. The REKI vision-language-action model is pretrained only on public data. It also carries a cheap memory of its recent past. On three out-of-distribution benchmarks, only model
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/)
 
 ### 智能体Agent
 
-<a id="量子位智库发布agent落地报告拆解企业智能化六大断点附全链路破局框架"></a>
-#### 量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架
-摘要：Agent究竟该如何深入业务毛细血管？
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503614.html)
+<a id="说真话就能拿10万网易叭哥说重金求真需求不卡专业学历"></a>
+#### 说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历
+摘要：网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503861.html)
 
-<a id="2026-tmot首个ai智能体走进电音现场让听众成为音乐共创者"></a>
-#### 2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者
-摘要：10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/503611.html)
-
-<a id="perplexity-open-sources-space-a-firecracker-microvm-sandbox-for-ai-agents"></a>
-#### Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents
-摘要：Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. The code ships under Apache 2.0 on GitHub. For teams
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/)
-
-<a id="meta-releases-muse-spark-open-816b-open-weight-moe-with-1m-context"></a>
-#### Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context
-摘要：Meta released Muse Spark Open, an 816B-parameter open-weight MoE model with 42B active parameters and a 1M-token context. It leads open models on MCP-Atlas and runs on 2 M5 Ultra Mac Studios. The post Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context appeared first on MarkTechPost.
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/15/meta-muse-spark-open-816b-open-weight-model/)
-
-<a id="nvidia-releases-nemotron-35-super-vl-a-120b-open-multimodal-agent-model"></a>
-#### NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model
-摘要：NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 DGX Spark, plus 2 Bolt edge models. The post NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model appeared first on Mar
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/)
+<a id="stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context"></a>
+#### StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context
+摘要：StepFun has released Step 5 Preview as open weights. FP8 and BF16 checkpoints are live on Hugging Face and ModelScope. Step 5 Preview is a sparse Mixture-of-Experts model from StepFun built for long-horizon agentic work. It has 600B total parameters, 27B active per token and up to 1M tokens of conte
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/16/stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context/)
 
 ## 延伸阅读
 
-- [京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相](https://www.qbitai.com/2026/10/503645.html)
-- [库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本](https://www.qbitai.com/2026/10/503640.html)
-- [量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架](https://www.qbitai.com/2026/10/503614.html)
-- [2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者](https://www.qbitai.com/2026/10/503611.html)
-- [这个双十一，百灵新模型干起活来不烧心](https://www.qbitai.com/2026/10/503532.html)
+- [清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型](https://www.qbitai.com/2026/10/503880.html)
+- [从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？](https://www.qbitai.com/2026/10/503865.html)
+- [说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历](https://www.qbitai.com/2026/10/503861.html)
+- [霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力](https://www.qbitai.com/2026/10/503843.html)
+- [范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”](https://www.qbitai.com/2026/10/503829.html)

@@ -435,3 +435,5 @@
 - 2026-10-17｜Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents → [查看](../posts/2026-10-17.md#perplexity-open-sources-space-a-firecracker-microvm-sandbox-for-ai-agents)
 - 2026-10-17｜Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context → [查看](../posts/2026-10-17.md#meta-releases-muse-spark-open-816b-open-weight-moe-with-1m-context)
 - 2026-10-17｜NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model → [查看](../posts/2026-10-17.md#nvidia-releases-nemotron-35-super-vl-a-120b-open-multimodal-agent-model)
+- 2026-10-18｜说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历 → [查看](../posts/2026-10-18.md#说真话就能拿10万网易叭哥说重金求真需求不卡专业学历)
+- 2026-10-18｜StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context → [查看](../posts/2026-10-18.md#stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context)
