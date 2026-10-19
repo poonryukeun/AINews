@@ -437,3 +437,8 @@
 - 2026-10-17｜NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model → [查看](../posts/2026-10-17.md#nvidia-releases-nemotron-35-super-vl-a-120b-open-multimodal-agent-model)
 - 2026-10-18｜说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历 → [查看](../posts/2026-10-18.md#说真话就能拿10万网易叭哥说重金求真需求不卡专业学历)
 - 2026-10-18｜StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context → [查看](../posts/2026-10-18.md#stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context)
+- 2026-10-19｜清华开源！智能体操作系统任务成本降83%，AI记忆可查可改 → [查看](../posts/2026-10-19.md#清华开源智能体操作系统任务成本降83ai记忆可查可改)
+- 2026-10-19｜TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web → [查看](../posts/2026-10-19.md#tinyfish-makes-search-free-what-it-really-costs-an-ai-agent-to-read-the-web)
+- 2026-10-19｜Google Open-Sources Harness2, a Recursive Agent Harnessing Framework → [查看](../posts/2026-10-19.md#google-open-sources-harness2-a-recursive-agent-harnessing-framework)
+- 2026-10-19｜Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI → [查看](../posts/2026-10-19.md#meet-voxel51-30-a-unified-multimodal-data-platform-for-physical-ai)
+- 2026-10-19｜StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context → [查看](../posts/2026-10-19.md#stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context)
