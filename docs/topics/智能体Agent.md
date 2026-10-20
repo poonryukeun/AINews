@@ -442,3 +442,7 @@
 - 2026-10-19｜Google Open-Sources Harness2, a Recursive Agent Harnessing Framework → [查看](../posts/2026-10-19.md#google-open-sources-harness2-a-recursive-agent-harnessing-framework)
 - 2026-10-19｜Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI → [查看](../posts/2026-10-19.md#meet-voxel51-30-a-unified-multimodal-data-platform-for-physical-ai)
 - 2026-10-19｜StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context → [查看](../posts/2026-10-19.md#stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context)
+- 2026-10-20｜Making the internet better for AI agents might make it worse for everyone else → [查看](../posts/2026-10-20.md#making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else)
+- 2026-10-20｜AI researchers stranded Claude on a virtual desert island. It started to “play.” → [查看](../posts/2026-10-20.md#ai-researchers-stranded-claude-on-a-virtual-desert-island-it-started-to-play)
+- 2026-10-20｜Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59 → [查看](../posts/2026-10-20.md#meet-drex-max-nace-ais-multimodal-decision-model-for-computer-use-agents-with-a-)
+- 2026-10-20｜MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input → [查看](../posts/2026-10-20.md#minimax-just-launched-m31-flash-428b-moe-agentic-model-at-015m-input)
