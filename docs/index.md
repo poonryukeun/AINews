@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-10-20** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-10-21** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,109 +13,102 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
-- Claude新模型曝光！能跳出思维定势，修Bug治标又治本（量子位 QbitAI）
-- 从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务（量子位 QbitAI）
-- 通研院孵化的团队，也盯上了RSI（量子位 QbitAI）
-- 2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行（量子位 QbitAI）
-- 全栈自研！国产高端互连芯片，稳了!（量子位 QbitAI）
-- AI 开始挑战最复杂的系统：生命（量子位 QbitAI）
-- 达摩院玄铁出席RISC-V中国峰会，首发车规产品路线图（量子位 QbitAI）
-- 赛场交卷 未来已来——首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕（量子位 QbitAI）
+- 飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人（量子位 QbitAI）
+- 理想宣布：电池自燃报废赔新车！自研6年后有底气了（量子位 QbitAI）
+- 国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价（量子位 QbitAI）
+- RSI三块关键拼图，MemT 1.0从模型层补上「记忆」（量子位 QbitAI）
+- 比亚迪成为2026年APEC会议官方合作伙伴（量子位 QbitAI）
+- 技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展（量子位 QbitAI）
+- 首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效（量子位 QbitAI）
+- Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
 
-<a id="claude新模型曝光能跳出思维定势修bug治标又治本"></a>
-#### Claude新模型曝光！能跳出思维定势，修Bug治标又治本
-摘要：OpenAI只掏出一个6.1 Terra…
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504314.html)
+<a id="飞书豆包工作ai先锋未来人才大赛企业正在争抢会用ai做成事的人"></a>
+#### 飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人
+摘要：先看真实问题解决力
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504608.html)
 
-<a id="从百比特芯片到整机交付这家量子计算公司正将量子算力推向可调用服务"></a>
-#### 从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务
-摘要：同步搭建千比特规模量子算力云平台
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504277.html)
+<a id="理想宣布电池自燃报废赔新车自研6年后有底气了"></a>
+#### 理想宣布：电池自燃报废赔新车！自研6年后有底气了
+摘要：电池、电驱、超充一把梭，冬天多跑30公里
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504551.html)
 
-<a id="通研院孵化的团队也盯上了rsi"></a>
-#### 通研院孵化的团队，也盯上了RSI
-摘要：当AI越来越懂你，如何让智能真正属于你？
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504294.html)
+<a id="rsi三块关键拼图memt-10从模型层补上记忆"></a>
+#### RSI三块关键拼图，MemT 1.0从模型层补上「记忆」
+摘要：把记忆原生焊进Transformer
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504456.html)
 
-<a id="2026物理ai与世界模型大会医疗健康世界模型分会场在南京举行"></a>
-#### 2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行
-摘要：2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504266.html)
+<a id="比亚迪成为2026年apec会议官方合作伙伴"></a>
+#### 比亚迪成为2026年APEC会议官方合作伙伴
+摘要：2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504452.html)
 
-<a id="全栈自研国产高端互连芯片稳了"></a>
-#### 全栈自研！国产高端互连芯片，稳了!
-摘要：六年蛰伏出货80万颗
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504225.html)
+<a id="技术赋能全球化深耕-比亚迪携多品牌亮相2026巴黎车展"></a>
+#### 技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展
+摘要：当地时间10月12日，2026巴黎国际车展正式启幕。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504435.html)
 
-<a id="ai-开始挑战最复杂的系统生命"></a>
-#### AI 开始挑战最复杂的系统：生命
-摘要：10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504242.html)
+<a id="meshy推出meshy-edit基于全新自研ai模型一句指令实现3d模型局部编辑"></a>
+#### Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑
+摘要：圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504415.html)
 
-<a id="达摩院玄铁出席risc-v中国峰会首发车规产品路线图"></a>
-#### 达摩院玄铁出席RISC-V中国峰会，首发车规产品路线图
-摘要：10月19日，RISC-V中国峰会在深圳举行。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504238.html)
+<a id="赛豆首款ai汽车公告图公示价格被按零件猜到了20万以上"></a>
+#### 赛豆首款AI汽车公告图公示，价格被按零件猜到了20万以上
+摘要：宁德时代电池上车
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504395.html)
 
-<a id="赛场交卷-未来已来首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕"></a>
-#### 赛场交卷 未来已来——首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕
-摘要：10月18日下午，首届全球具身智能应用创新挑战赛暨2026中国机器人大赛落下帷幕。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504199.html)
+<a id="ai硬件出海别当背景板gtc2026-shanghaiai硬件专区邀你占位"></a>
+#### AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位
+摘要：2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504372.html)
 
-<a id="谷歌开源rsi新成果华人浓度爆表"></a>
-#### 谷歌开源RSI新成果！华人浓度爆表
-摘要：Harness层的RSI
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504184.html)
+<a id="the-new-economics-of-enterprise-ai"></a>
+#### The new economics of enterprise AI
+摘要：Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/)
+
+<a id="a-visit-to-samsungs-massive-new-semiconductor-hub"></a>
+#### A visit to Samsung’s massive new semiconductor hub
+摘要：Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate ar
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/)
 
 <a id="we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world"></a>
 #### “We were looking at it wrong”: The explosive claim that’s upended the AI world
 摘要：“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautio
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/)
 
-### 多模态
-
-<a id="meet-drex-max-nace-ais-multimodal-decision-model-for-computer-use-agents-with-a-"></a>
-#### Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59
-摘要：Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens. The post Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/)
-
 ### 智能体Agent
+
+<a id="国模agent第一minimax爆改flash战力全时段大肥鱼谷价"></a>
+#### 国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价
+摘要：兔皮底下，竟然是MiniMax！
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504517.html)
+
+<a id="ai-adoption-by-industry-shows-what-other-sectors-can-learn"></a>
+#### AI adoption by industry shows what other sectors can learn
+摘要：The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts curre
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/)
 
 <a id="making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"></a>
 #### Making the internet better for AI agents might make it worse for everyone else
 摘要：This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like c
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/)
 
-<a id="ai-researchers-stranded-claude-on-a-virtual-desert-island-it-started-to-play"></a>
-#### AI researchers stranded Claude on a virtual desert island. It started to “play.”
-摘要：What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/)
-
-<a id="meet-drex-max-nace-ais-multimodal-decision-model-for-computer-use-agents-with-a-"></a>
-#### Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59
-摘要：Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens. The post Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/)
-
-<a id="minimax-just-launched-m31-flash-428b-moe-agentic-model-at-015m-input"></a>
-#### MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input
-摘要：MiniMax has released M3.1 Flash, a 428B-parameter MoE model with about 23B active parameters and a 1M-token context. API pricing is $0.15/$0.60 per 1M tokens, with weights due October 23 The post MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input appeared first on MarkTechPost
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/)
-
 ### 训练与推理优化
 
-<a id="日均6万亿token服务背后商汤大装置如何提升推理效能"></a>
-#### 日均6万亿Token服务背后，商汤大装置如何提升推理效能？
-摘要：AI基础设施竞争转向高质量Token产能
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504188.html)
+<a id="首token延迟降低324是石科技集群调度大招国产推理再提效"></a>
+#### 首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效
+摘要：最新发布TokenFleet调度框架
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504421.html)
 
 ## 延伸阅读
 
-- [Claude新模型曝光！能跳出思维定势，修Bug治标又治本](https://www.qbitai.com/2026/10/504314.html)
-- [从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务](https://www.qbitai.com/2026/10/504277.html)
-- [通研院孵化的团队，也盯上了RSI](https://www.qbitai.com/2026/10/504294.html)
-- [2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行](https://www.qbitai.com/2026/10/504266.html)
-- [全栈自研！国产高端互连芯片，稳了!](https://www.qbitai.com/2026/10/504225.html)
+- [飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人](https://www.qbitai.com/2026/10/504608.html)
+- [理想宣布：电池自燃报废赔新车！自研6年后有底气了](https://www.qbitai.com/2026/10/504551.html)
+- [国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价](https://www.qbitai.com/2026/10/504517.html)
+- [RSI三块关键拼图，MemT 1.0从模型层补上「记忆」](https://www.qbitai.com/2026/10/504456.html)
+- [比亚迪成为2026年APEC会议官方合作伙伴](https://www.qbitai.com/2026/10/504452.html)

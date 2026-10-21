@@ -446,3 +446,6 @@
 - 2026-10-20｜AI researchers stranded Claude on a virtual desert island. It started to “play.” → [查看](../posts/2026-10-20.md#ai-researchers-stranded-claude-on-a-virtual-desert-island-it-started-to-play)
 - 2026-10-20｜Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59 → [查看](../posts/2026-10-20.md#meet-drex-max-nace-ais-multimodal-decision-model-for-computer-use-agents-with-a-)
 - 2026-10-20｜MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input → [查看](../posts/2026-10-20.md#minimax-just-launched-m31-flash-428b-moe-agentic-model-at-015m-input)
+- 2026-10-21｜国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价 → [查看](../posts/2026-10-21.md#国模agent第一minimax爆改flash战力全时段大肥鱼谷价)
+- 2026-10-21｜AI adoption by industry shows what other sectors can learn → [查看](../posts/2026-10-21.md#ai-adoption-by-industry-shows-what-other-sectors-can-learn)
+- 2026-10-21｜Making the internet better for AI agents might make it worse for everyone else → [查看](../posts/2026-10-21.md#making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else)
