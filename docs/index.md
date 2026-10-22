@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-10-21** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-10-22** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -76,11 +76,6 @@ title: "AI 资讯博客 - 今日更新"
 摘要：Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate ar
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/)
 
-<a id="we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world"></a>
-#### “We were looking at it wrong”: The explosive claim that’s upended the AI world
-摘要：“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautio
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/)
-
 ### 智能体Agent
 
 <a id="国模agent第一minimax爆改flash战力全时段大肥鱼谷价"></a>
@@ -93,10 +88,15 @@ title: "AI 资讯博客 - 今日更新"
 摘要：The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts curre
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/)
 
-<a id="making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"></a>
-#### Making the internet better for AI agents might make it worse for everyone else
-摘要：This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like c
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/)
+<a id="recursive-releases-flint-an-open-weight-40b-moe-local-coding-model-for-agents-wi"></a>
+#### Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params
+摘要：Recursive has released Flint, an Apache 2.0 local coding model with 40B total and 2.5B active parameters. It reports 74.2% on SWE-bench Verified and 125+ tokens per second on an M4 Pro MacBook Pro. The post Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Acti
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/)
+
+<a id="vercel-open-sources-durable-harness-for-crash-proof-coding-agents"></a>
+#### Vercel Open-Sources durable-harness for Crash-Proof Coding Agents
+摘要：Vercel released durable-harness, an open-source package that logs every model and tool call so Pi, OpenCode, Claude Code and Codex sessions resume after crashes, timeouts and redeploys on Vercel, Postgres or a laptop. The post Vercel Open-Sources durable-harness for Crash-Proof Coding Agents appeare
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/)
 
 ### 训练与推理优化
 

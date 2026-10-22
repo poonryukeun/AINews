@@ -449,3 +449,7 @@
 - 2026-10-21｜国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价 → [查看](../posts/2026-10-21.md#国模agent第一minimax爆改flash战力全时段大肥鱼谷价)
 - 2026-10-21｜AI adoption by industry shows what other sectors can learn → [查看](../posts/2026-10-21.md#ai-adoption-by-industry-shows-what-other-sectors-can-learn)
 - 2026-10-21｜Making the internet better for AI agents might make it worse for everyone else → [查看](../posts/2026-10-21.md#making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else)
+- 2026-10-22｜国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价 → [查看](../posts/2026-10-22.md#国模agent第一minimax爆改flash战力全时段大肥鱼谷价)
+- 2026-10-22｜AI adoption by industry shows what other sectors can learn → [查看](../posts/2026-10-22.md#ai-adoption-by-industry-shows-what-other-sectors-can-learn)
+- 2026-10-22｜Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params → [查看](../posts/2026-10-22.md#recursive-releases-flint-an-open-weight-40b-moe-local-coding-model-for-agents-wi)
+- 2026-10-22｜Vercel Open-Sources durable-harness for Crash-Proof Coding Agents → [查看](../posts/2026-10-22.md#vercel-open-sources-durable-harness-for-crash-proof-coding-agents)
