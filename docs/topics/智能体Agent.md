@@ -453,3 +453,4 @@
 - 2026-10-22｜AI adoption by industry shows what other sectors can learn → [查看](../posts/2026-10-22.md#ai-adoption-by-industry-shows-what-other-sectors-can-learn)
 - 2026-10-22｜Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params → [查看](../posts/2026-10-22.md#recursive-releases-flint-an-open-weight-40b-moe-local-coding-model-for-agents-wi)
 - 2026-10-22｜Vercel Open-Sources durable-harness for Crash-Proof Coding Agents → [查看](../posts/2026-10-22.md#vercel-open-sources-durable-harness-for-crash-proof-coding-agents)
+- 2026-10-23｜多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院 → [查看](../posts/2026-10-23.md#多智能体协同重构医疗ai清华air孵化医生ai分身坐诊医院)
