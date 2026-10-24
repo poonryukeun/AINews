@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-10-23** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-10-24** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,18 +13,28 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
+- 百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径（量子位 QbitAI）
+- 又一国产决策模型发布！准确率超过微软和Jev等决策模型（量子位 QbitAI）
 - 特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先（量子位 QbitAI）
 - 既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布（量子位 QbitAI）
 - 谁在给OpenAI供应具身数据？（量子位 QbitAI）
-- 多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院（量子位 QbitAI）
-- 生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月（量子位 QbitAI）
-- LeCun押注的世界模型，中国一家清华系公司已经做进了机器人（量子位 QbitAI）
-- 量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板（量子位 QbitAI）
-- 实探宁德时代总部：“去宁化”是喊太大声了（量子位 QbitAI）
+- Designing an AI serving harness built to last（MIT Technology Review AI）
+- The Foundations of Scalable AI（MIT Technology Review AI）
+- Making the case for context-aware AI（MIT Technology Review AI）
 
 ## 主题速览
 
 ### 产品与应用
+
+<a id="百度世界2026前瞻10重磅分论坛全面解码ai时代的智能组织进化路径"></a>
+#### 百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径
+摘要：10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504901.html)
+
+<a id="又一国产决策模型发布准确率超过微软和jev等决策模型"></a>
+#### 又一国产决策模型发布！准确率超过微软和Jev等决策模型
+摘要：10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504879.html)
 
 <a id="特斯拉利润腰斩一夜跌没通用汽车马斯克fsd在中国也会遥遥领先"></a>
 #### 特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先
@@ -41,21 +51,6 @@ title: "AI 资讯博客 - 今日更新"
 摘要：挤进全球Physical AI核心供应链
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504800.html)
 
-<a id="生数科技motubrain团队将直播physical-ai训练全流程持续半个月"></a>
-#### 生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月
-摘要：10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504730.html)
-
-<a id="lecun押注的世界模型中国一家清华系公司已经做进了机器人"></a>
-#### LeCun押注的世界模型，中国一家清华系公司已经做进了机器人
-摘要：世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504653.html)
-
-<a id="实探宁德时代总部去宁化是喊太大声了"></a>
-#### 实探宁德时代总部：“去宁化”是喊太大声了
-摘要：电池开发，分工远比想象复杂
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504618.html)
-
 <a id="designing-an-ai-serving-harness-built-to-last"></a>
 #### Designing an AI serving harness built to last
 摘要：The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,
@@ -71,29 +66,29 @@ title: "AI 资讯博客 - 今日更新"
 摘要：Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/)
 
-<a id="gradium-open-sources-phonon-a-31m-parameter-on-device-tts-model-under-apache-20"></a>
-#### Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0
-摘要：Gradium has open-sourced Phonon, a family of on-device text-to-speech models. The English Phonon 31m ships under Apache 2.0, fits in 64.5 MB, and starts speaking in about 7 ms on a laptop CPU. The post Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0 appeared first o
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/)
+<a id="moonshot-ai-releases-kimi-k31-pro-a-28t-total104b-active-params-moe-model-with-1"></a>
+#### Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context
+摘要：Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026. The post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model 
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/)
 
-<a id="cohere-releases-rerank-5-with-passage-level-context-focus-and-calibrated-scores"></a>
-#### Cohere Releases Rerank 5 With Passage-Level Context Focus and Calibrated Scores
-摘要：Cohere Rerank 5 ships in Pro and Fast tiers with a 32K context window, Context Focus passage extraction and calibrated relevance scores. Pro scores 82.2 on BRIGHT and costs $0.05 per 1M tokens. The post Cohere Releases Rerank 5 With Passage-Level Context Focus and Calibrated Scores appeared first on
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/22/cohere-rerank-5-context-focus/)
+### 多模态
 
-### 安全与对齐
-
-<a id="量智齐飞4个月9款车落地轻舟城市noa击穿10-20万体验天花板"></a>
-#### 量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板
-摘要：百万台搭载打底，智驾普及与安全并重
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504638.html)
+<a id="kyutai-cadre-video-autoencoders-that-cut-world-model-lag-below-230-ms"></a>
+#### Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms
+摘要：Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under 230 ms. The post Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms appeared first on MarkTechPost.
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/)
 
 ### 智能体Agent
 
-<a id="多智能体协同重构医疗ai清华air孵化医生ai分身坐诊医院"></a>
-#### 多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院
-摘要：医疗AI质变时刻
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504734.html)
+<a id="tinyfish-breaks-down-agentic-search-architecture-for-production-ai-agents"></a>
+#### TinyFish Breaks Down Agentic Search Architecture for Production AI Agents
+摘要：TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents. The post TinyFish Breaks Down Agentic
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/)
+
+<a id="google-cloud-launches-agent-compute-engine-a-microvm-per-ai-agent"></a>
+#### Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent
+摘要：Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months. The post Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent ap
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/)
 
 ### 训练与推理优化
 
@@ -102,6 +97,11 @@ title: "AI 资讯博客 - 今日更新"
 摘要：Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from 
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/)
 
+<a id="youcom-launches-inference-router-12-open-weight-models-with-999-uptime-sla"></a>
+#### You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA
+摘要：You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee. The post You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA appeared first on M
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/)
+
 <a id="liquid-ai-launches-ripl-a-real-time-inference-engine-for-sub-50-ms-lfms"></a>
 #### Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs
 摘要：Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0.8B on vLLM. The post Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs appeared first on MarkTechPost.
@@ -109,8 +109,8 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 延伸阅读
 
+- [百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径](https://www.qbitai.com/2026/10/504901.html)
+- [又一国产决策模型发布！准确率超过微软和Jev等决策模型](https://www.qbitai.com/2026/10/504879.html)
 - [特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先](https://www.qbitai.com/2026/10/504841.html)
 - [既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布](https://www.qbitai.com/2026/10/504832.html)
 - [谁在给OpenAI供应具身数据？](https://www.qbitai.com/2026/10/504800.html)
-- [多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院](https://www.qbitai.com/2026/10/504734.html)
-- [生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月](https://www.qbitai.com/2026/10/504730.html)

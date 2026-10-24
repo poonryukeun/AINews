@@ -454,3 +454,5 @@
 - 2026-10-22｜Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params → [查看](../posts/2026-10-22.md#recursive-releases-flint-an-open-weight-40b-moe-local-coding-model-for-agents-wi)
 - 2026-10-22｜Vercel Open-Sources durable-harness for Crash-Proof Coding Agents → [查看](../posts/2026-10-22.md#vercel-open-sources-durable-harness-for-crash-proof-coding-agents)
 - 2026-10-23｜多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院 → [查看](../posts/2026-10-23.md#多智能体协同重构医疗ai清华air孵化医生ai分身坐诊医院)
+- 2026-10-24｜TinyFish Breaks Down Agentic Search Architecture for Production AI Agents → [查看](../posts/2026-10-24.md#tinyfish-breaks-down-agentic-search-architecture-for-production-ai-agents)
+- 2026-10-24｜Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent → [查看](../posts/2026-10-24.md#google-cloud-launches-agent-compute-engine-a-microvm-per-ai-agent)
