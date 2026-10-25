@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-10-24** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-10-25** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -14,13 +14,13 @@ title: "AI 资讯博客 - 今日更新"
 ## 今日要点
 
 - 百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径（量子位 QbitAI）
-- 又一国产决策模型发布！准确率超过微软和Jev等决策模型（量子位 QbitAI）
-- 特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先（量子位 QbitAI）
-- 既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布（量子位 QbitAI）
-- 谁在给OpenAI供应具身数据？（量子位 QbitAI）
-- Designing an AI serving harness built to last（MIT Technology Review AI）
-- The Foundations of Scalable AI（MIT Technology Review AI）
-- Making the case for context-aware AI（MIT Technology Review AI）
+- Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats（MarkTechPost）
+- How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide（MarkTechPost）
+- Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers（MarkTechPost）
+- Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows（MarkTechPost）
+- NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots（MarkTechPost）
+- Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms（MarkTechPost）
+- Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context（MarkTechPost）
 
 ## 主题速览
 
@@ -31,45 +31,30 @@ title: "AI 资讯博客 - 今日更新"
 摘要：10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504901.html)
 
-<a id="又一国产决策模型发布准确率超过微软和jev等决策模型"></a>
-#### 又一国产决策模型发布！准确率超过微软和Jev等决策模型
-摘要：10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504879.html)
-
-<a id="特斯拉利润腰斩一夜跌没通用汽车马斯克fsd在中国也会遥遥领先"></a>
-#### 特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先
-摘要：FSD一年增长70万付费用户
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504841.html)
-
-<a id="既能做选择题也能做填空题星辰意图理解模型xing40-29b-intent发布"></a>
-#### 既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布
-摘要：中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504832.html)
-
-<a id="谁在给openai供应具身数据"></a>
-#### 谁在给OpenAI供应具身数据？
-摘要：挤进全球Physical AI核心供应链
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504800.html)
-
-<a id="designing-an-ai-serving-harness-built-to-last"></a>
-#### Designing an AI serving harness built to last
-摘要：The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/)
-
-<a id="the-foundations-of-scalable-ai"></a>
-#### The Foundations of Scalable AI
-摘要：A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment a
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/)
-
-<a id="making-the-case-for-context-aware-ai"></a>
-#### Making the case for context-aware AI
-摘要：Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/)
-
 <a id="moonshot-ai-releases-kimi-k31-pro-a-28t-total104b-active-params-moe-model-with-1"></a>
 #### Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context
 摘要：Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026. The post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model 
 来源：[MarkTechPost](https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/)
+
+<a id="announcements"></a>
+#### Announcements
+摘要：（无摘要）
+来源：[Anthropic News](https://www.anthropic.com/news/announcements)
+
+<a id="investing-in-the-public-benefitwere-committing-a-portion-of-anthropics-shares-to"></a>
+#### Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a 
+摘要：（无摘要）
+来源：[Anthropic News](https://www.anthropic.com/news/public-benefit-fund)
+
+<a id="expanding-the-cyber-verification-programwere-launching-a-new-expanded-version-of"></a>
+#### Expanding the Cyber Verification ProgramWe’re launching a new, expanded version of our Cyber Verification Program, which
+摘要：（无摘要）
+来源：[Anthropic News](https://www.anthropic.com/news/cyber-verification-program)
+
+<a id="features"></a>
+#### Features
+摘要：（无摘要）
+来源：[Anthropic News](https://www.anthropic.com/news/features)
 
 ### 多模态
 
@@ -78,7 +63,39 @@ title: "AI 资讯博客 - 今日更新"
 摘要：Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under 230 ms. The post Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms appeared first on MarkTechPost.
 来源：[MarkTechPost](https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/)
 
+### 安全与对齐
+
+<a id="cognition-open-sources-an-agent-plugin-that-helps-secure-systems-against-recent-"></a>
+#### Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats
+摘要：Cognition released the Devin Vulnerability Fixes plugin, 3 MIT-licensed agent skills that inventory, patch and test PHP, Node.js and self-managed GitLab deployments hit by this week’s critical RCE flaws, then open 1 PR per repo. The post Cognition Open-Sources an Agent Plugin that Helps Secure Syste
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/)
+
 ### 智能体Agent
+
+<a id="cognition-open-sources-an-agent-plugin-that-helps-secure-systems-against-recent-"></a>
+#### Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats
+摘要：Cognition released the Devin Vulnerability Fixes plugin, 3 MIT-licensed agent skills that inventory, patch and test PHP, Node.js and self-managed GitLab deployments hit by this week’s critical RCE flaws, then open 1 PR per repo. The post Cognition Open-Sources an Agent Plugin that Helps Secure Syste
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/)
+
+<a id="how-to-run-underdog-saluki-27b-2-bit-qwen38-27b-tool-calling-guide"></a>
+#### How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide
+摘要：Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp The post How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide appeared first on MarkTechPost.
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/)
+
+<a id="meet-anthropics-sandbox-runtime-os-level-sandboxing-for-ai-agents-no-containers"></a>
+#### Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers
+摘要：Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed. The post Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/)
+
+<a id="stateful-agentic-engineering-copilots-with-letta-core-memory-shared-state-semant"></a>
+#### Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows
+摘要：Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival vector retrieval, multi-agent shared state, custom tools, and portable workflows. The post Stateful Agentic Engineering 
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/)
+
+<a id="nvidia-releases-nemotron-35-bolt-e4b-4gb-an-open-small-language-model-for-local-"></a>
+#### NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots
+摘要：NVIDIA released Nemotron 3.5 Bolt E4B 4GB, an open small language model post-trained from Gemma 4 E4B for local voice assistants, game characters and robots, targeting about 4GB of VRAM on RTX and Jetson. The post NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voic
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/)
 
 <a id="tinyfish-breaks-down-agentic-search-architecture-for-production-ai-agents"></a>
 #### TinyFish Breaks Down Agentic Search Architecture for Production AI Agents
@@ -92,25 +109,20 @@ title: "AI 资讯博客 - 今日更新"
 
 ### 训练与推理优化
 
-<a id="ais-hidden-storage-bill-what-inference-leaves-behind"></a>
-#### AI’s hidden storage bill: What inference leaves behind
-摘要：Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from 
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/)
+<a id="how-to-run-underdog-saluki-27b-2-bit-qwen38-27b-tool-calling-guide"></a>
+#### How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide
+摘要：Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp The post How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide appeared first on MarkTechPost.
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/)
 
 <a id="youcom-launches-inference-router-12-open-weight-models-with-999-uptime-sla"></a>
 #### You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA
 摘要：You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee. The post You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA appeared first on M
 来源：[MarkTechPost](https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/)
 
-<a id="liquid-ai-launches-ripl-a-real-time-inference-engine-for-sub-50-ms-lfms"></a>
-#### Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs
-摘要：Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0.8B on vLLM. The post Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs appeared first on MarkTechPost.
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/)
-
 ## 延伸阅读
 
 - [百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径](https://www.qbitai.com/2026/10/504901.html)
-- [又一国产决策模型发布！准确率超过微软和Jev等决策模型](https://www.qbitai.com/2026/10/504879.html)
-- [特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先](https://www.qbitai.com/2026/10/504841.html)
-- [既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布](https://www.qbitai.com/2026/10/504832.html)
-- [谁在给OpenAI供应具身数据？](https://www.qbitai.com/2026/10/504800.html)
+- [Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats](https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/)
+- [How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide](https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/)
+- [Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers](https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/)
+- [Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows](https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/)
