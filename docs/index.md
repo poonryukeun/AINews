@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-10-25** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-10-26** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,28 +13,33 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
-- 百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径（量子位 QbitAI）
+- Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model（MarkTechPost）
+- Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time（MarkTechPost）
+- Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster（MarkTechPost）
+- Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner（MarkTechPost）
+- Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents（MarkTechPost）
 - Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats（MarkTechPost）
 - How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide（MarkTechPost）
 - Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers（MarkTechPost）
-- Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows（MarkTechPost）
-- NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots（MarkTechPost）
-- Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms（MarkTechPost）
-- Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context（MarkTechPost）
 
 ## 主题速览
 
 ### 产品与应用
 
-<a id="百度世界2026前瞻10重磅分论坛全面解码ai时代的智能组织进化路径"></a>
-#### 百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径
-摘要：10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/504901.html)
+<a id="hugging-face-releases-carbon-x-a-14b-open-dna-language-model-that-brings-dna-and"></a>
+#### Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time
+摘要：Hugging Face released Carbon-X, an open 14.8B DNA language model built on Qwen3-14B. It reads raw DNA in chat, answers in English, and averages 66.7% across 5 DNA benchmarks under Apache 2.0. The post Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language 
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/)
 
-<a id="moonshot-ai-releases-kimi-k31-pro-a-28t-total104b-active-params-moe-model-with-1"></a>
-#### Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context
-摘要：Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026. The post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model 
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/)
+<a id="researchers-from-stanford-and-uc-berkeley-introduce-tokengate-token-gated-attent"></a>
+#### Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster
+摘要：Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-token by 1.4x to 11.3x and peak memory by 1.5x to 3.4x without accuracy loss. The post Researchers from Stanford and UC Berkeley Introduce TokenGate: T
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/)
+
+<a id="anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner"></a>
+#### Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner
+摘要：Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company&#8217;s strongest models, including Claude Mythos, against enrolled codebases. Reports go straight to maintainers without human review. That trade de
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/)
 
 <a id="announcements"></a>
 #### Announcements
@@ -56,12 +61,10 @@ title: "AI 资讯博客 - 今日更新"
 摘要：（无摘要）
 来源：[Anthropic News](https://www.anthropic.com/news/features)
 
-### 多模态
-
-<a id="kyutai-cadre-video-autoencoders-that-cut-world-model-lag-below-230-ms"></a>
-#### Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms
-摘要：Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under 230 ms. The post Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms appeared first on MarkTechPost.
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/)
+<a id="product"></a>
+#### Product
+摘要：（无摘要）
+来源：[Anthropic News](https://www.anthropic.com/news/product)
 
 ### 安全与对齐
 
@@ -71,6 +74,16 @@ title: "AI 资讯博客 - 今日更新"
 来源：[MarkTechPost](https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/)
 
 ### 智能体Agent
+
+<a id="nanbeige-releases-nanbeige43-33b-a-33b-open-agentic-coding-model"></a>
+#### Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model
+摘要：Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B. The post Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model appeared first on MarkTechPost.
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/)
+
+<a id="microsoft-open-sources-agensh-a-multi-agent-harness-for-1024-agents"></a>
+#### Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents
+摘要：Microsoft Research open-sourced Agensh, a multi-agent harness with no central orchestrator. Self-organizing workers share a Git repo, chat and a findings board, scaling from 1 to 1,024 agents on ProgramBench under a 6-hour budget. The post Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,0
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/)
 
 <a id="cognition-open-sources-an-agent-plugin-that-helps-secure-systems-against-recent-"></a>
 #### Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats
@@ -92,20 +105,10 @@ title: "AI 资讯博客 - 今日更新"
 摘要：Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival vector retrieval, multi-agent shared state, custom tools, and portable workflows. The post Stateful Agentic Engineering 
 来源：[MarkTechPost](https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/)
 
-<a id="nvidia-releases-nemotron-35-bolt-e4b-4gb-an-open-small-language-model-for-local-"></a>
-#### NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots
-摘要：NVIDIA released Nemotron 3.5 Bolt E4B 4GB, an open small language model post-trained from Gemma 4 E4B for local voice assistants, game characters and robots, targeting about 4GB of VRAM on RTX and Jetson. The post NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voic
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/)
-
-<a id="tinyfish-breaks-down-agentic-search-architecture-for-production-ai-agents"></a>
-#### TinyFish Breaks Down Agentic Search Architecture for Production AI Agents
-摘要：TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents. The post TinyFish Breaks Down Agentic
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/)
-
-<a id="google-cloud-launches-agent-compute-engine-a-microvm-per-ai-agent"></a>
-#### Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent
-摘要：Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months. The post Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent ap
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/)
+<a id="donating-agent-skills-to-the-agentic-ai-foundation"></a>
+#### Donating Agent Skills to the Agentic AI Foundation
+摘要：（无摘要）
+来源：[Anthropic News](https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation)
 
 ### 训练与推理优化
 
@@ -114,15 +117,10 @@ title: "AI 资讯博客 - 今日更新"
 摘要：Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp The post How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide appeared first on MarkTechPost.
 来源：[MarkTechPost](https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/)
 
-<a id="youcom-launches-inference-router-12-open-weight-models-with-999-uptime-sla"></a>
-#### You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA
-摘要：You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee. The post You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA appeared first on M
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/)
-
 ## 延伸阅读
 
-- [百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径](https://www.qbitai.com/2026/10/504901.html)
-- [Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats](https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/)
-- [How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide](https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/)
-- [Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers](https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/)
-- [Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows](https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/)
+- [Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model](https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/)
+- [Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time](https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/)
+- [Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster](https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/)
+- [Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner](https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/)
+- [Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents](https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/)
