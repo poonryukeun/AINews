@@ -470,3 +470,8 @@
 - 2026-10-26｜Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers → [查看](../posts/2026-10-26.md#meet-anthropics-sandbox-runtime-os-level-sandboxing-for-ai-agents-no-containers)
 - 2026-10-26｜Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows → [查看](../posts/2026-10-26.md#stateful-agentic-engineering-copilots-with-letta-core-memory-shared-state-semant)
 - 2026-10-26｜Donating Agent Skills to the Agentic AI Foundation → [查看](../posts/2026-10-26.md#donating-agent-skills-to-the-agentic-ai-foundation)
+- 2026-10-27｜OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work → [查看](../posts/2026-10-27.md#openai-launches-gpt-61-terra-halving-gpt-61-sols-api-price-for-agent-work)
+- 2026-10-27｜Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls → [查看](../posts/2026-10-27.md#nace-ai-releases-drex-for-search-for-ai-agents-9205-on-browsecomp-plus-with-126-)
+- 2026-10-27｜Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang → [查看](../posts/2026-10-27.md#tsinghua-ai-open-sources-akv-a-cache-engineering-server-for-llm-agents-on-sglang)
+- 2026-10-27｜Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model → [查看](../posts/2026-10-27.md#nanbeige-releases-nanbeige43-33b-a-33b-open-agentic-coding-model)
+- 2026-10-27｜Donating Agent Skills to the Agentic AI Foundation → [查看](../posts/2026-10-27.md#donating-agent-skills-to-the-agentic-ai-foundation)

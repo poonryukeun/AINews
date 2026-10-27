@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-10-26** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-10-27** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,18 +13,23 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
+- Will the real Anthropic please stand up（MIT Technology Review AI）
+- The focus on AI safety disasters ignores everyday harms（MIT Technology Review AI）
+- OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work（MarkTechPost）
+- Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls（MarkTechPost）
+- Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang（MarkTechPost）
 - Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model（MarkTechPost）
 - Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time（MarkTechPost）
 - Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster（MarkTechPost）
-- Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner（MarkTechPost）
-- Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents（MarkTechPost）
-- Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats（MarkTechPost）
-- How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide（MarkTechPost）
-- Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers（MarkTechPost）
 
 ## 主题速览
 
 ### 产品与应用
+
+<a id="will-the-real-anthropic-please-stand-up"></a>
+#### Will the real Anthropic please stand up
+摘要：This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/)
 
 <a id="hugging-face-releases-carbon-x-a-14b-open-dna-language-model-that-brings-dna-and"></a>
 #### Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time
@@ -61,49 +66,46 @@ title: "AI 资讯博客 - 今日更新"
 摘要：（无摘要）
 来源：[Anthropic News](https://www.anthropic.com/news/features)
 
-<a id="product"></a>
-#### Product
+<a id="anthropic-files-s-1-with-the-sec-for-proposed-initial-public-offering"></a>
+#### Anthropic files S-1 with the SEC for proposed initial public offering
 摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/product)
+来源：[Anthropic News](https://www.anthropic.com/news/s1-sec)
+
+### 多模态
+
+<a id="openai-launches-gpt-61-terra-halving-gpt-61-sols-api-price-for-agent-work"></a>
+#### OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work
+摘要：OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra’s medium-effort Agents’ Last Exam score at $0.29 per task versus $4.82. The post OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work appeared first
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/)
 
 ### 安全与对齐
 
-<a id="cognition-open-sources-an-agent-plugin-that-helps-secure-systems-against-recent-"></a>
-#### Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats
-摘要：Cognition released the Devin Vulnerability Fixes plugin, 3 MIT-licensed agent skills that inventory, patch and test PHP, Node.js and self-managed GitLab deployments hit by this week’s critical RCE flaws, then open 1 PR per repo. The post Cognition Open-Sources an Agent Plugin that Helps Secure Syste
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/)
+<a id="the-focus-on-ai-safety-disasters-ignores-everyday-harms"></a>
+#### The focus on AI safety disasters ignores everyday harms
+摘要：Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear th
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/)
 
 ### 智能体Agent
+
+<a id="openai-launches-gpt-61-terra-halving-gpt-61-sols-api-price-for-agent-work"></a>
+#### OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work
+摘要：OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra’s medium-effort Agents’ Last Exam score at $0.29 per task versus $4.82. The post OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work appeared first
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/)
+
+<a id="nace-ai-releases-drex-for-search-for-ai-agents-9205-on-browsecomp-plus-with-126-"></a>
+#### Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls
+摘要：Nace AI has released Drex for Search, bringing its Drex decision models to document search for AI agents. Nace reports 92.05% on BrowseComp-Plus with 12.6 search calls, and fewer agent turns on OfficeQA Pro. The post Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/)
+
+<a id="tsinghua-ai-open-sources-akv-a-cache-engineering-server-for-llm-agents-on-sglang"></a>
+#### Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang
+摘要：Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks. The post Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on S
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/)
 
 <a id="nanbeige-releases-nanbeige43-33b-a-33b-open-agentic-coding-model"></a>
 #### Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model
 摘要：Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B. The post Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model appeared first on MarkTechPost.
 来源：[MarkTechPost](https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/)
-
-<a id="microsoft-open-sources-agensh-a-multi-agent-harness-for-1024-agents"></a>
-#### Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents
-摘要：Microsoft Research open-sourced Agensh, a multi-agent harness with no central orchestrator. Self-organizing workers share a Git repo, chat and a findings board, scaling from 1 to 1,024 agents on ProgramBench under a 6-hour budget. The post Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,0
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/)
-
-<a id="cognition-open-sources-an-agent-plugin-that-helps-secure-systems-against-recent-"></a>
-#### Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats
-摘要：Cognition released the Devin Vulnerability Fixes plugin, 3 MIT-licensed agent skills that inventory, patch and test PHP, Node.js and self-managed GitLab deployments hit by this week’s critical RCE flaws, then open 1 PR per repo. The post Cognition Open-Sources an Agent Plugin that Helps Secure Syste
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/)
-
-<a id="how-to-run-underdog-saluki-27b-2-bit-qwen38-27b-tool-calling-guide"></a>
-#### How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide
-摘要：Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp The post How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide appeared first on MarkTechPost.
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/)
-
-<a id="meet-anthropics-sandbox-runtime-os-level-sandboxing-for-ai-agents-no-containers"></a>
-#### Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers
-摘要：Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed. The post Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/)
-
-<a id="stateful-agentic-engineering-copilots-with-letta-core-memory-shared-state-semant"></a>
-#### Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows
-摘要：Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival vector retrieval, multi-agent shared state, custom tools, and portable workflows. The post Stateful Agentic Engineering 
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/)
 
 <a id="donating-agent-skills-to-the-agentic-ai-foundation"></a>
 #### Donating Agent Skills to the Agentic AI Foundation
@@ -112,15 +114,15 @@ title: "AI 资讯博客 - 今日更新"
 
 ### 训练与推理优化
 
-<a id="how-to-run-underdog-saluki-27b-2-bit-qwen38-27b-tool-calling-guide"></a>
-#### How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide
-摘要：Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp The post How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide appeared first on MarkTechPost.
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/)
+<a id="tsinghua-ai-open-sources-akv-a-cache-engineering-server-for-llm-agents-on-sglang"></a>
+#### Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang
+摘要：Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks. The post Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on S
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/)
 
 ## 延伸阅读
 
-- [Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model](https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/)
-- [Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time](https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/)
-- [Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster](https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/)
-- [Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner](https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/)
-- [Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents](https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/)
+- [Will the real Anthropic please stand up](https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/)
+- [The focus on AI safety disasters ignores everyday harms](https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/)
+- [OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work](https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/)
+- [Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls](https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/)
+- [Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang](https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/)
