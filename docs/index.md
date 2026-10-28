@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-10-27** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-10-28** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,72 +13,87 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
-- Will the real Anthropic please stand up（MIT Technology Review AI）
-- The focus on AI safety disasters ignores everyday harms（MIT Technology Review AI）
-- OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work（MarkTechPost）
-- Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls（MarkTechPost）
-- Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang（MarkTechPost）
-- Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model（MarkTechPost）
-- Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time（MarkTechPost）
-- Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster（MarkTechPost）
+- 钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会（量子位 QbitAI）
+- 刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司（量子位 QbitAI）
+- AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验（量子位 QbitAI）
+- OpenAI开始断网训练最强模型：“安全起见”（量子位 QbitAI）
+- A社联创演讲：AI奇点已来（量子位 QbitAI）
+- NeoLab第一个商业模式：转售GPU（量子位 QbitAI）
+- 中国近50%的新云生意，竟被这家公司包揽！（量子位 QbitAI）
+- 从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
 
+<a id="刚刚anthropic公开335页招股书史上最大ipo史上最亏ai公司"></a>
+#### 刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司
+摘要：地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505551.html)
+
+<a id="ai时代一个人能有多大能量天禧ai-观猹大会现场实测个人ai跨端协同新体验"></a>
+#### AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验
+摘要：10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505539.html)
+
+<a id="a社联创演讲ai奇点已来"></a>
+#### A社联创演讲：AI奇点已来
+摘要：所谓奇点，或许是AI跃过人类的那个点。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505521.html)
+
+<a id="neolab第一个商业模式转售gpu"></a>
+#### NeoLab第一个商业模式：转售GPU
+摘要：从冲刺AGI到转售GPU。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505478.html)
+
+<a id="中国近50的新云生意竟被这家公司包揽"></a>
+#### 中国近50%的新云生意，竟被这家公司包揽！
+摘要：有点意外，但也不意外
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505454.html)
+
+<a id="从言传身教到触类旁通ai既需要名师指引也需要自我修行"></a>
+#### 从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”
+摘要：人工智能正在从人机“言传身教”走向自学“触类旁通”。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505443.html)
+
+<a id="长安汽车赵非汽车将成为端侧物理ai规模最大的应用载体-2026世界智能网联汽车大会"></a>
+#### 长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会
+摘要：10月21日，2026世界智能网联汽车大会在北京召开
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505436.html)
+
+<a id="趋境科技完成-b-轮融资半年实现超十倍速增长加速高品质-ai-token-规模化交付"></a>
+#### 趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付
+摘要：高品质 AI Token 成为行业新风向
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505429.html)
+
+<a id="industrial-intelligence-the-next-growth-opportunity-for-manufacturing"></a>
+#### Industrial Intelligence: The next growth opportunity for manufacturing
+摘要：Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, w
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/)
+
 <a id="will-the-real-anthropic-please-stand-up"></a>
 #### Will the real Anthropic please stand up
-摘要：This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u
+摘要：This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the compan
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/)
 
-<a id="hugging-face-releases-carbon-x-a-14b-open-dna-language-model-that-brings-dna-and"></a>
-#### Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time
-摘要：Hugging Face released Carbon-X, an open 14.8B DNA language model built on Qwen3-14B. It reads raw DNA in chat, answers in English, and averages 66.7% across 5 DNA benchmarks under Apache 2.0. The post Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language 
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/)
-
-<a id="researchers-from-stanford-and-uc-berkeley-introduce-tokengate-token-gated-attent"></a>
-#### Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster
-摘要：Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-token by 1.4x to 11.3x and peak memory by 1.5x to 3.4x without accuracy loss. The post Researchers from Stanford and UC Berkeley Introduce TokenGate: T
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/)
-
-<a id="anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner"></a>
-#### Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner
-摘要：Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company&#8217;s strongest models, including Claude Mythos, against enrolled codebases. Reports go straight to maintainers without human review. That trade de
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/)
-
-<a id="announcements"></a>
-#### Announcements
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/announcements)
-
-<a id="investing-in-the-public-benefitwere-committing-a-portion-of-anthropics-shares-to"></a>
-#### Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a 
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/public-benefit-fund)
-
-<a id="expanding-the-cyber-verification-programwere-launching-a-new-expanded-version-of"></a>
-#### Expanding the Cyber Verification ProgramWe’re launching a new, expanded version of our Cyber Verification Program, which
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/cyber-verification-program)
-
-<a id="features"></a>
-#### Features
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/features)
-
-<a id="anthropic-files-s-1-with-the-sec-for-proposed-initial-public-offering"></a>
-#### Anthropic files S-1 with the SEC for proposed initial public offering
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/s1-sec)
+<a id="meet-leann-an-open-source-vector-index-that-shrinks-a-60m-chunk-rag-index-from-2"></a>
+#### Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB
+摘要：UC Berkeley’s LEANN vector index stores a pruned graph and recomputes embeddings at query time. It matches HNSW accuracy at 90% recall using 4 GB instead of 188 GB, at the cost of seconds-level search. The post Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/)
 
 ### 多模态
 
-<a id="openai-launches-gpt-61-terra-halving-gpt-61-sols-api-price-for-agent-work"></a>
-#### OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work
-摘要：OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra’s medium-effort Agents’ Last Exam score at $0.29 per task versus $4.82. The post OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work appeared first
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/)
+<a id="liquid-ai-releases-lfm3-6-open-weight-2b-class-multimodal-models"></a>
+#### Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models
+摘要：Liquid AI released LFM3, 6 open-weight 2B-class models for text, vision, audio, omni and decisions. LFM3-1.7B uses a tri-hybrid backbone, a 256K context window and fits in about 1 GB at 4-bit. The post Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models appeared first on MarkTechPost.
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/)
 
 ### 安全与对齐
+
+<a id="openai开始断网训练最强模型安全起见"></a>
+#### OpenAI开始断网训练最强模型：“安全起见”
+摘要：模型开始利用GPU缓存聊天？
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505529.html)
 
 <a id="the-focus-on-ai-safety-disasters-ignores-everyday-harms"></a>
 #### The focus on AI safety disasters ignores everyday harms
@@ -87,42 +102,15 @@ title: "AI 资讯博客 - 今日更新"
 
 ### 智能体Agent
 
-<a id="openai-launches-gpt-61-terra-halving-gpt-61-sols-api-price-for-agent-work"></a>
-#### OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work
-摘要：OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra’s medium-effort Agents’ Last Exam score at $0.29 per task versus $4.82. The post OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work appeared first
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/)
-
-<a id="nace-ai-releases-drex-for-search-for-ai-agents-9205-on-browsecomp-plus-with-126-"></a>
-#### Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls
-摘要：Nace AI has released Drex for Search, bringing its Drex decision models to document search for AI agents. Nace reports 92.05% on BrowseComp-Plus with 12.6 search calls, and fewer agent turns on OfficeQA Pro. The post Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/)
-
-<a id="tsinghua-ai-open-sources-akv-a-cache-engineering-server-for-llm-agents-on-sglang"></a>
-#### Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang
-摘要：Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks. The post Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on S
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/)
-
-<a id="nanbeige-releases-nanbeige43-33b-a-33b-open-agentic-coding-model"></a>
-#### Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model
-摘要：Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B. The post Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model appeared first on MarkTechPost.
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/)
-
-<a id="donating-agent-skills-to-the-agentic-ai-foundation"></a>
-#### Donating Agent Skills to the Agentic AI Foundation
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation)
-
-### 训练与推理优化
-
-<a id="tsinghua-ai-open-sources-akv-a-cache-engineering-server-for-llm-agents-on-sglang"></a>
-#### Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang
-摘要：Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks. The post Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on S
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/)
+<a id="钛动科技发布行业首个pro-agent-navos-pro定义结果导向的ai-for-work-tgc-2026科技增长大会"></a>
+#### 钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会
+摘要：10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505580.html)
 
 ## 延伸阅读
 
-- [Will the real Anthropic please stand up](https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/)
-- [The focus on AI safety disasters ignores everyday harms](https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/)
-- [OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work](https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/)
-- [Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls](https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/)
-- [Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang](https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/)
+- [钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会](https://www.qbitai.com/2026/10/505580.html)
+- [刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司](https://www.qbitai.com/2026/10/505551.html)
+- [AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验](https://www.qbitai.com/2026/10/505539.html)
+- [OpenAI开始断网训练最强模型：“安全起见”](https://www.qbitai.com/2026/10/505529.html)
+- [A社联创演讲：AI奇点已来](https://www.qbitai.com/2026/10/505521.html)

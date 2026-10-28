@@ -475,3 +475,4 @@
 - 2026-10-27｜Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang → [查看](../posts/2026-10-27.md#tsinghua-ai-open-sources-akv-a-cache-engineering-server-for-llm-agents-on-sglang)
 - 2026-10-27｜Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model → [查看](../posts/2026-10-27.md#nanbeige-releases-nanbeige43-33b-a-33b-open-agentic-coding-model)
 - 2026-10-27｜Donating Agent Skills to the Agentic AI Foundation → [查看](../posts/2026-10-27.md#donating-agent-skills-to-the-agentic-ai-foundation)
+- 2026-10-28｜钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会 → [查看](../posts/2026-10-28.md#钛动科技发布行业首个pro-agent-navos-pro定义结果导向的ai-for-work-tgc-2026科技增长大会)
