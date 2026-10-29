@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-10-28** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-10-29** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,104 +13,102 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
-- 钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会（量子位 QbitAI）
-- 刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司（量子位 QbitAI）
-- AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验（量子位 QbitAI）
-- OpenAI开始断网训练最强模型：“安全起见”（量子位 QbitAI）
-- A社联创演讲：AI奇点已来（量子位 QbitAI）
-- NeoLab第一个商业模式：转售GPU（量子位 QbitAI）
-- 中国近50%的新云生意，竟被这家公司包揽！（量子位 QbitAI）
-- 从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”（量子位 QbitAI）
+- Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019（量子位 QbitAI）
+- 不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法（量子位 QbitAI）
+- 印奇把4D雷达也端到端了（量子位 QbitAI）
+- 乔布斯的皮克斯，狂赞中国物理AI数据终端（量子位 QbitAI）
+- Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了（量子位 QbitAI）
+- KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%（量子位 QbitAI）
+- GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力（量子位 QbitAI）
+- 国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
 
-<a id="刚刚anthropic公开335页招股书史上最大ipo史上最亏ai公司"></a>
-#### 刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司
-摘要：地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505551.html)
+<a id="不藏了人形机器人全开源动真格从机械结构一路拆到运动算法"></a>
+#### 不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法
+摘要：人形机器人全套图纸开源！从关节到算法，下载就能自己造。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505865.html)
 
-<a id="ai时代一个人能有多大能量天禧ai-观猹大会现场实测个人ai跨端协同新体验"></a>
-#### AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验
-摘要：10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505539.html)
+<a id="印奇把4d雷达也端到端了"></a>
+#### 印奇把4D雷达也端到端了
+摘要：毫米波雷达，AI算力10TOPS
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505852.html)
 
-<a id="a社联创演讲ai奇点已来"></a>
-#### A社联创演讲：AI奇点已来
-摘要：所谓奇点，或许是AI跃过人类的那个点。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505521.html)
+<a id="乔布斯的皮克斯狂赞中国物理ai数据终端"></a>
+#### 乔布斯的皮克斯，狂赞中国物理AI数据终端
+摘要：顶尖智能汽车玩家的终局，不会停在智能汽车
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505830.html)
 
-<a id="neolab第一个商业模式转售gpu"></a>
-#### NeoLab第一个商业模式：转售GPU
-摘要：从冲刺AGI到转售GPU。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505478.html)
+<a id="physical-rsi第一站便利店打工人自己进化物理ai飞轮启动了"></a>
+#### Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了
+摘要：无人在环进店实测啃下长尾场景
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505799.html)
 
-<a id="中国近50的新云生意竟被这家公司包揽"></a>
-#### 中国近50%的新云生意，竟被这家公司包揽！
-摘要：有点意外，但也不意外
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505454.html)
+<a id="gpt-61-terra首批网友实测来了1折价格获得astra级电脑操作能力"></a>
+#### GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力
+摘要：同一天，OpenAI还甩出3项AI科学新发现
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505719.html)
 
-<a id="从言传身教到触类旁通ai既需要名师指引也需要自我修行"></a>
-#### 从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”
-摘要：人工智能正在从人机“言传身教”走向自学“触类旁通”。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505443.html)
+<a id="国产ai-3d大模型hi3d来了开源可商用pk干掉gpt-6"></a>
+#### 国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6
+摘要：还是专业的模型做专业的事情
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505694.html)
 
-<a id="长安汽车赵非汽车将成为端侧物理ai规模最大的应用载体-2026世界智能网联汽车大会"></a>
-#### 长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会
-摘要：10月21日，2026世界智能网联汽车大会在北京召开
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505436.html)
+<a id="做能源与算力的搭桥人达卯科技以能源大脑定义算电协同-cpe-2026"></a>
+#### 做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026
+摘要：破解绿电直连项目落地僵局
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505687.html)
 
-<a id="趋境科技完成-b-轮融资半年实现超十倍速增长加速高品质-ai-token-规模化交付"></a>
-#### 趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付
-摘要：高品质 AI Token 成为行业新风向
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505429.html)
+<a id="oxr强势开源13b横扫全球三榜第一速度快过paddleminerursi让它卷出新高度"></a>
+#### OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度
+摘要：开源一周，Github 拿下超 1000 star，X上关注度破百万，并登上 Today‘s news 推荐
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505635.html)
+
+<a id="pairing-industrial-ai-autonomy-and-human-control"></a>
+#### Pairing industrial AI autonomy and human control
+摘要：（无摘要）
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/)
 
 <a id="industrial-intelligence-the-next-growth-opportunity-for-manufacturing"></a>
 #### Industrial Intelligence: The next growth opportunity for manufacturing
 摘要：Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, w
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/)
 
-<a id="will-the-real-anthropic-please-stand-up"></a>
-#### Will the real Anthropic please stand up
-摘要：This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the compan
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/)
-
-<a id="meet-leann-an-open-source-vector-index-that-shrinks-a-60m-chunk-rag-index-from-2"></a>
-#### Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB
-摘要：UC Berkeley’s LEANN vector index stores a pruned graph and recomputes embeddings at query time. It matches HNSW accuracy at 90% recall using 4 GB instead of 188 GB, at the cost of seconds-level search. The post Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/)
-
-### 多模态
-
-<a id="liquid-ai-releases-lfm3-6-open-weight-2b-class-multimodal-models"></a>
-#### Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models
-摘要：Liquid AI released LFM3, 6 open-weight 2B-class models for text, vision, audio, omni and decisions. LFM3-1.7B uses a tri-hybrid backbone, a 256K context window and fits in about 1 GB at 4-bit. The post Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models appeared first on MarkTechPost.
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/)
-
-### 安全与对齐
-
-<a id="openai开始断网训练最强模型安全起见"></a>
-#### OpenAI开始断网训练最强模型：“安全起见”
-摘要：模型开始利用GPU缓存聊天？
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505529.html)
-
-<a id="the-focus-on-ai-safety-disasters-ignores-everyday-harms"></a>
-#### The focus on AI safety disasters ignores everyday harms
-摘要：Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear th
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/)
+<a id="google-deepmind-introduces-gemini-4-carbon-its-top-model-for-cyber-defense-and-c"></a>
+#### Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding
+摘要：Google DeepMind introduced Gemini 4 Carbon, a frontier model that scores 59 on the Artificial Analysis Intelligence Index and 88.2% on SEC-bench Pro. Access starts with vetted cyber defenders, at $2/$10 per million tokens. The post Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber 
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/)
 
 ### 智能体Agent
 
-<a id="钛动科技发布行业首个pro-agent-navos-pro定义结果导向的ai-for-work-tgc-2026科技增长大会"></a>
-#### 钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会
-摘要：10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505580.html)
+<a id="personal-agent走向真实任务蚂蚁百灵开源-ling-31-flash-1019"></a>
+#### Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019
+摘要：10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505928.html)
+
+<a id="creating-ai-value-with-enterprise-context"></a>
+#### Creating AI value with enterprise context
+摘要：Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/)
+
+<a id="minimax-open-sources-mcode-stack-15-agent-skills-its-coding-team-uses-daily"></a>
+#### MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily
+摘要：MiniMax has open-sourced MCode Stack, an MIT-licensed repo of 17 SKILL.md skills and 5 checklists that its MiniMax Code team uses daily for code review, subagent splits, context budgets and long-running commands. The post MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily a
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/)
+
+### 训练与推理优化
+
+<a id="kv-cache被压成常数ocr开源新王页数没上限缓存砍96"></a>
+#### KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%
+摘要：OCR 3.0时代，来了
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/505773.html)
 
 ## 延伸阅读
 
-- [钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会](https://www.qbitai.com/2026/10/505580.html)
-- [刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司](https://www.qbitai.com/2026/10/505551.html)
-- [AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验](https://www.qbitai.com/2026/10/505539.html)
-- [OpenAI开始断网训练最强模型：“安全起见”](https://www.qbitai.com/2026/10/505529.html)
-- [A社联创演讲：AI奇点已来](https://www.qbitai.com/2026/10/505521.html)
+- [Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019](https://www.qbitai.com/2026/10/505928.html)
+- [不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法](https://www.qbitai.com/2026/10/505865.html)
+- [印奇把4D雷达也端到端了](https://www.qbitai.com/2026/10/505852.html)
+- [乔布斯的皮克斯，狂赞中国物理AI数据终端](https://www.qbitai.com/2026/10/505830.html)
+- [Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了](https://www.qbitai.com/2026/10/505799.html)

@@ -476,3 +476,6 @@
 - 2026-10-27｜Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model → [查看](../posts/2026-10-27.md#nanbeige-releases-nanbeige43-33b-a-33b-open-agentic-coding-model)
 - 2026-10-27｜Donating Agent Skills to the Agentic AI Foundation → [查看](../posts/2026-10-27.md#donating-agent-skills-to-the-agentic-ai-foundation)
 - 2026-10-28｜钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会 → [查看](../posts/2026-10-28.md#钛动科技发布行业首个pro-agent-navos-pro定义结果导向的ai-for-work-tgc-2026科技增长大会)
+- 2026-10-29｜Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019 → [查看](../posts/2026-10-29.md#personal-agent走向真实任务蚂蚁百灵开源-ling-31-flash-1019)
+- 2026-10-29｜Creating AI value with enterprise context → [查看](../posts/2026-10-29.md#creating-ai-value-with-enterprise-context)
+- 2026-10-29｜MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily → [查看](../posts/2026-10-29.md#minimax-open-sources-mcode-stack-15-agent-skills-its-coding-team-uses-daily)
