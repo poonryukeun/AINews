@@ -479,3 +479,6 @@
 - 2026-10-29｜Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019 → [查看](../posts/2026-10-29.md#personal-agent走向真实任务蚂蚁百灵开源-ling-31-flash-1019)
 - 2026-10-29｜Creating AI value with enterprise context → [查看](../posts/2026-10-29.md#creating-ai-value-with-enterprise-context)
 - 2026-10-29｜MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily → [查看](../posts/2026-10-29.md#minimax-open-sources-mcode-stack-15-agent-skills-its-coding-team-uses-daily)
+- 2026-10-30｜刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍 → [查看](../posts/2026-10-30.md#刚刚扩散模型杀进agent主场350亿参数速度比jev快一倍)
+- 2026-10-30｜We urgently need to monitor AI agents’ actions in real time → [查看](../posts/2026-10-30.md#we-urgently-need-to-monitor-ai-agents-actions-in-real-time)
+- 2026-10-30｜Creating AI value with enterprise context → [查看](../posts/2026-10-30.md#creating-ai-value-with-enterprise-context)
