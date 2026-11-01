@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-10-31** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-11-01** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,53 +13,63 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
-- 英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成（量子位 QbitAI）
-- RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR（量子位 QbitAI）
-- Claude新模型曝光：新Fable，新Opus…（量子位 QbitAI）
-- 从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径（量子位 QbitAI）
-- 前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位（量子位 QbitAI）
-- 买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配（量子位 QbitAI）
-- STEPX Neo 发布两周即迎首次升级，智能体能力持续释放（量子位 QbitAI）
-- 中国MaaS市场TOP2，商汤大装置再度蝉联（量子位 QbitAI）
+- 你的8G iPad里有12G内存！库克走了但他的刀法追着我砍（量子位 QbitAI）
+- 世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用（量子位 QbitAI）
+- 刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」（量子位 QbitAI）
+- 榜一，拿来吧你！智元这波双模型杀穿多榜榜单（量子位 QbitAI）
+- AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！（量子位 QbitAI）
+- “超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”（量子位 QbitAI）
+- 百度 APP 发布四大 AI 升级，搜索已实现递归自我进化（量子位 QbitAI）
+- 好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
 
+<a id="你的8g-ipad里有12g内存库克走了但他的刀法追着我砍"></a>
+#### 你的8G iPad里有12G内存！库克走了但他的刀法追着我砍
+摘要：苹果“牛奶倒河里”式操作翻红
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506884.html)
+
+<a id="世界模型首次指导设计芯片超大核npu700tops99算力可用"></a>
+#### 世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用
+摘要：AI算力利用“九九成”
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506866.html)
+
+<a id="刚刚claude宣布取消5小时限制首批ultra用户已解封"></a>
+#### 刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」
+摘要：200美元Ultra用户先用
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506855.html)
+
+<a id="榜一拿来吧你智元这波双模型杀穿多榜榜单"></a>
+#### 榜一，拿来吧你！智元这波双模型杀穿多榜榜单
+摘要：xs，还要给机器人打绩效
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506819.html)
+
+<a id="ai零帧起手写算子反超deepseek人类手写巅峰快了98"></a>
+#### AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！
+摘要：之前还连登昇腾三榜第一
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506785.html)
+
+<a id="超能模式重磅登场联想天禧ai-45全端升级三大场景打造职场超能搭档"></a>
+#### “超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”
+摘要：10月30日，联想天禧AI 4.5迎来AIPC端正式发布。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506779.html)
+
+<a id="百度-app-发布四大-ai-升级搜索已实现递归自我进化"></a>
+#### 百度 APP 发布四大 AI 升级，搜索已实现递归自我进化
+摘要：（无摘要）
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506771.html)
+
+<a id="好莱坞最缺的答案被这家-10-亿美元估值的-ai-影视独角兽写进了片单"></a>
+#### 好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单
+摘要：创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506747.html)
+
 <a id="rsi立大功国产开源登顶全球第一13b-oxr重塑ocr"></a>
 #### RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR
 摘要：解析一切
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506686.html)
-
-<a id="claude新模型曝光新fable新opus"></a>
-#### Claude新模型曝光：新Fable，新Opus…
-摘要：（无摘要）
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506674.html)
-
-<a id="从学习人类到学习机器人同伴清华大学联合无问芯穹智元提出具身智能规模化落地新路径"></a>
-#### 从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径
-摘要：让机器人成为彼此的“老师”
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506662.html)
-
-<a id="前排围观meet2027报名通道正式开启首批重磅嘉宾已就位"></a>
-#### 前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位
-摘要：（无摘要）
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506609.html)
-
-<a id="买车送终身ai智己ls8纯电版25万起全系线控底盘宁德时代标配"></a>
-#### 买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配
-摘要：Momenta世界模型上车
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506569.html)
-
-<a id="中国maas市场top2商汤大装置再度蝉联"></a>
-#### 中国MaaS市场TOP2，商汤大装置再度蝉联
-摘要：在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506550.html)
-
-<a id="edge0-releases-audio8-tts-realistic-a-06b-voice-cloning-tts-model"></a>
-#### Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model
-摘要：Edge0 released Audio8-TTS-Realistic, a 0.6B open-weight zero-shot voice cloning TTS model under Apache 2.0. It supports 23 languages and adds a final GRPO stage driven by a learned realism critic. The post Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model appeared first on MarkTech
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/)
 
 ### 多模态
 
@@ -68,22 +78,7 @@ title: "AI 资讯博客 - 今日更新"
 摘要：英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506743.html)
 
-<a id="奥特曼和dario同台唱rapgenspark新视频agent上线零基础也能拍短剧"></a>
-#### 奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧
-摘要：All in one、任何人都能用
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506478.html)
-
 ### 安全与对齐
-
-<a id="ai安全是ai规模化应用加速器"></a>
-#### AI安全是AI规模化应用“加速器”
-摘要：AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506544.html)
-
-<a id="we-urgently-need-to-monitor-ai-agents-actions-in-real-time"></a>
-#### We urgently need to monitor AI agents’ actions in real time
-摘要：This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/)
 
 <a id="ai-security-agents-compared-claude-codex-mantis-cloudflare"></a>
 #### AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare
@@ -92,20 +87,15 @@ title: "AI 资讯博客 - 今日更新"
 
 ### 智能体Agent
 
-<a id="stepx-neo-发布两周即迎首次升级智能体能力持续释放"></a>
-#### STEPX Neo 发布两周即迎首次升级，智能体能力持续释放
-摘要：阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506554.html)
+<a id="meet-factory-droid-10-a-model-independent-coding-agent-harness-built-on-script-m"></a>
+#### Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode
+摘要：Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2% with Claude Opus 5.5 at $4.73 per passed task. The post Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness B
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/)
 
-<a id="奥特曼和dario同台唱rapgenspark新视频agent上线零基础也能拍短剧"></a>
-#### 奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧
-摘要：All in one、任何人都能用
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506478.html)
-
-<a id="we-urgently-need-to-monitor-ai-agents-actions-in-real-time"></a>
-#### We urgently need to monitor AI agents’ actions in real time
-摘要：This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/)
+<a id="vercel-labs-open-sources-agent-desktop-for-agent-computer-use"></a>
+#### Vercel Labs Open-Sources agent-desktop for Agent Computer Use
+摘要：Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable refs instead of pixels. The post Vercel Labs Open-Sources agent-desktop for Agent Computer Use appeared first on MarkTech
+来源：[MarkTechPost](https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/)
 
 <a id="meet-tokeneconomizer-microsofts-plugin-that-cuts-coding-agent-costs-by-up-to-309"></a>
 #### Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%
@@ -124,8 +114,8 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 延伸阅读
 
-- [英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成](https://www.qbitai.com/2026/10/506743.html)
-- [RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR](https://www.qbitai.com/2026/10/506686.html)
-- [Claude新模型曝光：新Fable，新Opus…](https://www.qbitai.com/2026/10/506674.html)
-- [从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径](https://www.qbitai.com/2026/10/506662.html)
-- [前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位](https://www.qbitai.com/2026/10/506609.html)
+- [你的8G iPad里有12G内存！库克走了但他的刀法追着我砍](https://www.qbitai.com/2026/10/506884.html)
+- [世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用](https://www.qbitai.com/2026/10/506866.html)
+- [刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」](https://www.qbitai.com/2026/10/506855.html)
+- [榜一，拿来吧你！智元这波双模型杀穿多榜榜单](https://www.qbitai.com/2026/10/506819.html)
+- [AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！](https://www.qbitai.com/2026/10/506785.html)

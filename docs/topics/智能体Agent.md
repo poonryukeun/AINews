@@ -488,3 +488,8 @@
 - 2026-10-31｜Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9% → [查看](../posts/2026-10-31.md#meet-tokeneconomizer-microsofts-plugin-that-cuts-coding-agent-costs-by-up-to-309)
 - 2026-10-31｜AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare → [查看](../posts/2026-10-31.md#ai-security-agents-compared-claude-codex-mantis-cloudflare)
 - 2026-10-31｜Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost → [查看](../posts/2026-10-31.md#samaya-ai-releases-sterling-a-3b-active-finance-research-agent-model-that-beats-)
+- 2026-11-01｜Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode → [查看](../posts/2026-11-01.md#meet-factory-droid-10-a-model-independent-coding-agent-harness-built-on-script-m)
+- 2026-11-01｜Vercel Labs Open-Sources agent-desktop for Agent Computer Use → [查看](../posts/2026-11-01.md#vercel-labs-open-sources-agent-desktop-for-agent-computer-use)
+- 2026-11-01｜Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9% → [查看](../posts/2026-11-01.md#meet-tokeneconomizer-microsofts-plugin-that-cuts-coding-agent-costs-by-up-to-309)
+- 2026-11-01｜AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare → [查看](../posts/2026-11-01.md#ai-security-agents-compared-claude-codex-mantis-cloudflare)
+- 2026-11-01｜Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost → [查看](../posts/2026-11-01.md#samaya-ai-releases-sterling-a-3b-active-finance-research-agent-model-that-beats-)
