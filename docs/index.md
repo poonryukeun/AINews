@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-11-01** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-11-02** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,18 +13,48 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
+- GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光（量子位 QbitAI）
+- 三年前布局，今年爆火丨西湖大学成立新中心（量子位 QbitAI）
+- Claude紧急叫停！暗改Harness禁止逆向游戏（量子位 QbitAI）
+- 清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考（量子位 QbitAI）
+- 老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子（量子位 QbitAI）
+- Jev新成果，再次引爆开源（量子位 QbitAI）
+- 刚刚，DeepSeek重磅开源：Agent底座架构！（量子位 QbitAI）
 - 你的8G iPad里有12G内存！库克走了但他的刀法追着我砍（量子位 QbitAI）
-- 世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用（量子位 QbitAI）
-- 刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」（量子位 QbitAI）
-- 榜一，拿来吧你！智元这波双模型杀穿多榜榜单（量子位 QbitAI）
-- AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！（量子位 QbitAI）
-- “超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”（量子位 QbitAI）
-- 百度 APP 发布四大 AI 升级，搜索已实现递归自我进化（量子位 QbitAI）
-- 好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
+
+<a id="gpt-62-astra开启灰测claude-mythos-55同日曝光"></a>
+#### GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光
+摘要：HuggingFace疑似泄露权重已被下5000次
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507082.html)
+
+<a id="三年前布局今年爆火丨西湖大学成立新中心"></a>
+#### 三年前布局，今年爆火丨西湖大学成立新中心
+摘要：西湖世界模型研究中心成立
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507076.html)
+
+<a id="claude紧急叫停暗改harness禁止逆向游戏"></a>
+#### Claude紧急叫停！暗改Harness禁止逆向游戏
+摘要：（无摘要）
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507038.html)
+
+<a id="清华姚期智团队新作代数世界模型让ai像牛顿一样思考"></a>
+#### 清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考
+摘要：让AI像牛顿一样思考
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507031.html)
+
+<a id="老牌便利店机器人售货折戟实验室锤炼上万次货架前还是摔瓶子"></a>
+#### 老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子
+摘要：这事还是想得太简单了
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/506990.html)
+
+<a id="jev新成果再次引爆开源"></a>
+#### Jev新成果，再次引爆开源
+摘要：再次“性价比屠夫”
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/506922.html)
 
 <a id="你的8g-ipad里有12g内存库克走了但他的刀法追着我砍"></a>
 #### 你的8G iPad里有12G内存！库克走了但他的刀法追着我砍
@@ -36,56 +66,34 @@ title: "AI 资讯博客 - 今日更新"
 摘要：AI算力利用“九九成”
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506866.html)
 
-<a id="刚刚claude宣布取消5小时限制首批ultra用户已解封"></a>
-#### 刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」
-摘要：200美元Ultra用户先用
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506855.html)
-
-<a id="榜一拿来吧你智元这波双模型杀穿多榜榜单"></a>
-#### 榜一，拿来吧你！智元这波双模型杀穿多榜榜单
-摘要：xs，还要给机器人打绩效
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506819.html)
-
-<a id="ai零帧起手写算子反超deepseek人类手写巅峰快了98"></a>
-#### AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！
-摘要：之前还连登昇腾三榜第一
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506785.html)
-
-<a id="超能模式重磅登场联想天禧ai-45全端升级三大场景打造职场超能搭档"></a>
-#### “超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”
-摘要：10月30日，联想天禧AI 4.5迎来AIPC端正式发布。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506779.html)
-
-<a id="百度-app-发布四大-ai-升级搜索已实现递归自我进化"></a>
-#### 百度 APP 发布四大 AI 升级，搜索已实现递归自我进化
+<a id="announcements"></a>
+#### Announcements
 摘要：（无摘要）
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506771.html)
+来源：[Anthropic News](https://www.anthropic.com/news/announcements)
 
-<a id="好莱坞最缺的答案被这家-10-亿美元估值的-ai-影视独角兽写进了片单"></a>
-#### 好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单
-摘要：创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506747.html)
-
-<a id="rsi立大功国产开源登顶全球第一13b-oxr重塑ocr"></a>
-#### RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR
-摘要：解析一切
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506686.html)
+<a id="investing-in-the-public-benefitwere-committing-a-portion-of-anthropics-shares-to"></a>
+#### Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a 
+摘要：（无摘要）
+来源：[Anthropic News](https://www.anthropic.com/news/public-benefit-fund)
 
 ### 多模态
 
-<a id="英伟达团队基于-minimax-h3-开源视频增强方案最高支持-4k-重生成"></a>
-#### 英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成
-摘要：英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506743.html)
-
-### 安全与对齐
-
-<a id="ai-security-agents-compared-claude-codex-mantis-cloudflare"></a>
-#### AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare
-摘要：Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools. The post AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare appeared first on MarkT
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/)
+<a id="nace-ai-open-sources-drex-max-v1-a-27b-decision-model-that-runs-locally-on-apple"></a>
+#### Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon
+摘要：Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon. The post Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon appeared first on MarkTechPost.
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/)
 
 ### 智能体Agent
+
+<a id="刚刚deepseek重磅开源agent底座架构"></a>
+#### 刚刚，DeepSeek重磅开源：Agent底座架构！
+摘要：AI已经自己找到Bug并提交PR
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506904.html)
+
+<a id="deepseek-open-sources-dsh-superagent-a-router-worker-coding-agent"></a>
+#### DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent
+摘要：DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes. The post DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Ag
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/)
 
 <a id="meet-factory-droid-10-a-model-independent-coding-agent-harness-built-on-script-m"></a>
 #### Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode
@@ -97,25 +105,10 @@ title: "AI 资讯博客 - 今日更新"
 摘要：Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable refs instead of pixels. The post Vercel Labs Open-Sources agent-desktop for Agent Computer Use appeared first on MarkTech
 来源：[MarkTechPost](https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/)
 
-<a id="meet-tokeneconomizer-microsofts-plugin-that-cuts-coding-agent-costs-by-up-to-309"></a>
-#### Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%
-摘要：Microsoft Research and UC Berkeley released TokenEconomizer, an open-source plugin that learns from past sessions to cut coding agent token costs by 18.4% to 30.9% on SWE-Bench, with no change to the agent. The post Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/)
-
-<a id="ai-security-agents-compared-claude-codex-mantis-cloudflare"></a>
-#### AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare
-摘要：Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools. The post AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare appeared first on MarkT
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/)
-
-<a id="samaya-ai-releases-sterling-a-3b-active-finance-research-agent-model-that-beats-"></a>
-#### Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost
-摘要：Samaya AI’s Sterling is a post-trained Nemotron 3.5 Lightning model for financial research. It scores 58.9% on FrontierFinance at $0.61 per question, beating Claude Fable 5.1’s 55.9% at $6.89. The post Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/)
-
 ## 延伸阅读
 
-- [你的8G iPad里有12G内存！库克走了但他的刀法追着我砍](https://www.qbitai.com/2026/10/506884.html)
-- [世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用](https://www.qbitai.com/2026/10/506866.html)
-- [刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」](https://www.qbitai.com/2026/10/506855.html)
-- [榜一，拿来吧你！智元这波双模型杀穿多榜榜单](https://www.qbitai.com/2026/10/506819.html)
-- [AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！](https://www.qbitai.com/2026/10/506785.html)
+- [GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光](https://www.qbitai.com/2026/11/507082.html)
+- [三年前布局，今年爆火丨西湖大学成立新中心](https://www.qbitai.com/2026/11/507076.html)
+- [Claude紧急叫停！暗改Harness禁止逆向游戏](https://www.qbitai.com/2026/11/507038.html)
+- [清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考](https://www.qbitai.com/2026/11/507031.html)
+- [老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子](https://www.qbitai.com/2026/11/506990.html)
