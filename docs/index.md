@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-11-02** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-11-03** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,102 +13,107 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
-- GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光（量子位 QbitAI）
-- 三年前布局，今年爆火丨西湖大学成立新中心（量子位 QbitAI）
-- Claude紧急叫停！暗改Harness禁止逆向游戏（量子位 QbitAI）
-- 清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考（量子位 QbitAI）
-- 老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子（量子位 QbitAI）
-- Jev新成果，再次引爆开源（量子位 QbitAI）
-- 刚刚，DeepSeek重磅开源：Agent底座架构！（量子位 QbitAI）
-- 你的8G iPad里有12G内存！库克走了但他的刀法追着我砍（量子位 QbitAI）
+- A社紧急修改招股书！RSI我们快要控制不住了（量子位 QbitAI）
+- 模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义（量子位 QbitAI）
+- B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相（量子位 QbitAI）
+- MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍（量子位 QbitAI）
+- 爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程（量子位 QbitAI）
+- 顶级AI翻车的活儿，被这个新出的免费国产AI接住了！（量子位 QbitAI）
+- 从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信（量子位 QbitAI）
+- OpenAI重写大模型法则，第一条：忠于人类！！（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
 
-<a id="gpt-62-astra开启灰测claude-mythos-55同日曝光"></a>
-#### GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光
-摘要：HuggingFace疑似泄露权重已被下5000次
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507082.html)
+<a id="a社紧急修改招股书rsi我们快要控制不住了"></a>
+#### A社紧急修改招股书！RSI我们快要控制不住了
+摘要：单季狂揽1130亿人民币，但...
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507382.html)
 
-<a id="三年前布局今年爆火丨西湖大学成立新中心"></a>
-#### 三年前布局，今年爆火丨西湖大学成立新中心
-摘要：西湖世界模型研究中心成立
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507076.html)
+<a id="模拟计算进入矩阵时代北大联手硅谷ibm写下新定义"></a>
+#### 模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义
+摘要：GPU迭代一百次的事，它一步做完
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507367.html)
 
-<a id="claude紧急叫停暗改harness禁止逆向游戏"></a>
-#### Claude紧急叫停！暗改Harness禁止逆向游戏
-摘要：（无摘要）
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507038.html)
+<a id="b站举办2026超级科学晚脑机接口人造太阳等前沿科技齐亮相"></a>
+#### B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相
+摘要：10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507339.html)
 
-<a id="清华姚期智团队新作代数世界模型让ai像牛顿一样思考"></a>
-#### 清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考
-摘要：让AI像牛顿一样思考
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507031.html)
+<a id="mitgpt-6-astra能直接修改qwen权重数学能力暴涨6倍"></a>
+#### MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍
+摘要：指令执行能力也同步提升
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507322.html)
 
-<a id="老牌便利店机器人售货折戟实验室锤炼上万次货架前还是摔瓶子"></a>
-#### 老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子
-摘要：这事还是想得太简单了
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/506990.html)
+<a id="爱诗科技pixverse-与-openai-共同推出产品集成和创作者教育计划高效打通-ai-创意全流程"></a>
+#### 爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程
+摘要：近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507313.html)
 
-<a id="jev新成果再次引爆开源"></a>
-#### Jev新成果，再次引爆开源
-摘要：再次“性价比屠夫”
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/506922.html)
+<a id="顶级ai翻车的活儿被这个新出的免费国产ai接住了"></a>
+#### 顶级AI翻车的活儿，被这个新出的免费国产AI接住了！
+摘要：商汤SenseNova 6.8 Flash
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507277.html)
 
-<a id="你的8g-ipad里有12g内存库克走了但他的刀法追着我砍"></a>
-#### 你的8G iPad里有12G内存！库克走了但他的刀法追着我砍
-摘要：苹果“牛奶倒河里”式操作翻红
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506884.html)
+<a id="从能调用到敢托付仪电智算云-token-工厂的三重可信"></a>
+#### 从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信
+摘要：上海仪电与上海创智学院联合发布“飞轮转・万象生”仪电智算数链生态。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507260.html)
 
-<a id="世界模型首次指导设计芯片超大核npu700tops99算力可用"></a>
-#### 世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用
-摘要：AI算力利用“九九成”
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506866.html)
+<a id="openai重写大模型法则第一条忠于人类"></a>
+#### OpenAI重写大模型法则，第一条：忠于人类！！
+摘要：新版“机器人三定律”。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507225.html)
 
-<a id="announcements"></a>
-#### Announcements
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/announcements)
+<a id="央视严选中国ai创业十骏唯一ai制药公司是清华系"></a>
+#### 央视严选「中国AI创业十骏」：唯一AI制药公司是清华系
+摘要：模型管线双驱动
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507150.html)
 
-<a id="investing-in-the-public-benefitwere-committing-a-portion-of-anthropics-shares-to"></a>
-#### Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a 
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/public-benefit-fund)
+<a id="heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test"></a>
+#### Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test
+摘要：This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/)
+
+<a id="zyphra-ai-introduces-zyphra-hierarchical-attention-zha-a-path-to-true-subquadrat"></a>
+#### Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic Attention
+摘要：Zyphra Hierarchical Attention (ZHA) is a tree-indexed sparse attention method that retrofits frozen LLMs with 4B tokens of distillation, matching dense attention on reasoning and 256K retrieval benchmarks. The post Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/02/zyphra-hierarchical-attention-zha-sparse-attention/)
 
 ### 多模态
 
-<a id="nace-ai-open-sources-drex-max-v1-a-27b-decision-model-that-runs-locally-on-apple"></a>
-#### Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon
-摘要：Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon. The post Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon appeared first on MarkTechPost.
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/)
+<a id="the-agentic-web-is-here"></a>
+#### The agentic web is here
+摘要：In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/)
 
 ### 智能体Agent
 
-<a id="刚刚deepseek重磅开源agent底座架构"></a>
-#### 刚刚，DeepSeek重磅开源：Agent底座架构！
-摘要：AI已经自己找到Bug并提交PR
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/10/506904.html)
+<a id="小米开源了个150元的ai小玩意火到配件都涨价了"></a>
+#### 小米开源了个150元的AI小玩意，火到配件都涨价了
+摘要：能指挥Agent干活，还能控制智能家居
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507107.html)
 
-<a id="deepseek-open-sources-dsh-superagent-a-router-worker-coding-agent"></a>
-#### DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent
-摘要：DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes. The post DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Ag
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/)
+<a id="raising-the-quality-of-insights-in-agentic-analytics"></a>
+#### Raising the quality of insights in agentic analytics
+摘要：In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/)
 
-<a id="meet-factory-droid-10-a-model-independent-coding-agent-harness-built-on-script-m"></a>
-#### Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode
-摘要：Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2% with Claude Opus 5.5 at $4.73 per passed task. The post Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness B
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/)
+<a id="stop-counting-tokens-start-counting-what-ships"></a>
+#### Stop counting tokens, start counting what ships
+摘要：When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/)
 
-<a id="vercel-labs-open-sources-agent-desktop-for-agent-computer-use"></a>
-#### Vercel Labs Open-Sources agent-desktop for Agent Computer Use
-摘要：Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable refs instead of pixels. The post Vercel Labs Open-Sources agent-desktop for Agent Computer Use appeared first on MarkTech
-来源：[MarkTechPost](https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/)
+<a id="the-agentic-web-is-here"></a>
+#### The agentic web is here
+摘要：In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/)
 
 ## 延伸阅读
 
-- [GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光](https://www.qbitai.com/2026/11/507082.html)
-- [三年前布局，今年爆火丨西湖大学成立新中心](https://www.qbitai.com/2026/11/507076.html)
-- [Claude紧急叫停！暗改Harness禁止逆向游戏](https://www.qbitai.com/2026/11/507038.html)
-- [清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考](https://www.qbitai.com/2026/11/507031.html)
-- [老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子](https://www.qbitai.com/2026/11/506990.html)
+- [A社紧急修改招股书！RSI我们快要控制不住了](https://www.qbitai.com/2026/11/507382.html)
+- [模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义](https://www.qbitai.com/2026/11/507367.html)
+- [B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相](https://www.qbitai.com/2026/11/507339.html)
+- [MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍](https://www.qbitai.com/2026/11/507322.html)
+- [爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程](https://www.qbitai.com/2026/11/507313.html)

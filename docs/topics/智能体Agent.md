@@ -497,3 +497,7 @@
 - 2026-11-02｜DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent → [查看](../posts/2026-11-02.md#deepseek-open-sources-dsh-superagent-a-router-worker-coding-agent)
 - 2026-11-02｜Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode → [查看](../posts/2026-11-02.md#meet-factory-droid-10-a-model-independent-coding-agent-harness-built-on-script-m)
 - 2026-11-02｜Vercel Labs Open-Sources agent-desktop for Agent Computer Use → [查看](../posts/2026-11-02.md#vercel-labs-open-sources-agent-desktop-for-agent-computer-use)
+- 2026-11-03｜小米开源了个150元的AI小玩意，火到配件都涨价了 → [查看](../posts/2026-11-03.md#小米开源了个150元的ai小玩意火到配件都涨价了)
+- 2026-11-03｜Raising the quality of insights in agentic analytics → [查看](../posts/2026-11-03.md#raising-the-quality-of-insights-in-agentic-analytics)
+- 2026-11-03｜Stop counting tokens, start counting what ships → [查看](../posts/2026-11-03.md#stop-counting-tokens-start-counting-what-ships)
+- 2026-11-03｜The agentic web is here → [查看](../posts/2026-11-03.md#the-agentic-web-is-here)
