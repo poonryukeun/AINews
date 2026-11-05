@@ -507,3 +507,6 @@
 - 2026-11-04｜Raising the quality of insights in agentic analytics → [查看](../posts/2026-11-04.md#raising-the-quality-of-insights-in-agentic-analytics)
 - 2026-11-04｜Stop counting tokens, start counting what ships → [查看](../posts/2026-11-04.md#stop-counting-tokens-start-counting-what-ships)
 - 2026-11-04｜The agentic web is here → [查看](../posts/2026-11-04.md#the-agentic-web-is-here)
+- 2026-11-05｜Securing the agentic enterprise with data lineage → [查看](../posts/2026-11-05.md#securing-the-agentic-enterprise-with-data-lineage)
+- 2026-11-05｜How “reverse game theory” could keep AI agents in check → [查看](../posts/2026-11-05.md#how-reverse-game-theory-could-keep-ai-agents-in-check)
+- 2026-11-05｜Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents → [查看](../posts/2026-11-05.md#soniox-stt-v6-adds-agent-text-input-and-echo-filtering-for-voice-agents)

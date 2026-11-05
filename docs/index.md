@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-11-04** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-11-05** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,75 +13,75 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
-- 让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落（量子位 QbitAI）
-- 机器人干活，AI当厂长！这家巨头要造下一代自主智能仓（量子位 QbitAI）
-- 智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池（量子位 QbitAI）
-- 模型谁都买得到，拉开差距的是AI生产力系统（量子位 QbitAI）
-- 纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri（量子位 QbitAI）
-- 苹果被曝的新产品，中国央企8个月前已装进公共卫生间（量子位 QbitAI）
-- AI数据平台OceanBase获世界互联网大会杰出贡献奖（量子位 QbitAI）
-- 小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”（量子位 QbitAI）
+- Texas was the new epicenter of the AI data center buildout. That might be kaput.（MIT Technology Review AI）
+- Securing the agentic enterprise with data lineage（MIT Technology Review AI）
+- How “reverse game theory” could keep AI agents in check（MIT Technology Review AI）
+- webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500（MarkTechPost）
+- Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1（MarkTechPost）
+- Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matting（MarkTechPost）
+- Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights（MarkTechPost）
+- NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5%（MarkTechPost）
 
 ## 主题速览
 
 ### 产品与应用
 
-<a id="机器人干活ai当厂长这家巨头要造下一代自主智能仓"></a>
-#### 机器人干活，AI当厂长！这家巨头要造下一代自主智能仓
-摘要：AI接管调度运营，仓库越干越聪明
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507507.html)
+<a id="texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput"></a>
+#### Texas was the new epicenter of the AI data center buildout. That might be kaput.
+摘要：Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/)
 
-<a id="智己ls8纯电版背后8年研发底盘两大厂联合开发电池"></a>
-#### 智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池
-摘要：两位CTO，关起门来吵架
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507473.html)
+<a id="webai-releases-twil-8b-an-88b-reasoning-model-scoring-982-on-math-500"></a>
+#### webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500
+摘要：webAI released TwIL-8B, an 8.8B reasoning model post-trained from IBM Granite 4.2 8B. It posts 98.2 on MATH-500 and 81.6 on LiveCodeBench, but trails similar-size models on knowledge benchmarks. The post webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500 appeared first on MarkT
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/04/webai-twil-8b-reasoning-model/)
 
-<a id="模型谁都买得到拉开差距的是ai生产力系统"></a>
-#### 模型谁都买得到，拉开差距的是AI生产力系统
-摘要：AI的下一程是生产力系统之争
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507448.html)
+<a id="ricursive-ai-releases-ripple-65b-preview-a-65b-dense-open-weight-model-scoring-8"></a>
+#### Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1
+摘要：Ricursive Intelligence released Ripple-65B Preview, a 65B dense open-weight LLM under Apache 2.0. It scores 80.5 on Terminal-Bench 2.1, ahead of US open models up to 15x its size. The post Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1 appe
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/)
 
-<a id="苹果被曝的新产品中国央企8个月前已装进公共卫生间"></a>
-#### 苹果被曝的新产品，中国央企8个月前已装进公共卫生间
-摘要：TeleAI智慧看护助手
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507410.html)
+<a id="anthropic-releases-flashprove-cryptographic-proofs-that-a-reply-came-from-commit"></a>
+#### Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights
+摘要：Anthropic released FlashProve, an Apache 2.0 zkSNARK prototype that proves a reply came from a committed model without revealing weights. It proves Llama 4 Maverick at 110 tokens/second on 1 H100, with 19 MB proofs. The post Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From 
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/)
 
-<a id="ai数据平台oceanbase获世界互联网大会杰出贡献奖"></a>
-#### AI数据平台OceanBase获世界互联网大会杰出贡献奖
-摘要：11月3日上午，2026世界互联网大会在浙江乌镇开幕。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507405.html)
+<a id="announcements"></a>
+#### Announcements
+摘要：（无摘要）
+来源：[Anthropic News](https://www.anthropic.com/news/announcements)
 
-<a id="小米斩获乌镇峰会双料大奖小米集团获杰出贡献奖小米具身基座模型获领先科技奖"></a>
-#### 小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”
-摘要：11月3日，小米方面披露，小米集团获得2026世界互联网大会“杰出贡献奖”创新突破类奖项
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507396.html)
+<a id="investing-in-the-public-benefitwere-committing-a-portion-of-anthropics-shares-to"></a>
+#### Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a 
+摘要：（无摘要）
+来源：[Anthropic News](https://www.anthropic.com/news/public-benefit-fund)
 
-<a id="a社紧急修改招股书rsi我们快要控制不住了"></a>
-#### A社紧急修改招股书！RSI我们快要控制不住了
-摘要：单季狂揽1130亿人民币，但...
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507382.html)
+<a id="anthropic-files-s-1-with-the-sec-for-proposed-initial-public-offeringtoday-anthr"></a>
+#### Anthropic files S-1 with the SEC for proposed initial public offeringToday, Anthropic, PBC filed a registration statemen
+摘要：（无摘要）
+来源：[Anthropic News](https://www.anthropic.com/news/s1-sec)
 
-<a id="模拟计算进入矩阵时代北大联手硅谷ibm写下新定义"></a>
-#### 模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义
-摘要：GPU迭代一百次的事，它一步做完
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507367.html)
+<a id="features"></a>
+#### Features
+摘要：（无摘要）
+来源：[Anthropic News](https://www.anthropic.com/news/features)
 
-<a id="heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test"></a>
-#### Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test
-摘要：This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/)
+<a id="ai-for-science-expands-to-foundations-and-research-institutions"></a>
+#### AI for Science expands to foundations and research institutions
+摘要：（无摘要）
+来源：[Anthropic News](https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions)
+
+<a id="expanding-our-partnership-with-gsa-to-bring-claude-to-all-levels-of-government"></a>
+#### Expanding our partnership with GSA to bring Claude to all levels of government
+摘要：（无摘要）
+来源：[Anthropic News](https://www.anthropic.com/news/expanding-partnership-gsa)
 
 ### 多模态
 
-<a id="让agent首次拥有视听双流记忆openjiuwen-agent-memory看懂长视频关键事件一个不落"></a>
-#### 让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落
-摘要：长视频记忆精度飙升，问答时延最高降97%
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507533.html)
-
-<a id="the-agentic-web-is-here"></a>
-#### The agentic web is here
-摘要：In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/)
+<a id="tencent-wevisone-vl-unifies-detection-ocr-segmentation-and-matting"></a>
+#### Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matting
+摘要：Tencent’s WeChat Vision team released WeVisOne-VL, an Apache 2.0 vision language model in 2B and 4B sizes. It handles detection, OCR, counting, segmentation and alpha matting in one model, with a 9.6M-parameter pixel decoder. The post Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matt
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/03/tencent-wevisone-vl-vision-language-model/)
 
 ### 安全与对齐
 
@@ -92,40 +92,32 @@ title: "AI 资讯博客 - 今日更新"
 
 ### 智能体Agent
 
-<a id="让agent首次拥有视听双流记忆openjiuwen-agent-memory看懂长视频关键事件一个不落"></a>
-#### 让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落
-摘要：长视频记忆精度飙升，问答时延最高降97%
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507533.html)
-
-<a id="纯语音personal-agent来了或许这就是乔布斯心中的siri"></a>
-#### 纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri
-摘要：终于，有了一个可以触摸的起点
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507419.html)
+<a id="securing-the-agentic-enterprise-with-data-lineage"></a>
+#### Securing the agentic enterprise with data lineage
+摘要：A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No 
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/)
 
 <a id="how-reverse-game-theory-could-keep-ai-agents-in-check"></a>
 #### How “reverse game theory” could keep AI agents in check
 摘要：A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/)
 
-<a id="raising-the-quality-of-insights-in-agentic-analytics"></a>
-#### Raising the quality of insights in agentic analytics
-摘要：In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/)
+<a id="soniox-stt-v6-adds-agent-text-input-and-echo-filtering-for-voice-agents"></a>
+#### Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents
+摘要：Soniox has released Soniox STT v6, the latest generation of its speech-to-text API. Soniox STT v6 is a speech-to-text model that reads what a voice agent says while hearing the caller. It uses that text to recognize short replies and to drop the agent&#8217;s own voice. The release ships as stt-rt-v
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/03/soniox-stt-v6-agent-text-input-echo-cancellation/)
 
-<a id="stop-counting-tokens-start-counting-what-ships"></a>
-#### Stop counting tokens, start counting what ships
-摘要：When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/)
+### 训练与推理优化
 
-<a id="the-agentic-web-is-here"></a>
-#### The agentic web is here
-摘要：In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/)
+<a id="nvidia-shows-3-ways-to-speed-up-moe-inference-on-dgx-spark-lifting-ling-30-flash"></a>
+#### NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5%
+摘要：NVIDIA shows how 3 stacked optimizations speed up MoE inference on a single DGX Spark. On Ant Group inclusionAI's 124B Ling-3.0-flash, GSM8K decode throughput rose 42.5% with no detectable accuracy change. The post NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Th
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/03/nvidia-dgx-spark-moe-inference-ling-3-0-flash/)
 
 ## 延伸阅读
 
-- [让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落](https://www.qbitai.com/2026/11/507533.html)
-- [机器人干活，AI当厂长！这家巨头要造下一代自主智能仓](https://www.qbitai.com/2026/11/507507.html)
-- [智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池](https://www.qbitai.com/2026/11/507473.html)
-- [模型谁都买得到，拉开差距的是AI生产力系统](https://www.qbitai.com/2026/11/507448.html)
-- [纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri](https://www.qbitai.com/2026/11/507419.html)
+- [Texas was the new epicenter of the AI data center buildout. That might be kaput.](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/)
+- [Securing the agentic enterprise with data lineage](https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/)
+- [How “reverse game theory” could keep AI agents in check](https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/)
+- [webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500](https://www.marktechpost.com/2026/11/04/webai-twil-8b-reasoning-model/)
+- [Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1](https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/)
