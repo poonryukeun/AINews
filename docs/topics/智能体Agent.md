@@ -510,3 +510,6 @@
 - 2026-11-05｜Securing the agentic enterprise with data lineage → [查看](../posts/2026-11-05.md#securing-the-agentic-enterprise-with-data-lineage)
 - 2026-11-05｜How “reverse game theory” could keep AI agents in check → [查看](../posts/2026-11-05.md#how-reverse-game-theory-could-keep-ai-agents-in-check)
 - 2026-11-05｜Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents → [查看](../posts/2026-11-05.md#soniox-stt-v6-adds-agent-text-input-and-echo-filtering-for-voice-agents)
+- 2026-11-06｜基于本体+知识+Harness+Datat Agent的智能体完整落地链路！ → [查看](../posts/2026-11-06.md#基于本体知识harnessdatat-agent的智能体完整落地链路)
+- 2026-11-06｜Securing the agentic enterprise with data lineage → [查看](../posts/2026-11-06.md#securing-the-agentic-enterprise-with-data-lineage)
+- 2026-11-06｜Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster → [查看](../posts/2026-11-06.md#together-ai-releases-together-compiler-agents-make-inference-up-to-26x-faster)
