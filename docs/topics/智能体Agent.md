@@ -513,3 +513,8 @@
 - 2026-11-06｜基于本体+知识+Harness+Datat Agent的智能体完整落地链路！ → [查看](../posts/2026-11-06.md#基于本体知识harnessdatat-agent的智能体完整落地链路)
 - 2026-11-06｜Securing the agentic enterprise with data lineage → [查看](../posts/2026-11-06.md#securing-the-agentic-enterprise-with-data-lineage)
 - 2026-11-06｜Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster → [查看](../posts/2026-11-06.md#together-ai-releases-together-compiler-agents-make-inference-up-to-26x-faster)
+- 2026-11-07｜AGENTS.MD，危险危险危险！！！ → [查看](../posts/2026-11-07.md#agentsmd危险危险危险)
+- 2026-11-07｜为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？ → [查看](../posts/2026-11-07.md#为什么每个-personal-agent-背后都必须配备一台云电脑)
+- 2026-11-07｜阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验 → [查看](../posts/2026-11-07.md#阶跃终端-stepx-neo-智能体手机亮相进博会高通展台软硬模一体打造智能体新体验)
+- 2026-11-07｜从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！ → [查看](../posts/2026-11-07.md#从rsiagentphysical-ai到整个系统栈2026-奇点智能技术大会最新日程公布)
+- 2026-11-07｜Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster → [查看](../posts/2026-11-07.md#together-ai-releases-together-compiler-agents-make-inference-up-to-26x-faster)

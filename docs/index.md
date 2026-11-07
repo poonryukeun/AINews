@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-11-06** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-11-07** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,58 +13,53 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
-- 百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA（量子位 QbitAI）
-- MIT神作被锤：Astra爆改Qwen权重？就吹吧！（量子位 QbitAI）
-- 以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划（量子位 QbitAI）
-- 基于本体+知识+Harness+Datat Agent的智能体完整落地链路！（量子位 QbitAI）
-- GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了（量子位 QbitAI）
-- Linux内核被挖出948个漏洞！OpenAI花120万美元找到的（量子位 QbitAI）
-- 太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》（量子位 QbitAI）
-- 从3D生成到世界模型，这家AI公司想和年轻人一起定义问题（量子位 QbitAI）
+- AGENTS.MD，危险危险危险！！！（量子位 QbitAI）
+- Jeff Dean李飞飞最新对谈：全是RSI非共识（量子位 QbitAI）
+- A\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间（量子位 QbitAI）
+- 为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？（量子位 QbitAI）
+- 阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验（量子位 QbitAI）
+- 阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点（量子位 QbitAI）
+- DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿（量子位 QbitAI）
+- 一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
 
-<a id="百度开源文心55-flash-base多基准测试刷新同尺寸模型-sota"></a>
-#### 百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA
-摘要：11月5日，百度正式开源最新基座模型文心5.5 Flash Base
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507787.html)
+<a id="jeff-dean李飞飞最新对谈全是rsi非共识"></a>
+#### Jeff Dean李飞飞最新对谈：全是RSI非共识
+摘要：RSI不可能无限快
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508196.html)
 
-<a id="mit神作被锤astra爆改qwen权重就吹吧"></a>
-#### MIT神作被锤：Astra爆改Qwen权重？就吹吧！
-摘要：spaCy作者长文炮轰
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507782.html)
+<a id="a三大内部模型曝光领先opus55三个月rsi缩短80实验时间"></a>
+#### A\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间
+摘要：Dario刚喊减速…
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508184.html)
 
-<a id="以真实工作检验机器人价值xrogo在cemat-asia发布机器人到岗计划"></a>
-#### 以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划
-摘要：像雇人一样雇机器人
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507767.html)
+<a id="阿里巴巴发布2026-ai向善行动报告-ai数据中心可持续发展成年度亮点"></a>
+#### 阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点
+摘要：11月5日，阿里巴巴发布《2026 AI向善行动报告》
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508165.html)
 
-<a id="linux内核被挖出948个漏洞openai花120万美元找到的"></a>
-#### Linux内核被挖出948个漏洞！OpenAI花120万美元找到的
-摘要：被轰成筛子了…
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507697.html)
+<a id="deepseek带火稀疏计算国产芯片公司加速突围这家公司又融近10亿"></a>
+#### DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿
+摘要：Q3营收实现数倍增长
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508155.html)
 
-<a id="太初元碁入选2026年世界互联网大会领先科技奖收录成果集科技之魅"></a>
-#### 太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》
-摘要：11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507688.html)
+<a id="i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future"></a>
+#### I watched a humanoid robot clean my apartment. It felt like a taste of the future.
+摘要：I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/)
 
-<a id="从3d生成到世界模型这家ai公司想和年轻人一起定义问题"></a>
-#### 从3D生成到世界模型，这家AI公司想和年轻人一起定义问题
-摘要：薪资+期权不限！实习生也能训核心模型
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507675.html)
+<a id="zyphra-zyfa-fp8-flashattention-for-amd-mi355x-up-to-176x-faster"></a>
+#### Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster
+摘要：Zyphra released ZYFA, open-source FP8 and BF16 prefill attention kernels for AMD Instinct MI355X. On real model activations, its FP8 kernels run 1.16-1.76x faster than AMD’s AITER, with 62-78% lower error at head dimension 128. The post Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Fas
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/)
 
-<a id="百度无人车搞出黑客帝国世界模型实时推演全局跑一天抵三年"></a>
-#### 百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年
-摘要：连路人都有自己的想法
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507647.html)
-
-<a id="texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput"></a>
-#### Texas was the new epicenter of the AI data center buildout. That might be kaput.
-摘要：Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/)
+<a id="thinking-machines-releases-inkling-2-small-a-594b-moe-with-17b-active"></a>
+#### Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active
+摘要：Thinking Machines Lab released Inkling 2 Small, a 594B-parameter MoE with 17B active parameters. It scores 31 on the Artificial Analysis Intelligence Index and runs on Tinker, with Apache 2.0 weights planned. The post Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active appeared fi
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/)
 
 <a id="baidu-releases-ernie-55-flash-base-a-280b-moe-base-model-with-14b-active-paramet"></a>
 #### Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters
@@ -73,32 +68,37 @@ title: "AI 资讯博客 - 今日更新"
 
 ### 多模态
 
-<a id="gpt-image-26全量上线直出gif和svg62-astra也现身了"></a>
-#### GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了
-摘要：最快6秒出图
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507707.html)
+<a id="一边赛博修仙一边卖家电ai短剧开始冲双11业绩了"></a>
+#### 一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？
+摘要：挑战商业视频的高难度场景
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508118.html)
 
 <a id="google-releases-gemini-omni-12-flash-15-second-ai-video-at-007-per-second"></a>
 #### Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second
 摘要：Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video. The post Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second appeared first on M
 来源：[MarkTechPost](https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/)
 
-<a id="openai-launches-gpt-image-26-flare-and-sunburst-adds-gifs-svg-export-and-6-secon"></a>
-#### OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation
-摘要：OpenAI released Images 2.6 and the GPT-Image-2.6 Flare and Sunburst API models. Flare generates images in as little as 6 seconds, and both add GIF output, SVG export, markup edits and a complexity parameter. The post OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Secon
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/)
-
 ### 智能体Agent
 
-<a id="基于本体知识harnessdatat-agent的智能体完整落地链路"></a>
-#### 基于本体+知识+Harness+Datat Agent的智能体完整落地链路！
-摘要：Data + AI 技术实践巡展 · 上海站
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/507696.html)
+<a id="agentsmd危险危险危险"></a>
+#### AGENTS.MD，危险危险危险！！！
+摘要：全新的电脑病毒
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508244.html)
 
-<a id="securing-the-agentic-enterprise-with-data-lineage"></a>
-#### Securing the agentic enterprise with data lineage
-摘要：A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No 
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/)
+<a id="为什么每个-personal-agent-背后都必须配备一台云电脑"></a>
+#### 为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？
+摘要：PPIO 沙箱，把“云电脑”做成开箱即用的 API
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508174.html)
+
+<a id="阶跃终端-stepx-neo-智能体手机亮相进博会高通展台软硬模一体打造智能体新体验"></a>
+#### 阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验
+摘要：阶跃终端旗下 STEPX Neo 智能体手机首次亮相
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508170.html)
+
+<a id="从rsiagentphysical-ai到整个系统栈2026-奇点智能技术大会最新日程公布"></a>
+#### 从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！
+摘要：11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508143.html)
 
 <a id="together-ai-releases-together-compiler-agents-make-inference-up-to-26x-faster"></a>
 #### Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster
@@ -114,8 +114,8 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 延伸阅读
 
-- [百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA](https://www.qbitai.com/2026/11/507787.html)
-- [MIT神作被锤：Astra爆改Qwen权重？就吹吧！](https://www.qbitai.com/2026/11/507782.html)
-- [以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划](https://www.qbitai.com/2026/11/507767.html)
-- [基于本体+知识+Harness+Datat Agent的智能体完整落地链路！](https://www.qbitai.com/2026/11/507696.html)
-- [GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了](https://www.qbitai.com/2026/11/507707.html)
+- [AGENTS.MD，危险危险危险！！！](https://www.qbitai.com/2026/11/508244.html)
+- [Jeff Dean李飞飞最新对谈：全是RSI非共识](https://www.qbitai.com/2026/11/508196.html)
+- [A\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间](https://www.qbitai.com/2026/11/508184.html)
+- [为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？](https://www.qbitai.com/2026/11/508174.html)
+- [阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验](https://www.qbitai.com/2026/11/508170.html)
