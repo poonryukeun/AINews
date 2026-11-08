@@ -518,3 +518,7 @@
 - 2026-11-07｜阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验 → [查看](../posts/2026-11-07.md#阶跃终端-stepx-neo-智能体手机亮相进博会高通展台软硬模一体打造智能体新体验)
 - 2026-11-07｜从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！ → [查看](../posts/2026-11-07.md#从rsiagentphysical-ai到整个系统栈2026-奇点智能技术大会最新日程公布)
 - 2026-11-07｜Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster → [查看](../posts/2026-11-07.md#together-ai-releases-together-compiler-agents-make-inference-up-to-26x-faster)
+- 2026-11-08｜抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？ → [查看](../posts/2026-11-08.md#抢跑deepseek硅谷华人把下一代agent-harness造出来了)
+- 2026-11-08｜AGENTS.MD，危险危险危险！！！ → [查看](../posts/2026-11-08.md#agentsmd危险危险危险)
+- 2026-11-08｜为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？ → [查看](../posts/2026-11-08.md#为什么每个-personal-agent-背后都必须配备一台云电脑)
+- 2026-11-08｜阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验 → [查看](../posts/2026-11-08.md#阶跃终端-stepx-neo-智能体手机亮相进博会高通展台软硬模一体打造智能体新体验)

@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-11-07** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-11-08** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,6 +13,7 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
+- 抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？（量子位 QbitAI）
 - AGENTS.MD，危险危险危险！！！（量子位 QbitAI）
 - Jeff Dean李飞飞最新对谈：全是RSI非共识（量子位 QbitAI）
 - A\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间（量子位 QbitAI）
@@ -20,7 +21,6 @@ title: "AI 资讯博客 - 今日更新"
 - 阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验（量子位 QbitAI）
 - 阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点（量子位 QbitAI）
 - DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿（量子位 QbitAI）
-- 一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？（量子位 QbitAI）
 
 ## 主题速览
 
@@ -51,20 +51,25 @@ title: "AI 资讯博客 - 今日更新"
 摘要：I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/)
 
+<a id="nous-research-releases-arete-27b-that-cuts-qwen38-27b-propaganda-from-22-to-09"></a>
+#### Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%
+摘要：Nous Research released Arete-27B, an Apache 2.0 fine-tune of Qwen3.8-27B. On Nous’s 803-prompt eval, propaganda answers fell from 22% to 0.9% while Hermes Bench stayed flat at 65.60%. The post Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9% appeared first on MarkTe
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/)
+
+<a id="how-to-run-nvidia-dory-4b-with-llamacpp-loop-by-loop-guide"></a>
+#### How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide
+摘要：Explore a comprehensive coding guide for NVIDIA's Dory 1.0 4B looped language model. Learn how to build the pinned llama.cpp branch, analyze loop-by-loop compute costs, test memory caching, and run paired evaluations. The post How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide appeared fir
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/)
+
 <a id="zyphra-zyfa-fp8-flashattention-for-amd-mi355x-up-to-176x-faster"></a>
 #### Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster
 摘要：Zyphra released ZYFA, open-source FP8 and BF16 prefill attention kernels for AMD Instinct MI355X. On real model activations, its FP8 kernels run 1.16-1.76x faster than AMD’s AITER, with 62-78% lower error at head dimension 128. The post Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Fas
 来源：[MarkTechPost](https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/)
 
-<a id="thinking-machines-releases-inkling-2-small-a-594b-moe-with-17b-active"></a>
-#### Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active
-摘要：Thinking Machines Lab released Inkling 2 Small, a 594B-parameter MoE with 17B active parameters. It scores 31 on the Artificial Analysis Intelligence Index and runs on Tinker, with Apache 2.0 weights planned. The post Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active appeared fi
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/)
-
-<a id="baidu-releases-ernie-55-flash-base-a-280b-moe-base-model-with-14b-active-paramet"></a>
-#### Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters
-摘要：Baidu has released ERNIE 5.5 Flash Base, a 280B sparse MoE base model with 14B active parameters, trained on 33.5T tokens and published before any mid- or post-training. The post Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters appeared first on MarkTechPost.
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/)
+<a id="announcements"></a>
+#### Announcements
+摘要：（无摘要）
+来源：[Anthropic News](https://www.anthropic.com/news/announcements)
 
 ### 多模态
 
@@ -73,12 +78,12 @@ title: "AI 资讯博客 - 今日更新"
 摘要：挑战商业视频的高难度场景
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508118.html)
 
-<a id="google-releases-gemini-omni-12-flash-15-second-ai-video-at-007-per-second"></a>
-#### Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second
-摘要：Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video. The post Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second appeared first on M
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/)
-
 ### 智能体Agent
+
+<a id="抢跑deepseek硅谷华人把下一代agent-harness造出来了"></a>
+#### 抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？
+摘要：苦单Session久矣，两大Agent玩家不谋而合。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508264.html)
 
 <a id="agentsmd危险危险危险"></a>
 #### AGENTS.MD，危险危险危险！！！
@@ -95,27 +100,17 @@ title: "AI 资讯博客 - 今日更新"
 摘要：阶跃终端旗下 STEPX Neo 智能体手机首次亮相
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508170.html)
 
-<a id="从rsiagentphysical-ai到整个系统栈2026-奇点智能技术大会最新日程公布"></a>
-#### 从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！
-摘要：11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508143.html)
-
-<a id="together-ai-releases-together-compiler-agents-make-inference-up-to-26x-faster"></a>
-#### Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster
-摘要：Together AI released Together Compiler, an agent-driven loop that keeps re-optimizing the inference forward pass as traffic shifts. It beat the best InferenceX configurations by up to 2.6x TPS in under 24 hours per model. The post Together AI Releases Together Compiler: Agents Make Inference Up to 2
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/)
-
 ### 训练与推理优化
 
-<a id="together-ai-releases-together-compiler-agents-make-inference-up-to-26x-faster"></a>
-#### Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster
-摘要：Together AI released Together Compiler, an agent-driven loop that keeps re-optimizing the inference forward pass as traffic shifts. It beat the best InferenceX configurations by up to 2.6x TPS in under 24 hours per model. The post Together AI Releases Together Compiler: Agents Make Inference Up to 2
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/)
+<a id="buoyant-releases-kinference-an-open-source-inference-control-plane-for-kubernete"></a>
+#### Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM
+摘要：Buoyant has released Kinference, an Apache 2.0 inference control plane for vLLM on Kubernetes. It adds declarative routing policies, KV-cache-aware load balancing and per-tenant metrics, and cut median TTFT 95% in Buoyant’s own benchmark. The post Buoyant Releases Kinference: An Open Source Inferenc
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/)
 
 ## 延伸阅读
 
+- [抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？](https://www.qbitai.com/2026/11/508264.html)
 - [AGENTS.MD，危险危险危险！！！](https://www.qbitai.com/2026/11/508244.html)
 - [Jeff Dean李飞飞最新对谈：全是RSI非共识](https://www.qbitai.com/2026/11/508196.html)
 - [A\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间](https://www.qbitai.com/2026/11/508184.html)
 - [为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？](https://www.qbitai.com/2026/11/508174.html)
-- [阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验](https://www.qbitai.com/2026/11/508170.html)
