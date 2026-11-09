@@ -522,3 +522,4 @@
 - 2026-11-08｜AGENTS.MD，危险危险危险！！！ → [查看](../posts/2026-11-08.md#agentsmd危险危险危险)
 - 2026-11-08｜为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？ → [查看](../posts/2026-11-08.md#为什么每个-personal-agent-背后都必须配备一台云电脑)
 - 2026-11-08｜阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验 → [查看](../posts/2026-11-08.md#阶跃终端-stepx-neo-智能体手机亮相进博会高通展台软硬模一体打造智能体新体验)
+- 2026-11-09｜Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding → [查看](../posts/2026-11-09.md#google-ai-releases-elephant-goldfish-model-plugin-for-spec-first-coding)
