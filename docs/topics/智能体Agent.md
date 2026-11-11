@@ -529,3 +529,5 @@
 - 2026-11-10｜基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代 → [查看](../posts/2026-11-10.md#基元律动发布neohorse-15-flash-previewagent模型rsi进入第二轮迭代)
 - 2026-11-10｜Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work → [查看](../posts/2026-11-10.md#meta-releases-muse-ember-a-1m-context-model-for-high-volume-agent-work)
 - 2026-11-10｜Google Unveils TPU 8i Max and TPU 8tx: A Dual-Chip TPU and a Confidential TPU → [查看](../posts/2026-11-10.md#google-unveils-tpu-8i-max-and-tpu-8tx-a-dual-chip-tpu-and-a-confidential-tpu)
+- 2026-11-11｜Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架 → [查看](../posts/2026-11-11.md#agent自演进驶入双轨时代openjiuwen首发ttse经验学习框架)
+- 2026-11-11｜千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常 → [查看](../posts/2026-11-11.md#千问办公20卷向team-agent我们用它跑了一遍编辑部日常)
