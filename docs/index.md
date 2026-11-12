@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-11-11** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-11-12** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,18 +13,43 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
+- 双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替（量子位 QbitAI）
+- 从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题（量子位 QbitAI）
+- 卷起来了！11月11日，大模型厂商在天猫打5折（量子位 QbitAI）
+- 无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光（量子位 QbitAI）
+- 英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天（量子位 QbitAI）
 - 从芯片到千比特整机，超导量子计算还有一场硬仗（量子位 QbitAI）
 - 从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型（量子位 QbitAI）
 - Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架（量子位 QbitAI）
-- 成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线（量子位 QbitAI）
-- 达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动（量子位 QbitAI）
-- Token卷到触觉了！机器人终于有了通用手感（量子位 QbitAI）
-- Fable 5.2首批实测来了！网友：Opus突然不香了（量子位 QbitAI）
-- 100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
+
+<a id="双11直播间爆改ai秀场罗永浩上手trae秒变ai-coding的大众嘴替"></a>
+#### 双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替
+摘要：价格、门槛全打穿
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509146.html)
+
+<a id="从卖token到卖结果-科技有联想沙龙激辩token经济三大议题"></a>
+#### 从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题
+摘要：10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509088.html)
+
+<a id="卷起来了11月11日大模型厂商在天猫打5折"></a>
+#### 卷起来了！11月11日，大模型厂商在天猫打5折
+摘要：大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509085.html)
+
+<a id="无人拖拉机真正下地了新疆大田深翻30厘米丘沃智能开物系统首次完整曝光"></a>
+#### 无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光
+摘要：L4无人化作业走向规模交付
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509052.html)
+
+<a id="英伟达机器人开源撞上fable-52发布jim-fan不是寒冬是夏天"></a>
+#### 英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天
+摘要：（无摘要）
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509032.html)
 
 <a id="从芯片到千比特整机超导量子计算还有一场硬仗"></a>
 #### 从芯片到千比特整机，超导量子计算还有一场硬仗
@@ -46,50 +71,27 @@ title: "AI 资讯博客 - 今日更新"
 摘要：加速东部城市型智算中心向E-AIDC演进
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508985.html)
 
-<a id="token卷到触觉了机器人终于有了通用手感"></a>
-#### Token卷到触觉了！机器人终于有了通用手感
-摘要：蚂蚁灵波开源LingBot-Touch
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508919.html)
+<a id="google-deepmind-releases-alphagenome-2-for-cell-type-specific-variant-effects"></a>
+#### Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects
+摘要：Google DeepMind released AlphaGenome 2, a conditional DNA sequence model that predicts regulatory activity and variant effects per cell type. It is available via the AlphaGenome API for non-commercial research. The post Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects ap
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/11/google-deepmind-alphagenome-2-cell-type-variant-effects/)
 
-<a id="fable-52首批实测来了网友opus突然不香了"></a>
-#### Fable 5.2首批实测来了！网友：Opus突然不香了
-摘要：作曲、拍片、3D建模一条龙全包圆
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508912.html)
+<a id="marktechpost-ai-launches-gpu-leaderboard-and-the-deploy-it-chrome-extension"></a>
+#### Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension
+摘要：Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension The post Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension appeared first on MarkTechPost.
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/)
 
-<a id="100轮图像编辑这道毙刷题新出的seedream-55稳上来了"></a>
-#### 100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！
-摘要：速度提了，API价格降了
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508828.html)
+### 多模态
 
-<a id="中大本科生反ai逆向项目火了让黑客token账单原地暴涨300倍"></a>
-#### 中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍
-摘要：投毒 → 耗尽预算 → 诱导误判
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508787.html)
+<a id="google-launches-gemini-decisions-api-with-gemini-decision-1-at-010m-tokens"></a>
+#### Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens
+摘要：Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions over text, images, audio, video and PDFs, at $0.10 per 1M input tokens. The post Google Launches Gemini Decisions API With Gemini Decision 1
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/)
 
-<a id="the-backlash-about-data-centers-might-really-just-be-about-electricity"></a>
-#### The backlash about data centers might really just be about electricity
-摘要：This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/)
-
-<a id="nancy-pelosis-replacement-is-ready-to-regulate-ai"></a>
-#### Nancy Pelosi’s replacement is ready to regulate AI
-摘要：As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with 
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/)
-
-<a id="innovating-with-ai-in-the-special-chemicals-industry"></a>
-#### Innovating with AI in the special chemicals industry
-摘要：As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/)
-
-<a id="meta-fair-releases-e-means-an-algorithm-beating-k-means-in-10x-fewer-epochs"></a>
-#### Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs
-摘要：Meta FAIR’s e-means is a mini-batch k-means replacement shipped in FAISS 1.16.0. It reaches Lloyd’s 25-epoch loss in 1.4 to 2.6 epochs, with 10-45x GPU speedups and no extra hyperparameters. The post Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs appeared first on MarkT
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/)
-
-<a id="zyphra-releases-zonos3-mini-open-source-tts-with-100m-active-parameters"></a>
-#### Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters
-摘要：Zyphra released ZONOS3-Mini, an Apache 2.0 text-to-speech model with 800M total and 100M active parameters. It clones voices, steers delivery word by word and runs in real time in the browser The post Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters appeared first on MarkTech
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/10/zyphra-zonos3-mini-open-source-tts/)
+<a id="mbzuais-ifm-releases-pan-2-an-open-29b-world-model-for-physical-ai"></a>
+#### MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI
+摘要：The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as video. The post MBZUAI&#8217;s IFM Releases PAN 2, an Open 29B World Model for Physical AI appeared f
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/)
 
 ### 智能体Agent
 
@@ -98,15 +100,15 @@ title: "AI 资讯博客 - 今日更新"
 摘要：让每一次任务，都成为下一次进步的起点
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508998.html)
 
-<a id="千问办公20卷向team-agent我们用它跑了一遍编辑部日常"></a>
-#### 千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常
-摘要：办公AI结束单机模式
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508798.html)
+<a id="fish-audio-releases-live-3-a-full-duplex-voice-model-that-reacts-in-186-ms"></a>
+#### Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms
+摘要：Fish Audio released Live 3, a full-duplex voice model for voice agents. It listens while it speaks, separates “mm-hmm” from real interruptions, and can react in as little as 186 ms. English only at launch The post Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms appeared f
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/)
 
 ## 延伸阅读
 
-- [从芯片到千比特整机，超导量子计算还有一场硬仗](https://www.qbitai.com/2026/11/509017.html)
-- [从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型](https://www.qbitai.com/2026/11/508996.html)
-- [Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架](https://www.qbitai.com/2026/11/508998.html)
-- [成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线](https://www.qbitai.com/2026/11/508991.html)
-- [达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动](https://www.qbitai.com/2026/11/508985.html)
+- [双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替](https://www.qbitai.com/2026/11/509146.html)
+- [从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题](https://www.qbitai.com/2026/11/509088.html)
+- [卷起来了！11月11日，大模型厂商在天猫打5折](https://www.qbitai.com/2026/11/509085.html)
+- [无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光](https://www.qbitai.com/2026/11/509052.html)
+- [英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天](https://www.qbitai.com/2026/11/509032.html)

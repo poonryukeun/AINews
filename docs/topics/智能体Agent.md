@@ -531,3 +531,5 @@
 - 2026-11-10｜Google Unveils TPU 8i Max and TPU 8tx: A Dual-Chip TPU and a Confidential TPU → [查看](../posts/2026-11-10.md#google-unveils-tpu-8i-max-and-tpu-8tx-a-dual-chip-tpu-and-a-confidential-tpu)
 - 2026-11-11｜Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架 → [查看](../posts/2026-11-11.md#agent自演进驶入双轨时代openjiuwen首发ttse经验学习框架)
 - 2026-11-11｜千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常 → [查看](../posts/2026-11-11.md#千问办公20卷向team-agent我们用它跑了一遍编辑部日常)
+- 2026-11-12｜Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架 → [查看](../posts/2026-11-12.md#agent自演进驶入双轨时代openjiuwen首发ttse经验学习框架)
+- 2026-11-12｜Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms → [查看](../posts/2026-11-12.md#fish-audio-releases-live-3-a-full-duplex-voice-model-that-reacts-in-186-ms)
