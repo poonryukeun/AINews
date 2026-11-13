@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-11-12** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-11-13** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,102 +13,106 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
-- 双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替（量子位 QbitAI）
-- 从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题（量子位 QbitAI）
-- 卷起来了！11月11日，大模型厂商在天猫打5折（量子位 QbitAI）
-- 无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光（量子位 QbitAI）
-- 英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天（量子位 QbitAI）
-- 从芯片到千比特整机，超导量子计算还有一场硬仗（量子位 QbitAI）
-- 从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型（量子位 QbitAI）
-- Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架（量子位 QbitAI）
+- 多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛（量子位 QbitAI）
+- 从通用大模型到学习过程智能，AI如何真正进入课堂？（量子位 QbitAI）
+- Anthropic启动IPO路演，估值已缩水6000亿美元（量子位 QbitAI）
+- 马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光（量子位 QbitAI）
+- 让AI真正懂业务：璇玑如何成为企业AI的语义基础设施（量子位 QbitAI）
+- 马斯克已准备好聘请黄仁勋（量子位 QbitAI）
+- Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条（量子位 QbitAI）
+- 百曜科技入选全球 The Information 50！（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
 
-<a id="双11直播间爆改ai秀场罗永浩上手trae秒变ai-coding的大众嘴替"></a>
-#### 双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替
-摘要：价格、门槛全打穿
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509146.html)
+<a id="从通用大模型到学习过程智能ai如何真正进入课堂"></a>
+#### 从通用大模型到学习过程智能，AI如何真正进入课堂？
+摘要：银河智学首席科学家邓澍军博士发表主题演讲
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509404.html)
 
-<a id="从卖token到卖结果-科技有联想沙龙激辩token经济三大议题"></a>
-#### 从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题
-摘要：10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509088.html)
+<a id="anthropic启动ipo路演估值已缩水6000亿美元"></a>
+#### Anthropic启动IPO路演，估值已缩水6000亿美元
+摘要：全世界都在踩刹车，达里奥一个人踩油门
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509381.html)
 
-<a id="卷起来了11月11日大模型厂商在天猫打5折"></a>
-#### 卷起来了！11月11日，大模型厂商在天猫打5折
-摘要：大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509085.html)
+<a id="马斯克grok泄露自家机密spacex特斯拉工资绩效全曝光"></a>
+#### 马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光
+摘要：Grok在让人破绷这件事上，从来不会让人失望。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509355.html)
 
-<a id="无人拖拉机真正下地了新疆大田深翻30厘米丘沃智能开物系统首次完整曝光"></a>
-#### 无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光
-摘要：L4无人化作业走向规模交付
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509052.html)
+<a id="让ai真正懂业务璇玑如何成为企业ai的语义基础设施"></a>
+#### 让AI真正懂业务：璇玑如何成为企业AI的语义基础设施
+摘要：企业 AI 的难题，不只是模型够不够强
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509349.html)
 
-<a id="英伟达机器人开源撞上fable-52发布jim-fan不是寒冬是夏天"></a>
-#### 英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天
-摘要：（无摘要）
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509032.html)
+<a id="马斯克已准备好聘请黄仁勋"></a>
+#### 马斯克已准备好聘请黄仁勋
+摘要：老黄出轨认错、再曝婚外恋
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509334.html)
 
-<a id="从芯片到千比特整机超导量子计算还有一场硬仗"></a>
-#### 从芯片到千比特整机，超导量子计算还有一场硬仗
-摘要：近亿元融资刚刚落袋
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509017.html)
+<a id="anthropic玻璃翼计划被质疑近4万个候补漏洞只修了217条"></a>
+#### Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条
+摘要：只管挖不管埋。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509291.html)
 
-<a id="从一脑多机到一脑多手蚂蚁灵波开源lingbot-touch触觉基础模型"></a>
-#### 从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型
-摘要：11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508996.html)
+<a id="百曜科技入选全球-the-information-50"></a>
+#### 百曜科技入选全球 The Information 50！
+摘要：百曜科技入选“2026年全球最具潜力 50 家初创公司”榜单。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509285.html)
 
-<a id="成立四个月融资过亿美金tensorworld物原科技要跑通物理真实路线"></a>
-#### 成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线
-摘要：TensorWorld物原科技在一个月内已拿到过亿美元融资
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508991.html)
+<a id="双十一机器人在物流仓埋头苦干昆腾动力开启具身智能规模化获客与交付阶段"></a>
+#### “双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段
+摘要：跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509281.html)
 
-<a id="达卯科技与浦东环保能源战略合作黎明智算中心算电协同平台启动"></a>
-#### 达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动
-摘要：加速东部城市型智算中心向E-AIDC演进
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508985.html)
-
-<a id="google-deepmind-releases-alphagenome-2-for-cell-type-specific-variant-effects"></a>
-#### Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects
-摘要：Google DeepMind released AlphaGenome 2, a conditional DNA sequence model that predicts regulatory activity and variant effects per cell type. It is available via the AlphaGenome API for non-commercial research. The post Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects ap
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/11/google-deepmind-alphagenome-2-cell-type-variant-effects/)
-
-<a id="marktechpost-ai-launches-gpu-leaderboard-and-the-deploy-it-chrome-extension"></a>
-#### Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension
-摘要：Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension The post Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension appeared first on MarkTechPost.
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/)
+<a id="纯代码造后室116秒切20种画风文心新模型玩嗨了"></a>
+#### 纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了
+摘要：模型即将开源
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509224.html)
 
 ### 多模态
 
-<a id="google-launches-gemini-decisions-api-with-gemini-decision-1-at-010m-tokens"></a>
-#### Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens
-摘要：Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions over text, images, audio, video and PDFs, at $0.10 per 1M input tokens. The post Google Launches Gemini Decisions API With Gemini Decision 1
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/)
+<a id="多模态源神minimax开源sota生图模型原生4k一张两毛"></a>
+#### 多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛
+摘要：「CAD拆解」
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509440.html)
 
-<a id="mbzuais-ifm-releases-pan-2-an-open-29b-world-model-for-physical-ai"></a>
-#### MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI
-摘要：The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as video. The post MBZUAI&#8217;s IFM Releases PAN 2, an Open 29B World Model for Physical AI appeared f
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/)
+<a id="liquid-ai-releases-liquidcodec-a-74m-parameter-streaming-audio-codec"></a>
+#### Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec
+摘要：Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebooks and encodes about 361x faster than real time on a single CPU thread. The post Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec 
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/)
+
+### 安全与对齐
+
+<a id="nvidia-privately-confirmed-it-could-track-chips-to-fight-smuggling-even-as-indus"></a>
+#### Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility
+摘要：Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/)
 
 ### 智能体Agent
 
-<a id="agent自演进驶入双轨时代openjiuwen首发ttse经验学习框架"></a>
-#### Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架
-摘要：让每一次任务，都成为下一次进步的起点
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/508998.html)
+<a id="copilotkit-releases-openbot-10-an-mit-licensed-self-hostable-ai-coworker-with-bu"></a>
+#### CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance
+摘要：CopilotKit released OpenBot 1.0, an MIT-licensed, self-hostable AI coworker workspace. Companies bring their own agents, models and infrastructure, while every Bot action passes a policy check and lands in an audit trail. The post CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Co
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/)
 
-<a id="fish-audio-releases-live-3-a-full-duplex-voice-model-that-reacts-in-186-ms"></a>
-#### Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms
-摘要：Fish Audio released Live 3, a full-duplex voice model for voice agents. It listens while it speaks, separates “mm-hmm” from real interruptions, and can react in as little as 186 ms. English only at launch The post Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms appeared f
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/)
+<a id="aws-releases-aws-emulator-a-local-copy-of-200-aws-services-built-by-ai-agents"></a>
+#### AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents
+摘要：AWS released AWS Emulator, a free, CC0-licensed local emulator of AWS APIs built from 438 API models. Autonomous agents wrote all of its code. It passes 56.6% of 42,857 published fidelity tests at launch. The post AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents appear
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/)
+
+### 训练与推理优化
+
+<a id="ibm-announces-ibm-quantum-nighthawk-r3-a-new-processor-to-support-10k-quantum-op"></a>
+#### IBM Announces IBM Quantum Nighthawk r3: A New Processor to Support 10k Quantum Operations on 520 Programmable Qubits
+摘要：IBM announced Quantum Nighthawk r3, a 520-qubit processor designed for 10,000 quantum operations. 2 r3 chips will link into a 1,040-qubit system in 2027, while Nighthawk r2 already posts up to 19x speedups over Heron. The post IBM Announces IBM Quantum Nighthawk r3: A New Processor to Support 10k Qu
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/12/ibm-quantum-nighthawk-r3-520-qubits-1040-qubit-system-2027/)
 
 ## 延伸阅读
 
-- [双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替](https://www.qbitai.com/2026/11/509146.html)
-- [从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题](https://www.qbitai.com/2026/11/509088.html)
-- [卷起来了！11月11日，大模型厂商在天猫打5折](https://www.qbitai.com/2026/11/509085.html)
-- [无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光](https://www.qbitai.com/2026/11/509052.html)
-- [英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天](https://www.qbitai.com/2026/11/509032.html)
+- [多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛](https://www.qbitai.com/2026/11/509440.html)
+- [从通用大模型到学习过程智能，AI如何真正进入课堂？](https://www.qbitai.com/2026/11/509404.html)
+- [Anthropic启动IPO路演，估值已缩水6000亿美元](https://www.qbitai.com/2026/11/509381.html)
+- [马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光](https://www.qbitai.com/2026/11/509355.html)
+- [让AI真正懂业务：璇玑如何成为企业AI的语义基础设施](https://www.qbitai.com/2026/11/509349.html)
