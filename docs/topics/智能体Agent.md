@@ -535,3 +535,5 @@
 - 2026-11-12｜Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms → [查看](../posts/2026-11-12.md#fish-audio-releases-live-3-a-full-duplex-voice-model-that-reacts-in-186-ms)
 - 2026-11-13｜CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance → [查看](../posts/2026-11-13.md#copilotkit-releases-openbot-10-an-mit-licensed-self-hostable-ai-coworker-with-bu)
 - 2026-11-13｜AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents → [查看](../posts/2026-11-13.md#aws-releases-aws-emulator-a-local-copy-of-200-aws-services-built-by-ai-agents)
+- 2026-11-14｜openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！ → [查看](../posts/2026-11-14.md#openjiuwen发布rsi原生agentos让agent自由变身持续迭代)
+- 2026-11-14｜Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash → [查看](../posts/2026-11-14.md#google-releases-gemini-4-hydrogen-25x-faster-than-gemini-38-flash)
