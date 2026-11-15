@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-11-14** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-11-15** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,18 +13,43 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
+- 英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！（量子位 QbitAI）
+- 「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭（量子位 QbitAI）
+- 程序员集体沉迷折纸飞机！最长滞空31.2秒（量子位 QbitAI）
+- 绿电进Token出！联想重新定义词元工厂（量子位 QbitAI）
+- 中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞（量子位 QbitAI）
+- 突发！DeepSeek开放全家桶API（量子位 QbitAI）
 - 黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿（量子位 QbitAI）
 - MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！（量子位 QbitAI）
-- 中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了（量子位 QbitAI）
-- 比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订（量子位 QbitAI）
-- 从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路（量子位 QbitAI）
-- 比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速（量子位 QbitAI）
-- 高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学（量子位 QbitAI）
-- openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
+
+<a id="英伟达上演奥特曼20员工集体请愿让老黄回家"></a>
+#### 英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！
+摘要：马斯克也签名了
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510297.html)
+
+<a id="程序员集体沉迷折纸飞机最长滞空312秒"></a>
+#### 程序员集体沉迷折纸飞机！最长滞空31.2秒
+摘要：童年的纸飞机，现在终于飞回我手里～
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510150.html)
+
+<a id="绿电进token出联想重新定义词元工厂"></a>
+#### 绿电进Token出！联想重新定义词元工厂
+摘要：年产2000万亿Token，成本狂降70%
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510094.html)
+
+<a id="中专生拍出哈利波特爆款欧美明星好莱坞制片人集体点赞"></a>
+#### 中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞
+摘要：狂揽3000万播放量
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510013.html)
+
+<a id="突发deepseek开放全家桶api"></a>
+#### 突发！DeepSeek开放全家桶API
+摘要：官方App功能均可自由组合调用
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510003.html)
 
 <a id="黄仁勋辞职英伟达33年首换帅市值蒸发超3万亿"></a>
 #### 黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿
@@ -46,30 +71,15 @@ title: "AI 资讯博客 - 今日更新"
 摘要：比亚迪第1900万辆新能源汽车在西安工厂正式下线
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509730.html)
 
-<a id="从仰望极速新纪录和鼎曜全球发布-看比亚迪的国际化与高端化之路"></a>
-#### 从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路
-摘要：比亚迪正在把规模优势转化为技术与品牌价值
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509716.html)
+<a id="cmpnd-releases-dspy-wsp-weight-space-programming-comes-to-dspy"></a>
+#### Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy
+摘要：Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run. The post Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy appe
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/)
 
-<a id="比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行战略合作落地兑现闪充中国再次提速"></a>
-#### 比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速
-摘要：2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509710.html)
-
-<a id="高难盲测超越gpt-6-astra与opus-5无界前沿开源fx-bio-1031把rsi带进生命科学"></a>
-#### 高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学
-摘要：数据不出域、本地可部署
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509663.html)
-
-<a id="特斯拉和spacex最快下月合并"></a>
-#### 特斯拉和SpaceX最快下月合并
-摘要：马斯克帝国终极形态。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509613.html)
-
-<a id="中国机器人学会隔墙递眼色成功率从0飙到100组队干活不烧心"></a>
-#### 中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心
-摘要：信息少传80%，准确率反而提高
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509614.html)
+<a id="stanford-research-open-sources-memorilla-a-latent-memory-module-for-frozen-llms"></a>
+#### Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs
+摘要：Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8B. It reaches 84.33% on FactKG using 108x fewer document tokens than full context. The post Stanford Research Open-Sources Memorilla, a Latent Memory 
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/)
 
 <a id="perplexity-releases-decider-v13-open-weight-decision-models-add-locate"></a>
 #### Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate
@@ -83,36 +93,24 @@ title: "AI 资讯博客 - 今日更新"
 摘要：The AI video leaderboard looks very different from 12 months ago. Native audio is now table stakes. Clips run 15–30 seconds. And an open-weights model sits in the top 3. This ranking (as of Nov 13, 2026) uses one quality signal: blind human-preference Elo from the Artificial Analysis Video Arena. We
 来源：[MarkTechPost](https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/)
 
-### 安全与对齐
-
-<a id="nvidia-privately-confirmed-it-could-track-chips-to-fight-smuggling-even-as-indus"></a>
-#### Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility
-摘要：Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/)
-
 ### 智能体Agent
 
-<a id="openjiuwen发布rsi原生agentos让agent自由变身持续迭代"></a>
-#### openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！
-摘要：想要什么功能，让Agent自己开发
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/509653.html)
-
-<a id="google-releases-gemini-4-hydrogen-25x-faster-than-gemini-38-flash"></a>
-#### Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash
-摘要：Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analysis score and 57% on Terminal-Bench 4.1. The post Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash appeared first on Mark
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/)
+<a id="vercel-releases-ui-sdk-50-ui-behaviors-for-ai-coding-agents"></a>
+#### Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents
+摘要：Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control. The post Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents appe
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/)
 
 ### 训练与推理优化
 
-<a id="google-releases-tpu-sync-open-source-kv-cache-transfer-for-tpus"></a>
-#### Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs
-摘要：Google released TPU Sync, an open-source C++ library that moves KV caches and weights across TPU HBM, host DRAM, storage and network. Google reports over 90% lower KV transfer latency on 235B to 480B MoE models. The post Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs appeared first
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/)
+<a id="史上最严湿实验预测基准发布推理拉满算力翻5倍也白搭"></a>
+#### 「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭
+摘要：斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510232.html)
 
 ## 延伸阅读
 
-- [黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿](https://www.qbitai.com/2026/11/509995.html)
-- [MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！](https://www.qbitai.com/2026/11/509827.html)
-- [中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了](https://www.qbitai.com/2026/11/509796.html)
-- [比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订](https://www.qbitai.com/2026/11/509730.html)
-- [从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路](https://www.qbitai.com/2026/11/509716.html)
+- [英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！](https://www.qbitai.com/2026/11/510297.html)
+- [「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭](https://www.qbitai.com/2026/11/510232.html)
+- [程序员集体沉迷折纸飞机！最长滞空31.2秒](https://www.qbitai.com/2026/11/510150.html)
+- [绿电进Token出！联想重新定义词元工厂](https://www.qbitai.com/2026/11/510094.html)
+- [中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞](https://www.qbitai.com/2026/11/510013.html)
