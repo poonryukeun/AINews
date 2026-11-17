@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-11-16** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-11-17** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,102 +13,109 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
-- 英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！（量子位 QbitAI）
-- 「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭（量子位 QbitAI）
-- 程序员集体沉迷折纸飞机！最长滞空31.2秒（量子位 QbitAI）
-- 绿电进Token出！联想重新定义词元工厂（量子位 QbitAI）
-- Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls（MarkTechPost）
-- Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy（MarkTechPost）
-- Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs（MarkTechPost）
-- Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents（MarkTechPost）
+- 睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准（量子位 QbitAI）
+- 2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力（量子位 QbitAI）
+- 没搞过一天研发的他，50岁以华为董事的身份退休了（量子位 QbitAI）
+- SuperLink2026开启创投行业超级链接时刻，12月北京见（量子位 QbitAI）
+- 阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景（量子位 QbitAI）
+- 余承东发布新款问界M8：38万元起售，全系预埋L3架构（量子位 QbitAI）
+- 龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元（量子位 QbitAI）
+- 没搞过一天研发的他，50岁以华为董事的身份退休了（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
 
-<a id="英伟达上演奥特曼20员工集体请愿让老黄回家"></a>
-#### 英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！
-摘要：马斯克也签名了
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510297.html)
+<a id="睿尔曼智能郑随兵质量经济性稳定性是机器人落地三大标准"></a>
+#### 睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准
+摘要：具身智能的真正价值是“把人的经验、技能复刻出来”
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510542.html)
 
-<a id="程序员集体沉迷折纸飞机最长滞空312秒"></a>
-#### 程序员集体沉迷折纸飞机！最长滞空31.2秒
-摘要：童年的纸飞机，现在终于飞回我手里～
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510150.html)
+<a id="2026甲子引力年终盛典即将启幕ai的无限游戏进入第二序章甲子引力"></a>
+#### 2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力
+摘要：12月1日，细数AI的未竟之问。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510526.html)
 
-<a id="绿电进token出联想重新定义词元工厂"></a>
-#### 绿电进Token出！联想重新定义词元工厂
-摘要：年产2000万亿Token，成本狂降70%
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510094.html)
+<a id="没搞过一天研发的他50岁以华为董事的身份退休了"></a>
+#### 没搞过一天研发的他，50岁以华为董事的身份退休了
+摘要：在华为待了快10000天。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510496.html)
 
-<a id="bland-launches-tofu-1-a-full-duplex-speech-to-speech-model-for-calls"></a>
-#### Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls
-摘要：Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no published benchmarks, size or pricing yet. The post Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls appeared first on MarkTechPost.
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/)
+<a id="superlink2026开启创投行业超级链接时刻12月北京见"></a>
+#### SuperLink2026开启创投行业超级链接时刻，12月北京见
+摘要：2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510493.html)
 
-<a id="cmpnd-releases-dspy-wsp-weight-space-programming-comes-to-dspy"></a>
-#### Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy
-摘要：Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run. The post Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy appe
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/)
+<a id="余承东发布新款问界m838万元起售全系预埋l3架构"></a>
+#### 余承东发布新款问界M8：38万元起售，全系预埋L3架构
+摘要：余承东重新明确分工
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510436.html)
 
-<a id="stanford-research-open-sources-memorilla-a-latent-memory-module-for-frozen-llms"></a>
-#### Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs
-摘要：Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8B. It reaches 84.33% on FactKG using 108x fewer document tokens than full context. The post Stanford Research Open-Sources Memorilla, a Latent Memory 
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/)
+<a id="龙芯海光老兵集结通研院孵化的agi芯片公司浮出水面半年连融数亿元"></a>
+#### 龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元
+摘要：杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510416.html)
 
-<a id="announcements"></a>
-#### Announcements
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/announcements)
+<a id="没搞过一天研发的他50岁以华为董事的身份退休了"></a>
+#### 没搞过一天研发的他，50岁以华为董事的身份退休了
+摘要：50岁，以“华为董事”之名退休，又有几人？
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510404.html)
 
-<a id="investing-in-the-public-benefitwere-committing-a-portion-of-anthropics-shares-to"></a>
-#### Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a 
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/public-benefit-fund)
+<a id="今天截止2026年度ai表彰错过再等一年"></a>
+#### 今天截止！2026年度AI表彰，错过再等一年！
+摘要：量子位在寻找“能干”的答案
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510382.html)
 
-<a id="anthropic-files-s-1-with-the-sec-for-proposed-initial-public-offeringtoday-anthr"></a>
-#### Anthropic files S-1 with the SEC for proposed initial public offeringToday, Anthropic, PBC filed a registration statemen
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/s1-sec)
+<a id="the-open-source-movement-wants-jensen-huang-back"></a>
+#### The open-source movement wants Jensen Huang back
+摘要：This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/)
 
-<a id="features"></a>
-#### Features
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/features)
+### 多模态
 
-<a id="anthropic-launches-roadshow-for-proposed-initial-public-offering"></a>
-#### Anthropic launches roadshow for proposed initial public offering
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/roadshow-launch)
+<a id="提速248倍且画质不掉线ai视频降本增效有了新解法"></a>
+#### 提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法
+摘要：是石科技最新发布多模态模型服务
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510369.html)
 
-<a id="ai-for-science-expands-to-foundations-and-research-institutions"></a>
-#### AI for Science expands to foundations and research institutions
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions)
+<a id="alibaba-releases-qwen4-max-24t-moe-71b-active-1m-context"></a>
+#### Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context
+摘要：Alibaba released Qwen4-Max, a proprietary 2.4T-parameter MoE model with 71B active parameters, native vision and a 1M-token context. It costs $1.5/M input tokens and cuts Work360 cost per task by 62%. The post Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context appeared first on MarkTechPos
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/)
+
+### 安全与对齐
+
+<a id="building-trustworthy-ai-by-fencing-it-in-not-predicting-it"></a>
+#### Building trustworthy AI by fencing it in, not predicting it
+摘要：In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/)
+
+<a id="meet-metas-jittests-llm-generated-tests-designed-to-fail-before-risky-code-lands"></a>
+#### Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands
+摘要：Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate. The post Meet Meta&#8217;s JiTTests: LLM-Generated Tests Designed to Fail Before Risky
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/)
 
 ### 智能体Agent
 
-<a id="vercel-releases-ui-sdk-50-ui-behaviors-for-ai-coding-agents"></a>
-#### Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents
-摘要：Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control. The post Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents appe
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/)
+<a id="阿里正式发布qwen4智能体及编程能力进阶迈向真实全场景"></a>
+#### 阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景
+摘要：11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510486.html)
 
-<a id="simaan-agent-that-plays-reasons-and-learns-with-you"></a>
-#### SIMAAn agent that plays, reasons, and learns with you
-摘要：（无摘要）
-来源：[Google DeepMind Blog](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
+<a id="building-trustworthy-ai-by-fencing-it-in-not-predicting-it"></a>
+#### Building trustworthy AI by fencing it in, not predicting it
+摘要：In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/)
 
-### 训练与推理优化
-
-<a id="史上最严湿实验预测基准发布推理拉满算力翻5倍也白搭"></a>
-#### 「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭
-摘要：斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510232.html)
+<a id="building-ai-that-can-work-across-the-enterprise"></a>
+#### Building AI that can work across the enterprise
+摘要：For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/)
 
 ## 延伸阅读
 
-- [英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！](https://www.qbitai.com/2026/11/510297.html)
-- [「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭](https://www.qbitai.com/2026/11/510232.html)
-- [程序员集体沉迷折纸飞机！最长滞空31.2秒](https://www.qbitai.com/2026/11/510150.html)
-- [绿电进Token出！联想重新定义词元工厂](https://www.qbitai.com/2026/11/510094.html)
-- [Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls](https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/)
+- [睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准](https://www.qbitai.com/2026/11/510542.html)
+- [2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力](https://www.qbitai.com/2026/11/510526.html)
+- [没搞过一天研发的他，50岁以华为董事的身份退休了](https://www.qbitai.com/2026/11/510496.html)
+- [SuperLink2026开启创投行业超级链接时刻，12月北京见](https://www.qbitai.com/2026/11/510493.html)
+- [阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景](https://www.qbitai.com/2026/11/510486.html)

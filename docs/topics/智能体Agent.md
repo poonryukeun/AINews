@@ -540,3 +540,6 @@
 - 2026-11-15｜Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents → [查看](../posts/2026-11-15.md#vercel-releases-ui-sdk-50-ui-behaviors-for-ai-coding-agents)
 - 2026-11-16｜Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents → [查看](../posts/2026-11-16.md#vercel-releases-ui-sdk-50-ui-behaviors-for-ai-coding-agents)
 - 2026-11-16｜SIMAAn agent that plays, reasons, and learns with you → [查看](../posts/2026-11-16.md#simaan-agent-that-plays-reasons-and-learns-with-you)
+- 2026-11-17｜阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景 → [查看](../posts/2026-11-17.md#阿里正式发布qwen4智能体及编程能力进阶迈向真实全场景)
+- 2026-11-17｜Building trustworthy AI by fencing it in, not predicting it → [查看](../posts/2026-11-17.md#building-trustworthy-ai-by-fencing-it-in-not-predicting-it)
+- 2026-11-17｜Building AI that can work across the enterprise → [查看](../posts/2026-11-17.md#building-ai-that-can-work-across-the-enterprise)
