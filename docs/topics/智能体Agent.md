@@ -543,3 +543,7 @@
 - 2026-11-17｜阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景 → [查看](../posts/2026-11-17.md#阿里正式发布qwen4智能体及编程能力进阶迈向真实全场景)
 - 2026-11-17｜Building trustworthy AI by fencing it in, not predicting it → [查看](../posts/2026-11-17.md#building-trustworthy-ai-by-fencing-it-in-not-predicting-it)
 - 2026-11-17｜Building AI that can work across the enterprise → [查看](../posts/2026-11-17.md#building-ai-that-can-work-across-the-enterprise)
+- 2026-11-18｜材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率 → [查看](../posts/2026-11-18.md#材料科学智能体matos正式开源大幅提高材料研发任务成功率)
+- 2026-11-18｜Building trustworthy AI by fencing it in, not predicting it → [查看](../posts/2026-11-18.md#building-trustworthy-ai-by-fencing-it-in-not-predicting-it)
+- 2026-11-18｜Building AI that can work across the enterprise → [查看](../posts/2026-11-18.md#building-ai-that-can-work-across-the-enterprise)
+- 2026-11-18｜Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work → [查看](../posts/2026-11-18.md#perplexity-computer-adds-multiagent-up-to-16-ai-agents-that-cross-check-work)

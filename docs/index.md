@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-11-17** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-11-18** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,58 +13,63 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
-- 睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准（量子位 QbitAI）
-- 2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力（量子位 QbitAI）
-- 没搞过一天研发的他，50岁以华为董事的身份退休了（量子位 QbitAI）
-- SuperLink2026开启创投行业超级链接时刻，12月北京见（量子位 QbitAI）
-- 阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景（量子位 QbitAI）
-- 余承东发布新款问界M8：38万元起售，全系预埋L3架构（量子位 QbitAI）
-- 龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元（量子位 QbitAI）
-- 没搞过一天研发的他，50岁以华为董事的身份退休了（量子位 QbitAI）
+- 思维链一作Jason Wei离职！怎么去Meta待一年都跑路（量子位 QbitAI）
+- 英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿（量子位 QbitAI）
+- 潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？（量子位 QbitAI）
+- 黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑（量子位 QbitAI）
+- GPT-6.2 Astra和Sol王炸双发！3D又危了（量子位 QbitAI）
+- 并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎（量子位 QbitAI）
+- 李沐加盟的Aimotion，是一家什么AI公司？（量子位 QbitAI）
+- 材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
 
-<a id="睿尔曼智能郑随兵质量经济性稳定性是机器人落地三大标准"></a>
-#### 睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准
-摘要：具身智能的真正价值是“把人的经验、技能复刻出来”
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510542.html)
+<a id="思维链一作jason-wei离职怎么去meta待一年都跑路"></a>
+#### 思维链一作Jason Wei离职！怎么去Meta待一年都跑路
+摘要：入职Meta刚满一年出头，竟然直接提桶跑路了！
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510811.html)
 
-<a id="2026甲子引力年终盛典即将启幕ai的无限游戏进入第二序章甲子引力"></a>
-#### 2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力
-摘要：12月1日，细数AI的未竟之问。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510526.html)
+<a id="英伟达amd首次联手押注genesis完成a轮融资估值超230亿"></a>
+#### 英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿
+摘要：具身全栈玩家
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510821.html)
 
-<a id="没搞过一天研发的他50岁以华为董事的身份退休了"></a>
-#### 没搞过一天研发的他，50岁以华为董事的身份退休了
-摘要：在华为待了快10000天。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510496.html)
+<a id="潜伏小红书48hai时代顶尖技术人才都在聊什么"></a>
+#### 潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？
+摘要：小红书校招沙龙，一群技术高手认真对待年轻人的野心
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510737.html)
 
-<a id="superlink2026开启创投行业超级链接时刻12月北京见"></a>
-#### SuperLink2026开启创投行业超级链接时刻，12月北京见
-摘要：2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510493.html)
+<a id="黄仁勋不再沉默我愿重掌英伟达董事会不考虑"></a>
+#### 黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑
+摘要：英伟达公布了老黄离职后的首份财报
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510726.html)
 
-<a id="余承东发布新款问界m838万元起售全系预埋l3架构"></a>
-#### 余承东发布新款问界M8：38万元起售，全系预埋L3架构
-摘要：余承东重新明确分工
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510436.html)
+<a id="gpt-62-astra和sol王炸双发3d又危了"></a>
+#### GPT-6.2 Astra和Sol王炸双发！3D又危了
+摘要：Sol逼近旗舰性能
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510707.html)
 
-<a id="龙芯海光老兵集结通研院孵化的agi芯片公司浮出水面半年连融数亿元"></a>
-#### 龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元
-摘要：杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510416.html)
+<a id="并购完成李飞飞正式率队加入amd苏妈亲自欢迎"></a>
+#### 并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎
+摘要：82亿美元股票，46天闪电交割
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510695.html)
 
-<a id="没搞过一天研发的他50岁以华为董事的身份退休了"></a>
-#### 没搞过一天研发的他，50岁以华为董事的身份退休了
-摘要：50岁，以“华为董事”之名退休，又有几人？
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510404.html)
+<a id="李沐加盟的aimotion是一家什么ai公司"></a>
+#### 李沐加盟的Aimotion，是一家什么AI公司？
+摘要：瞄准「产业级世界模型」
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510688.html)
 
-<a id="今天截止2026年度ai表彰错过再等一年"></a>
-#### 今天截止！2026年度AI表彰，错过再等一年！
-摘要：量子位在寻找“能干”的答案
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510382.html)
+<a id="真勇啊00后团队参加具身挑战赛仅48小时竟敢从零手搓数据还夺冠了"></a>
+#### 真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！
+摘要：斩获80000元奖金
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510610.html)
+
+<a id="奥特曼共情黄仁勋英雄也有缺陷但支持他重返英伟达ceo嘛"></a>
+#### 奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…
+摘要：奥特曼首谈黄仁勋离职
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510592.html)
 
 <a id="the-open-source-movement-wants-jensen-huang-back"></a>
 #### The open-source movement wants Jensen Huang back
@@ -73,15 +78,10 @@ title: "AI 资讯博客 - 今日更新"
 
 ### 多模态
 
-<a id="提速248倍且画质不掉线ai视频降本增效有了新解法"></a>
-#### 提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法
-摘要：是石科技最新发布多模态模型服务
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510369.html)
-
-<a id="alibaba-releases-qwen4-max-24t-moe-71b-active-1m-context"></a>
-#### Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context
-摘要：Alibaba released Qwen4-Max, a proprietary 2.4T-parameter MoE model with 71B active parameters, native vision and a 1M-token context. It costs $1.5/M input tokens and cuts Work360 cost per task by 62%. The post Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context appeared first on MarkTechPos
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/)
+<a id="research-reports"></a>
+#### Research Reports
+摘要：To access a report, click on the corresponding image below.
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/17/1148203/research-reports/)
 
 ### 安全与对齐
 
@@ -90,17 +90,12 @@ title: "AI 资讯博客 - 今日更新"
 摘要：In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/)
 
-<a id="meet-metas-jittests-llm-generated-tests-designed-to-fail-before-risky-code-lands"></a>
-#### Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands
-摘要：Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate. The post Meet Meta&#8217;s JiTTests: LLM-Generated Tests Designed to Fail Before Risky
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/)
-
 ### 智能体Agent
 
-<a id="阿里正式发布qwen4智能体及编程能力进阶迈向真实全场景"></a>
-#### 阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景
-摘要：11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510486.html)
+<a id="材料科学智能体matos正式开源大幅提高材料研发任务成功率"></a>
+#### 材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率
+摘要：筛材料、找配方、开发新模型…拿下多项科研任务
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510652.html)
 
 <a id="building-trustworthy-ai-by-fencing-it-in-not-predicting-it"></a>
 #### Building trustworthy AI by fencing it in, not predicting it
@@ -112,10 +107,15 @@ title: "AI 资讯博客 - 今日更新"
 摘要：For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/)
 
+<a id="perplexity-computer-adds-multiagent-up-to-16-ai-agents-that-cross-check-work"></a>
+#### Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work
+摘要：Perplexity added Multiagent to Computer, an effort level above Ultra where a lead agent runs up to 16 agents on Claude, GPT and Gemini models that share findings and check each other’s work. The post Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work appeared first on Mark
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/)
+
 ## 延伸阅读
 
-- [睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准](https://www.qbitai.com/2026/11/510542.html)
-- [2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力](https://www.qbitai.com/2026/11/510526.html)
-- [没搞过一天研发的他，50岁以华为董事的身份退休了](https://www.qbitai.com/2026/11/510496.html)
-- [SuperLink2026开启创投行业超级链接时刻，12月北京见](https://www.qbitai.com/2026/11/510493.html)
-- [阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景](https://www.qbitai.com/2026/11/510486.html)
+- [思维链一作Jason Wei离职！怎么去Meta待一年都跑路](https://www.qbitai.com/2026/11/510811.html)
+- [英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿](https://www.qbitai.com/2026/11/510821.html)
+- [潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？](https://www.qbitai.com/2026/11/510737.html)
+- [黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑](https://www.qbitai.com/2026/11/510726.html)
+- [GPT-6.2 Astra和Sol王炸双发！3D又危了](https://www.qbitai.com/2026/11/510707.html)
