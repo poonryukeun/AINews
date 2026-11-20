@@ -549,3 +549,6 @@
 - 2026-11-18｜Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work → [查看](../posts/2026-11-18.md#perplexity-computer-adds-multiagent-up-to-16-ai-agents-that-cross-check-work)
 - 2026-11-19｜初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！ → [查看](../posts/2026-11-19.md#初中毕业烘焙师1-人搓出单集千万播放科幻剧中国ai长片杀疯了)
 - 2026-11-19｜New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65% → [查看](../posts/2026-11-19.md#new-lora-adapter-lifts-qwen38-coding-success-from-39-to-65)
+- 2026-11-20｜双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！ → [查看](../posts/2026-11-20.md#双系统决策双层自进化agnes让agent效率最高提速14倍成本骤降至127)
+- 2026-11-20｜初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！ → [查看](../posts/2026-11-20.md#初中毕业烘焙师1-人搓出单集千万播放科幻剧中国ai长片杀疯了)
+- 2026-11-20｜13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade → [查看](../posts/2026-11-20.md#13-best-agent-gateways-in-2026-for-mcp-a2a-and-llm-traffic-kong-bifrost-agentcor)

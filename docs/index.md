@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-11-19** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-11-20** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,18 +13,33 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
+- 双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！（量子位 QbitAI）
+- 具身机器人进入真机时代，华为云CloudRobo开始组队发力了（量子位 QbitAI）
+- 影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！（量子位 QbitAI）
+- GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了（量子位 QbitAI）
+- SenseNova U1 Pro获Design Arena双榜中国第一、全球第六（量子位 QbitAI）
+- 好清晰！最新国产AI画的8K图，放这么大大大大也不糊！（量子位 QbitAI）
 - AI基建大潮方兴未艾，联想集团最佳财季诞生！（量子位 QbitAI）
 - 安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计（量子位 QbitAI）
-- 范式下场做基模了！国产算力全链路训练，双模型同步亮相（量子位 QbitAI）
-- 初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！（量子位 QbitAI）
-- Gemini新模型Neon箭在弦上，网友：遍历元素周期表？（量子位 QbitAI）
-- GPT-6.2难产！OpenAI怕了（量子位 QbitAI）
-- 全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线（量子位 QbitAI）
-- 思维链一作Jason Wei离职！怎么去Meta待一年都跑路（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
+
+<a id="具身机器人进入真机时代华为云cloudrobo开始组队发力了"></a>
+#### 具身机器人进入真机时代，华为云CloudRobo开始组队发力了
+摘要：一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511426.html)
+
+<a id="影视飓风manus影石oppo极客公园创新大会-2027-嘉宾阵容更新"></a>
+#### 影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！
+摘要：「Revaluation 价值，另有答案」
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511258.html)
+
+<a id="gta6刷屏零ai纯手搓的3a大作玩一个少一个了"></a>
+#### GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了
+摘要：媒体均分登顶历史第一，细节多到爆炸
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511180.html)
 
 <a id="ai基建大潮方兴未艾联想集团最佳财季诞生"></a>
 #### AI基建大潮方兴未艾，联想集团最佳财季诞生！
@@ -41,36 +56,6 @@ title: "AI 资讯博客 - 今日更新"
 摘要：语言模型单张3090卡即可运行
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511071.html)
 
-<a id="gemini新模型neon箭在弦上网友遍历元素周期表"></a>
-#### Gemini新模型Neon箭在弦上，网友：遍历元素周期表？
-摘要：氖人寻味！
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510922.html)
-
-<a id="gpt-62难产openai怕了"></a>
-#### GPT-6.2难产！OpenAI怕了
-摘要：OpenAI也终于活成了2022年谷歌的样子
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510914.html)
-
-<a id="全球首个医疗健康ai独立评测与分析平台inclusionmed正式上线"></a>
-#### 全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线
-摘要：近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510916.html)
-
-<a id="思维链一作jason-wei离职怎么去meta待一年都跑路"></a>
-#### 思维链一作Jason Wei离职！怎么去Meta待一年都跑路
-摘要：入职Meta刚满一年出头，竟然直接提桶跑路了！
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510811.html)
-
-<a id="英伟达amd首次联手押注genesis完成a轮融资估值超230亿"></a>
-#### 英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿
-摘要：具身全栈玩家
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510821.html)
-
-<a id="潜伏小红书48hai时代顶尖技术人才都在聊什么"></a>
-#### 潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？
-摘要：小红书校招沙龙，一群技术高手认真对待年轻人的野心
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510737.html)
-
 <a id="the-ai-hype-index-ai-is-everywhere"></a>
 #### The AI Hype Index: AI is everywhere
 摘要：Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to
@@ -81,34 +66,49 @@ title: "AI 资讯博客 - 今日更新"
 摘要：In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/)
 
-<a id="nutrient-data-extraction-api-json-matching-your-schema-with-per-field-citations-"></a>
-#### Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence
-摘要：Nutrient Data Extraction API parses PDFs, scans and Office files into JSON matching your schema. Fields carry page, region and match-label citations, and Studio lets teams test before writing code. The post Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confiden
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/)
+<a id="meta-fair-self-improving-memory-hits-560-on-continual-learning-bench"></a>
+#### Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench
+摘要：Meta FAIR’s Self-Improving Memory lets Kimi-K2.6 write its own LOAD and OFFLOAD memory prompts, then distills them into its weights. Optimized prompts score 56.0 versus 44.6 for the best hand-written harness on Continual Learning Bench. The post Meta FAIR Self-Improving Memory Hits 56.0 on Continual
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/)
+
+<a id="perplexity-launches-orchestrator-api-for-failover-and-model-routing"></a>
+#### Perplexity Launches Orchestrator API for Failover and Model Routing
+摘要：Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route. The post Perplexity Launches Orchestrator API for Failo
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/)
 
 ### 多模态
 
-<a id="research-reports"></a>
-#### Research Reports
-摘要：To access a report, click on the corresponding image below.
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/17/1148203/research-reports/)
+<a id="sensenova-u1-pro获design-arena双榜中国第一全球第六"></a>
+#### SenseNova U1 Pro获Design Arena双榜中国第一、全球第六
+摘要：商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511179.html)
+
+<a id="好清晰最新国产ai画的8k图放这么大大大大也不糊"></a>
+#### 好清晰！最新国产AI画的8K图，放这么大大大大也不糊！
+摘要：Kling Image 4.0
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511092.html)
 
 ### 智能体Agent
+
+<a id="双系统决策双层自进化agnes让agent效率最高提速14倍成本骤降至127"></a>
+#### 双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！
+摘要：已开源Agnes Harness
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511582.html)
 
 <a id="初中毕业烘焙师1-人搓出单集千万播放科幻剧中国ai长片杀疯了"></a>
 #### 初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！
 摘要：国产AI工具实现「一个人就是一个剧组」
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510947.html)
 
-<a id="new-lora-adapter-lifts-qwen38-coding-success-from-39-to-65"></a>
-#### New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65%
-摘要：Hugging Face released Qwen3.8-27B-pi-adapted, an Apache-2.0 LoRA adapter trained with reinforcement learning for the pi coding agent. It lifts SWE-bench Pro hard-51 pass@1 from 39.2% to 64.7% and Terminal-Bench 2.1 from 39.5% to 55.8%. The post New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% 
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/)
+<a id="13-best-agent-gateways-in-2026-for-mcp-a2a-and-llm-traffic-kong-bifrost-agentcor"></a>
+#### 13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade
+摘要：We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out. The post 13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore,
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/)
 
 ## 延伸阅读
 
-- [AI基建大潮方兴未艾，联想集团最佳财季诞生！](https://www.qbitai.com/2026/11/511088.html)
-- [安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计](https://www.qbitai.com/2026/11/511079.html)
-- [范式下场做基模了！国产算力全链路训练，双模型同步亮相](https://www.qbitai.com/2026/11/511071.html)
-- [初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！](https://www.qbitai.com/2026/11/510947.html)
-- [Gemini新模型Neon箭在弦上，网友：遍历元素周期表？](https://www.qbitai.com/2026/11/510922.html)
+- [双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！](https://www.qbitai.com/2026/11/511582.html)
+- [具身机器人进入真机时代，华为云CloudRobo开始组队发力了](https://www.qbitai.com/2026/11/511426.html)
+- [影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！](https://www.qbitai.com/2026/11/511258.html)
+- [GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了](https://www.qbitai.com/2026/11/511180.html)
+- [SenseNova U1 Pro获Design Arena双榜中国第一、全球第六](https://www.qbitai.com/2026/11/511179.html)
