@@ -552,3 +552,6 @@
 - 2026-11-20｜双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！ → [查看](../posts/2026-11-20.md#双系统决策双层自进化agnes让agent效率最高提速14倍成本骤降至127)
 - 2026-11-20｜初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！ → [查看](../posts/2026-11-20.md#初中毕业烘焙师1-人搓出单集千万播放科幻剧中国ai长片杀疯了)
 - 2026-11-20｜13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade → [查看](../posts/2026-11-20.md#13-best-agent-gateways-in-2026-for-mcp-a2a-and-llm-traffic-kong-bifrost-agentcor)
+- 2026-11-21｜双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！ → [查看](../posts/2026-11-21.md#双系统决策双层自进化agnes让agent效率最高提速14倍成本骤降至127)
+- 2026-11-21｜RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only → [查看](../posts/2026-11-21.md#radixark-ships-daisyrose-27b-a-27b-agentic-coding-model-trained-with-reinforceme)
+- 2026-11-21｜13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade → [查看](../posts/2026-11-21.md#13-best-agent-gateways-in-2026-for-mcp-a2a-and-llm-traffic-kong-bifrost-agentcor)

@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-11-20** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-11-21** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,18 +13,28 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
+- 昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来（量子位 QbitAI）
+- 新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景（量子位 QbitAI）
 - 双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！（量子位 QbitAI）
 - 具身机器人进入真机时代，华为云CloudRobo开始组队发力了（量子位 QbitAI）
 - 影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！（量子位 QbitAI）
 - GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了（量子位 QbitAI）
 - SenseNova U1 Pro获Design Arena双榜中国第一、全球第六（量子位 QbitAI）
 - 好清晰！最新国产AI画的8K图，放这么大大大大也不糊！（量子位 QbitAI）
-- AI基建大潮方兴未艾，联想集团最佳财季诞生！（量子位 QbitAI）
-- 安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
+
+<a id="昇腾算力训出了双榜sota的具身世界模型华为云这次想把整套底座开放出来"></a>
+#### 昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来
+摘要：国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511610.html)
+
+<a id="新浪新闻2026探索大会在京举行-虚实交融共探智能时代共生新图景"></a>
+#### 新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景
+摘要：11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511603.html)
 
 <a id="具身机器人进入真机时代华为云cloudrobo开始组队发力了"></a>
 #### 具身机器人进入真机时代，华为云CloudRobo开始组队发力了
@@ -41,30 +51,15 @@ title: "AI 资讯博客 - 今日更新"
 摘要：媒体均分登顶历史第一，细节多到爆炸
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511180.html)
 
-<a id="ai基建大潮方兴未艾联想集团最佳财季诞生"></a>
-#### AI基建大潮方兴未艾，联想集团最佳财季诞生！
-摘要：全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511088.html)
+<a id="the-most-misunderstood-graph-in-ai-just-got-a-major-update"></a>
+#### The most misunderstood graph in AI just got a major update
+摘要：A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)
 
-<a id="安谋科技深度解析arm-cortex-m42发布星辰100eaiot原型平台助力打造ai性能更强的嵌入式设计"></a>
-#### 安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计
-摘要：11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511079.html)
-
-<a id="范式下场做基模了国产算力全链路训练双模型同步亮相"></a>
-#### 范式下场做基模了！国产算力全链路训练，双模型同步亮相
-摘要：语言模型单张3090卡即可运行
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511071.html)
-
-<a id="the-ai-hype-index-ai-is-everywhere"></a>
-#### The AI Hype Index: AI is everywhere
-摘要：Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/)
-
-<a id="this-smell-startup-says-its-ai-nose-is-as-good-as-a-humans"></a>
-#### This smell startup says its AI nose is as good as a human’s
-摘要：In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/)
+<a id="nvidia-ai-releases-nemotron-labs-sigma-a-continuous-diffusion-language-model-wit"></a>
+#### NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B
+摘要：NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding. The post NVIDIA AI Releases Nemotron-Labs-Sigma, 
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/)
 
 <a id="meta-fair-self-improving-memory-hits-560-on-continual-learning-bench"></a>
 #### Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench
@@ -88,6 +83,11 @@ title: "AI 资讯博客 - 今日更新"
 摘要：Kling Image 4.0
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511092.html)
 
+<a id="baseten-releases-bison-1-and-groundhog-1-topping-decision-model-index"></a>
+#### Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index
+摘要：Baseten released bison-1 and groundhog-1, open-weight decision models built on Gemma 4. bison-1 scores 76 on the AA Decision Index v2.1, and both models support 128k context and image input. The post Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index appeared first on MarkTechPos
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/)
+
 ### 智能体Agent
 
 <a id="双系统决策双层自进化agnes让agent效率最高提速14倍成本骤降至127"></a>
@@ -95,10 +95,10 @@ title: "AI 资讯博客 - 今日更新"
 摘要：已开源Agnes Harness
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511582.html)
 
-<a id="初中毕业烘焙师1-人搓出单集千万播放科幻剧中国ai长片杀疯了"></a>
-#### 初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！
-摘要：国产AI工具实现「一个人就是一个剧组」
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/510947.html)
+<a id="radixark-ships-daisyrose-27b-a-27b-agentic-coding-model-trained-with-reinforceme"></a>
+#### RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only
+摘要：RadixArk released DaisyRose-27B, an Apache 2.0 agentic coding model post-trained from Qwen3.8-27B with reinforcement learning only. It more than doubles Terminal Bench 4.1 pass@1 to 12.0 and runs on a single GPU. The post RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforc
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/)
 
 <a id="13-best-agent-gateways-in-2026-for-mcp-a2a-and-llm-traffic-kong-bifrost-agentcor"></a>
 #### 13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade
@@ -107,8 +107,8 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 延伸阅读
 
+- [昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来](https://www.qbitai.com/2026/11/511610.html)
+- [新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景](https://www.qbitai.com/2026/11/511603.html)
 - [双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！](https://www.qbitai.com/2026/11/511582.html)
 - [具身机器人进入真机时代，华为云CloudRobo开始组队发力了](https://www.qbitai.com/2026/11/511426.html)
 - [影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！](https://www.qbitai.com/2026/11/511258.html)
-- [GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了](https://www.qbitai.com/2026/11/511180.html)
-- [SenseNova U1 Pro获Design Arena双榜中国第一、全球第六](https://www.qbitai.com/2026/11/511179.html)
