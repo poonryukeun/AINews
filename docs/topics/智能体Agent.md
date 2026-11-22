@@ -555,3 +555,7 @@
 - 2026-11-21｜双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！ → [查看](../posts/2026-11-21.md#双系统决策双层自进化agnes让agent效率最高提速14倍成本骤降至127)
 - 2026-11-21｜RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only → [查看](../posts/2026-11-21.md#radixark-ships-daisyrose-27b-a-27b-agentic-coding-model-trained-with-reinforceme)
 - 2026-11-21｜13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade → [查看](../posts/2026-11-21.md#13-best-agent-gateways-in-2026-for-mcp-a2a-and-llm-traffic-kong-bifrost-agentcor)
+- 2026-11-22｜刚刚，DeepSeek V1作者创业项目曝光：开源Agent → [查看](../posts/2026-11-22.md#刚刚deepseek-v1作者创业项目曝光开源agent)
+- 2026-11-22｜美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax → [查看](../posts/2026-11-22.md#美国ai音乐巨头进军视频生成底层模型来自中国minimax)
+- 2026-11-22｜OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min → [查看](../posts/2026-11-22.md#openai-ships-gpt-live-11-for-voice-agents-cuts-idle-cost-to-002min)
+- 2026-11-22｜RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only → [查看](../posts/2026-11-22.md#radixark-ships-daisyrose-27b-a-27b-agentic-coding-model-trained-with-reinforceme)
