@@ -559,3 +559,8 @@
 - 2026-11-22｜美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax → [查看](../posts/2026-11-22.md#美国ai音乐巨头进军视频生成底层模型来自中国minimax)
 - 2026-11-22｜OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min → [查看](../posts/2026-11-22.md#openai-ships-gpt-live-11-for-voice-agents-cuts-idle-cost-to-002min)
 - 2026-11-22｜RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only → [查看](../posts/2026-11-22.md#radixark-ships-daisyrose-27b-a-27b-agentic-coding-model-trained-with-reinforceme)
+- 2026-11-23｜8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准 → [查看](../posts/2026-11-23.md#8万条群聊消息做成考卷腾讯元宝kcl发布首个基于群聊构建的agent记忆基准)
+- 2026-11-23｜反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢 → [查看](../posts/2026-11-23.md#反超gemini之后karpo新作再开源浏览器agent速效双赢)
+- 2026-11-23｜Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost → [查看](../posts/2026-11-23.md#best-personal-ai-agents-in-2026-openclaw-hermes-agent-gemini-spark-and-more-comp)
+- 2026-11-23｜Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries → [查看](../posts/2026-11-23.md#google-ai-previews-tool-retrieval-in-the-gemini-api-for-large-tool-libraries)
+- 2026-11-23｜OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min → [查看](../posts/2026-11-23.md#openai-ships-gpt-live-11-for-voice-agents-cuts-idle-cost-to-002min)

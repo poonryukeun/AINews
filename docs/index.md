@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-11-22** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-11-23** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,58 +13,43 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
-- GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍（量子位 QbitAI）
-- 刚刚，DeepSeek V1作者创业项目曝光：开源Agent（量子位 QbitAI）
-- 姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图（量子位 QbitAI）
-- 米哈游发了个VLA论文（量子位 QbitAI）
-- 黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明（量子位 QbitAI）
-- 美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax（量子位 QbitAI）
-- 给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂（量子位 QbitAI）
-- 昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来（量子位 QbitAI）
+- Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖（量子位 QbitAI）
+- A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿（量子位 QbitAI）
+- AI给乐队现场搓MV，这是黑客松还是音乐节啊（量子位 QbitAI）
+- 中国计算，走出新的登峰之路（量子位 QbitAI）
+- 8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准（量子位 QbitAI）
+- 全网疯传！Grok一姐教你如何月提交3000个PR（量子位 QbitAI）
+- 反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢（量子位 QbitAI）
+- NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor（MarkTechPost）
 
 ## 主题速览
 
 ### 产品与应用
 
-<a id="gpt-62-astra再次暴击具身模型16项任务成功率较gpt-6-astra翻倍"></a>
-#### GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍
-摘要：还实现可变形物体操控全球首通
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511779.html)
+<a id="nature糖尿病大鼠成功恢复正常血糖用电刺激迷走神经控糖"></a>
+#### Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖
+摘要：用葡萄糖发电控制血糖。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511904.html)
 
-<a id="姚顺雨和混元团队上reddit答网友hy小模型已进路线图"></a>
-#### 姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图
-摘要：还透露了不少训练背后的秘诀
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511757.html)
-
-<a id="米哈游发了个vla论文"></a>
-#### 米哈游发了个VLA论文
-摘要：8B参数，50小时自主运行
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511740.html)
-
-<a id="黎曼猜想被证明claude加持34岁数学家放出lean证明"></a>
-#### 黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明
+<a id="a社数学家用claude又证明另一千禧难题逼出一份写了12年的940页纯人类手稿"></a>
+#### A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿
 摘要：（无摘要）
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511727.html)
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511870.html)
 
-<a id="给万卡国产芯装个超级外挂清华团队要造最强国产token工厂"></a>
-#### 给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂
-摘要：联合华为昇腾，五年冲刺十万卡
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511679.html)
+<a id="ai给乐队现场搓mv这是黑客松还是音乐节啊"></a>
+#### AI给乐队现场搓MV，这是黑客松还是音乐节啊
+摘要：（无摘要）
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511855.html)
 
-<a id="昇腾算力训出了双榜sota的具身世界模型华为云这次想把整套底座开放出来"></a>
-#### 昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来
-摘要：国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511610.html)
+<a id="中国计算走出新的登峰之路"></a>
+#### 中国计算，走出新的登峰之路
+摘要：（无摘要）
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511849.html)
 
-<a id="新浪新闻2026探索大会在京举行-虚实交融共探智能时代共生新图景"></a>
-#### 新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景
-摘要：11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511603.html)
-
-<a id="the-most-misunderstood-graph-in-ai-just-got-a-major-update"></a>
-#### The most misunderstood graph in AI just got a major update
-摘要：A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)
+<a id="全网疯传grok一姐教你如何月提交3000个pr"></a>
+#### 全网疯传！Grok一姐教你如何月提交3000个PR
+摘要：（无摘要）
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511830.html)
 
 <a id="a-team-of-researchers-from-columbia-and-certik-introduce-tensorlean-for-formal-v"></a>
 #### A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels
@@ -76,44 +61,68 @@ title: "AI 资讯博客 - 今日更新"
 摘要：Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified. The post Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac appeared first on MarkTech
 来源：[MarkTechPost](https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/)
 
+<a id="announcements"></a>
+#### Announcements
+摘要：（无摘要）
+来源：[Anthropic News](https://www.anthropic.com/news/announcements)
+
+<a id="investing-in-the-public-benefitwere-committing-a-portion-of-anthropics-shares-to"></a>
+#### Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a 
+摘要：（无摘要）
+来源：[Anthropic News](https://www.anthropic.com/news/public-benefit-fund)
+
 ### 多模态
 
-<a id="美国ai音乐巨头进军视频生成底层模型来自中国minimax"></a>
-#### 美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax
-摘要：美国AI音乐平台Suno宣布推出视觉创作工具Visuals
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511722.html)
+<a id="nvidia-releases-alpamayo-2-edge-a-2b-reasoning-vla-for-drive-thor"></a>
+#### NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor
+摘要：NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms pixel-to-trajectory latency. The post NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor appeared first on MarkTech
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/)
 
-<a id="baseten-releases-bison-1-and-groundhog-1-topping-decision-model-index"></a>
-#### Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index
-摘要：Baseten released bison-1 and groundhog-1, open-weight decision models built on Gemma 4. bison-1 scores 76 on the AA Decision Index v2.1, and both models support 128k context and image input. The post Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index appeared first on MarkTechPos
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/)
+### 安全与对齐
+
+<a id="best-personal-ai-agents-in-2026-openclaw-hermes-agent-gemini-spark-and-more-comp"></a>
+#### Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost
+摘要：Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost. The post Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost appeared first on MarkTechPo
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/)
 
 ### 智能体Agent
 
-<a id="刚刚deepseek-v1作者创业项目曝光开源agent"></a>
-#### 刚刚，DeepSeek V1作者创业项目曝光：开源Agent
-摘要：专为本地部署而生
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511570.html)
+<a id="8万条群聊消息做成考卷腾讯元宝kcl发布首个基于群聊构建的agent记忆基准"></a>
+#### 8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准
+摘要：（无摘要）
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511841.html)
 
-<a id="美国ai音乐巨头进军视频生成底层模型来自中国minimax"></a>
-#### 美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax
-摘要：美国AI音乐平台Suno宣布推出视觉创作工具Visuals
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511722.html)
+<a id="反超gemini之后karpo新作再开源浏览器agent速效双赢"></a>
+#### 反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢
+摘要：（无摘要）
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511791.html)
+
+<a id="best-personal-ai-agents-in-2026-openclaw-hermes-agent-gemini-spark-and-more-comp"></a>
+#### Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost
+摘要：Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost. The post Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost appeared first on MarkTechPo
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/)
+
+<a id="google-ai-previews-tool-retrieval-in-the-gemini-api-for-large-tool-libraries"></a>
+#### Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries
+摘要：Google launched Gemini API Tool Retrieval in preview. Agents keep a large tool library on standby and load each parameter schema only when needed, inside one Interactions API request. The post Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries appeared first on MarkTechPost
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/)
 
 <a id="openai-ships-gpt-live-11-for-voice-agents-cuts-idle-cost-to-002min"></a>
 #### OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min
 摘要：OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared firs
 来源：[MarkTechPost](https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/)
 
-<a id="radixark-ships-daisyrose-27b-a-27b-agentic-coding-model-trained-with-reinforceme"></a>
-#### RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only
-摘要：RadixArk released DaisyRose-27B, an Apache 2.0 agentic coding model post-trained from Qwen3.8-27B with reinforcement learning only. It more than doubles Terminal Bench 4.1 pass@1 to 12.0 and runs on a single GPU. The post RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforc
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/)
+### 训练与推理优化
+
+<a id="nvidia-releases-alpamayo-2-edge-a-2b-reasoning-vla-for-drive-thor"></a>
+#### NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor
+摘要：NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms pixel-to-trajectory latency. The post NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor appeared first on MarkTech
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/)
 
 ## 延伸阅读
 
-- [GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍](https://www.qbitai.com/2026/11/511779.html)
-- [刚刚，DeepSeek V1作者创业项目曝光：开源Agent](https://www.qbitai.com/2026/11/511570.html)
-- [姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图](https://www.qbitai.com/2026/11/511757.html)
-- [米哈游发了个VLA论文](https://www.qbitai.com/2026/11/511740.html)
-- [黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明](https://www.qbitai.com/2026/11/511727.html)
+- [Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖](https://www.qbitai.com/2026/11/511904.html)
+- [A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿](https://www.qbitai.com/2026/11/511870.html)
+- [AI给乐队现场搓MV，这是黑客松还是音乐节啊](https://www.qbitai.com/2026/11/511855.html)
+- [中国计算，走出新的登峰之路](https://www.qbitai.com/2026/11/511849.html)
+- [8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准](https://www.qbitai.com/2026/11/511841.html)
