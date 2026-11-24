@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-11-23** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-11-24** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,116 +13,102 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
-- Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖（量子位 QbitAI）
-- A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿（量子位 QbitAI）
-- AI给乐队现场搓MV，这是黑客松还是音乐节啊（量子位 QbitAI）
-- 中国计算，走出新的登峰之路（量子位 QbitAI）
-- 8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准（量子位 QbitAI）
-- 全网疯传！Grok一姐教你如何月提交3000个PR（量子位 QbitAI）
-- 反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢（量子位 QbitAI）
-- NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor（MarkTechPost）
+- Google Cloud 出海峰会报名开启（量子位 QbitAI）
+- 业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型（量子位 QbitAI）
+- 文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议（量子位 QbitAI）
+- 八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车（量子位 QbitAI）
+- 巴新总理见证，仰望U8交付巴布亚新几内亚市场（量子位 QbitAI）
+- 报名从速｜来MEET2027！听AI前沿实践者交出“判断”（量子位 QbitAI）
+- 蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源（量子位 QbitAI）
+- 释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
 
-<a id="nature糖尿病大鼠成功恢复正常血糖用电刺激迷走神经控糖"></a>
-#### Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖
-摘要：用葡萄糖发电控制血糖。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511904.html)
+<a id="google-cloud-出海峰会报名开启"></a>
+#### Google Cloud 出海峰会报名开启
+摘要：2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512370.html)
 
-<a id="a社数学家用claude又证明另一千禧难题逼出一份写了12年的940页纯人类手稿"></a>
-#### A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿
+<a id="业界首提端侧超节点让端侧ai组队计算ai效率暴涨270不用换芯片或模型"></a>
+#### 业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型
+摘要：端侧老炮辛米尔，打通物理AI规模化落地之路
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512362.html)
+
+<a id="文心-55-flash-preview正式开源采用-apache-20-协议"></a>
+#### 文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议
 摘要：（无摘要）
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511870.html)
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512354.html)
 
-<a id="ai给乐队现场搓mv这是黑客松还是音乐节啊"></a>
-#### AI给乐队现场搓MV，这是黑客松还是音乐节啊
-摘要：（无摘要）
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511855.html)
+<a id="八年研发首搭方程豹钛9全球首个折叠方向盘量产上车"></a>
+#### 八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车
+摘要：11月19日，方程豹钛9上市，售价27.99万元起
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512348.html)
 
-<a id="中国计算走出新的登峰之路"></a>
-#### 中国计算，走出新的登峰之路
-摘要：（无摘要）
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511849.html)
+<a id="巴新总理见证仰望u8交付巴布亚新几内亚市场"></a>
+#### 巴新总理见证，仰望U8交付巴布亚新几内亚市场
+摘要：2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512343.html)
 
-<a id="全网疯传grok一姐教你如何月提交3000个pr"></a>
-#### 全网疯传！Grok一姐教你如何月提交3000个PR
-摘要：（无摘要）
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511830.html)
+<a id="报名从速来meet2027听ai前沿实践者交出判断"></a>
+#### 报名从速｜来MEET2027！听AI前沿实践者交出“判断”
+摘要：12.9 北京，来MEET2027现场
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512329.html)
 
-<a id="a-team-of-researchers-from-columbia-and-certik-introduce-tensorlean-for-formal-v"></a>
-#### A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels
-摘要：TensorLean, from Columbia University and CertiK, formally verifies production GPU kernels at the PTX level using Lean. It checked 149 kernel instances, proved 83 correct, and found 38 bugs in FlashAttention, DeepGEMM and more. The post A Team of Researchers from Columbia and CertiK Introduce TensorL
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/)
+<a id="蚂蚁oceanbase发布湖库一体ai数据平台oceanlake核心引擎向全球开源"></a>
+#### 蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源
+摘要：中国AI数据平台加速崛起
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512330.html)
 
-<a id="meet-thinking-machines-inkling-2-mini-26b-looped-moe-runs-on-a-32gb-mac"></a>
-#### Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac
-摘要：Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified. The post Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac appeared first on MarkTech
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/)
+<a id="具身行业终于等来了自己的通用智能时刻"></a>
+#### 具身行业，终于等来了自己的通用智能时刻
+摘要：行业苦等多年的预训练通用智能，终于有了答案
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512264.html)
 
-<a id="announcements"></a>
-#### Announcements
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/announcements)
-
-<a id="investing-in-the-public-benefitwere-committing-a-portion-of-anthropics-shares-to"></a>
-#### Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a 
-摘要：（无摘要）
-来源：[Anthropic News](https://www.anthropic.com/news/public-benefit-fund)
-
-### 多模态
-
-<a id="nvidia-releases-alpamayo-2-edge-a-2b-reasoning-vla-for-drive-thor"></a>
-#### NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor
-摘要：NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms pixel-to-trajectory latency. The post NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor appeared first on MarkTech
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/)
+<a id="a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument"></a>
+#### A legendary philosopher isn’t buying Anthropic’s consciousness argument
+摘要：This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we app
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/)
 
 ### 安全与对齐
 
-<a id="best-personal-ai-agents-in-2026-openclaw-hermes-agent-gemini-spark-and-more-comp"></a>
-#### Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost
-摘要：Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost. The post Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost appeared first on MarkTechPo
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/)
+<a id="z-ai-releases-glm-54-a-750b-loop-transformer-that-runs-28-layers-twice"></a>
+#### Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice
+摘要：Z.ai released GLM-5.4, its first Loop Transformer flagship. The 750B-scale model runs 28 GLM-5 layers twice for deeper reasoning, with API access and open weights planned after safety work. The post Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice appeared first on MarkTechPo
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/)
+
+<a id="27-cybersecurity-terms-to-prepare-you-for-the-age-of-ai"></a>
+#### 27 Cybersecurity Terms to Prepare You for the Age of AI
+摘要：AI now sits on both sides of the security fight, and the vocabulary has changed with it. IBM&#8217;s 2026 Cost of a Data Breach Report found that 1 in 4 malicious breaches were AI-enabled, up 56% year over year. Those breaches cost an average of $6 million, about $1 million above the $4.99 million g
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/)
 
 ### 智能体Agent
 
-<a id="8万条群聊消息做成考卷腾讯元宝kcl发布首个基于群聊构建的agent记忆基准"></a>
-#### 8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准
-摘要：（无摘要）
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511841.html)
+<a id="释放ai与出海强预期近1500人参与亿邦产业互联网年会暨首届产业智能体大会"></a>
+#### 释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会
+摘要：2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512305.html)
 
-<a id="反超gemini之后karpo新作再开源浏览器agent速效双赢"></a>
-#### 反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢
-摘要：（无摘要）
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/511791.html)
+<a id="得agent开发者得天下70技术大咖共探ai技术演进与生态变革2026奇点智能技术大会圆满收官"></a>
+#### “得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！
+摘要：「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512297.html)
 
-<a id="best-personal-ai-agents-in-2026-openclaw-hermes-agent-gemini-spark-and-more-comp"></a>
-#### Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost
-摘要：Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost. The post Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost appeared first on MarkTechPo
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/)
+<a id="anthropic-launches-claude-ship-for-github-pull-request-review-and-fixes"></a>
+#### Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes
+摘要：Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public beta for Team and Enterprise. The post Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes appeared fi
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/)
 
-<a id="google-ai-previews-tool-retrieval-in-the-gemini-api-for-large-tool-libraries"></a>
-#### Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries
-摘要：Google launched Gemini API Tool Retrieval in preview. Agents keep a large tool library on standby and load each parameter schema only when needed, inside one Interactions API request. The post Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries appeared first on MarkTechPost
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/)
-
-<a id="openai-ships-gpt-live-11-for-voice-agents-cuts-idle-cost-to-002min"></a>
-#### OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min
-摘要：OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared firs
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/)
-
-### 训练与推理优化
-
-<a id="nvidia-releases-alpamayo-2-edge-a-2b-reasoning-vla-for-drive-thor"></a>
-#### NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor
-摘要：NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms pixel-to-trajectory latency. The post NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor appeared first on MarkTech
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/)
+<a id="architect-labs-unveils-frostbite-an-interaction-net-cpu-designed-by-ai"></a>
+#### Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI
+摘要：Architect Labs introduced Frostbite, an AI-designed CPU that runs interaction nets in hardware. Agents took it from theory to 7 nm GDS, and pre-silicon tests show 4.59x performance per watt over an in-order core. The post Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI appear
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/)
 
 ## 延伸阅读
 
-- [Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖](https://www.qbitai.com/2026/11/511904.html)
-- [A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿](https://www.qbitai.com/2026/11/511870.html)
-- [AI给乐队现场搓MV，这是黑客松还是音乐节啊](https://www.qbitai.com/2026/11/511855.html)
-- [中国计算，走出新的登峰之路](https://www.qbitai.com/2026/11/511849.html)
-- [8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准](https://www.qbitai.com/2026/11/511841.html)
+- [Google Cloud 出海峰会报名开启](https://www.qbitai.com/2026/11/512370.html)
+- [业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型](https://www.qbitai.com/2026/11/512362.html)
+- [文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议](https://www.qbitai.com/2026/11/512354.html)
+- [八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车](https://www.qbitai.com/2026/11/512348.html)
+- [巴新总理见证，仰望U8交付巴布亚新几内亚市场](https://www.qbitai.com/2026/11/512343.html)

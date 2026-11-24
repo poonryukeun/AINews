@@ -564,3 +564,7 @@
 - 2026-11-23｜Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost → [查看](../posts/2026-11-23.md#best-personal-ai-agents-in-2026-openclaw-hermes-agent-gemini-spark-and-more-comp)
 - 2026-11-23｜Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries → [查看](../posts/2026-11-23.md#google-ai-previews-tool-retrieval-in-the-gemini-api-for-large-tool-libraries)
 - 2026-11-23｜OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min → [查看](../posts/2026-11-23.md#openai-ships-gpt-live-11-for-voice-agents-cuts-idle-cost-to-002min)
+- 2026-11-24｜释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会 → [查看](../posts/2026-11-24.md#释放ai与出海强预期近1500人参与亿邦产业互联网年会暨首届产业智能体大会)
+- 2026-11-24｜“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！ → [查看](../posts/2026-11-24.md#得agent开发者得天下70技术大咖共探ai技术演进与生态变革2026奇点智能技术大会圆满收官)
+- 2026-11-24｜Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes → [查看](../posts/2026-11-24.md#anthropic-launches-claude-ship-for-github-pull-request-review-and-fixes)
+- 2026-11-24｜Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI → [查看](../posts/2026-11-24.md#architect-labs-unveils-frostbite-an-interaction-net-cpu-designed-by-ai)
