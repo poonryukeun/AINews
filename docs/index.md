@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-11-24** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-11-25** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -71,17 +71,15 @@ title: "AI 资讯博客 - 今日更新"
 摘要：This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we app
 来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/)
 
-### 安全与对齐
+<a id="bytedance-researchers-open-sources-laminar-an-async-reinforcement-learning-rl-po"></a>
+#### ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework
+摘要：Laminar is an open-source asynchronous RL post-training framework from HKU and ByteDance Seed researchers. It decouples rollout, training and weight sync, and lifted Qwen3-Coder-30B-A3B to 52.2% on SWE-bench Verified. The post ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learni
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/)
 
-<a id="z-ai-releases-glm-54-a-750b-loop-transformer-that-runs-28-layers-twice"></a>
-#### Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice
-摘要：Z.ai released GLM-5.4, its first Loop Transformer flagship. The 750B-scale model runs 28 GLM-5 layers twice for deeper reasoning, with API access and open weights planned after safety work. The post Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice appeared first on MarkTechPo
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/)
-
-<a id="27-cybersecurity-terms-to-prepare-you-for-the-age-of-ai"></a>
-#### 27 Cybersecurity Terms to Prepare You for the Age of AI
-摘要：AI now sits on both sides of the security fight, and the vocabulary has changed with it. IBM&#8217;s 2026 Cost of a Data Breach Report found that 1 in 4 malicious breaches were AI-enabled, up 56% year over year. Those breaches cost an average of $6 million, about $1 million above the $4.99 million g
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/)
+<a id="meet-facebooks-your-algorithm-how-meta-turns-plain-language-preferences-into-ran"></a>
+#### Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking
+摘要：Meta's engineering team explains how Facebook's Your Algorithm turns plain-language interests into ranking signals for Feed and Reels, using LLM validation, 4 retrieval sources, layered filtering and a fine-tuned LLM reranker. The post Meet Facebook&#8217;s Your Algorithm: How Meta Turns Plain-Langu
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/)
 
 ### 智能体Agent
 
@@ -95,15 +93,15 @@ title: "AI 资讯博客 - 今日更新"
 摘要：「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512297.html)
 
-<a id="anthropic-launches-claude-ship-for-github-pull-request-review-and-fixes"></a>
-#### Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes
-摘要：Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public beta for Team and Enterprise. The post Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes appeared fi
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/)
+<a id="raising-the-stakes-for-enterprise-networks-with-ai-modernization"></a>
+#### Raising the stakes for enterprise networks with AI modernization
+摘要：Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than t
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/)
 
-<a id="architect-labs-unveils-frostbite-an-interaction-net-cpu-designed-by-ai"></a>
-#### Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI
-摘要：Architect Labs introduced Frostbite, an AI-designed CPU that runs interaction nets in hardware. Agents took it from theory to 7 nm GDS, and pre-silicon tests show 4.59x performance per watt over an in-order core. The post Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI appear
-来源：[MarkTechPost](https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/)
+<a id="openai-and-cisco-releases-shirudo-an-open-source-linux-runtime-allowing-agents-t"></a>
+#### OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime
+摘要：OpenAI and Cisco released Shirudo, a pre-release, BSD-licensed eBPF runtime for Linux. AI agents write signed "shields" that block exploit paths on running systems while teams test and roll out real patches. The post OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to 
+来源：[MarkTechPost](https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/)
 
 ## 延伸阅读
 

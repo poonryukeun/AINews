@@ -568,3 +568,7 @@
 - 2026-11-24｜“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！ → [查看](../posts/2026-11-24.md#得agent开发者得天下70技术大咖共探ai技术演进与生态变革2026奇点智能技术大会圆满收官)
 - 2026-11-24｜Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes → [查看](../posts/2026-11-24.md#anthropic-launches-claude-ship-for-github-pull-request-review-and-fixes)
 - 2026-11-24｜Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI → [查看](../posts/2026-11-24.md#architect-labs-unveils-frostbite-an-interaction-net-cpu-designed-by-ai)
+- 2026-11-25｜释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会 → [查看](../posts/2026-11-25.md#释放ai与出海强预期近1500人参与亿邦产业互联网年会暨首届产业智能体大会)
+- 2026-11-25｜“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！ → [查看](../posts/2026-11-25.md#得agent开发者得天下70技术大咖共探ai技术演进与生态变革2026奇点智能技术大会圆满收官)
+- 2026-11-25｜Raising the stakes for enterprise networks with AI modernization → [查看](../posts/2026-11-25.md#raising-the-stakes-for-enterprise-networks-with-ai-modernization)
+- 2026-11-25｜OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime → [查看](../posts/2026-11-25.md#openai-and-cisco-releases-shirudo-an-open-source-linux-runtime-allowing-agents-t)
