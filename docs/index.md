@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-11-25** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-11-26** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,63 +13,63 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
-- Google Cloud 出海峰会报名开启（量子位 QbitAI）
-- 业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型（量子位 QbitAI）
-- 文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议（量子位 QbitAI）
-- 八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车（量子位 QbitAI）
-- 巴新总理见证，仰望U8交付巴布亚新几内亚市场（量子位 QbitAI）
-- 报名从速｜来MEET2027！听AI前沿实践者交出“判断”（量子位 QbitAI）
-- 蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源（量子位 QbitAI）
-- 释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会（量子位 QbitAI）
+- 顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一（量子位 QbitAI）
+- 任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习（量子位 QbitAI）
+- 沈向洋刚讲了好多AI非共识啊（量子位 QbitAI）
+- AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了（量子位 QbitAI）
+- 刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行（量子位 QbitAI）
+- 我以为这是摄影作品，你告诉我这是最新的国产AI？！（量子位 QbitAI）
+- 丢个故事就行！直出15分钟AI短片，家里二舅也能上手（量子位 QbitAI）
+- 零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
 
-<a id="google-cloud-出海峰会报名开启"></a>
-#### Google Cloud 出海峰会报名开启
-摘要：2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512370.html)
+<a id="任少卿带着世界模型30来了蔚来智驾训练提效5倍座舱也用上强化学习"></a>
+#### 任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习
+摘要：李斌坦言：不做AI变革可能活不下去
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512897.html)
 
-<a id="业界首提端侧超节点让端侧ai组队计算ai效率暴涨270不用换芯片或模型"></a>
-#### 业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型
-摘要：端侧老炮辛米尔，打通物理AI规模化落地之路
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512362.html)
+<a id="沈向洋刚讲了好多ai非共识啊"></a>
+#### 沈向洋刚讲了好多AI非共识啊
+摘要：“灵巧手是人类最后的尊严”
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512840.html)
 
-<a id="文心-55-flash-preview正式开源采用-apache-20-协议"></a>
-#### 文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议
+<a id="ai影视高地正在北影海淀一带崛起一人制片厂基建搭好了"></a>
+#### AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了
+摘要：叠满海淀最强AI Buff。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512828.html)
+
+<a id="刚刚黎曼猜想证明代码暴砍了995只剩76万行"></a>
+#### 刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行
+摘要：合着全让A➗揽了
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512819.html)
+
+<a id="我以为这是摄影作品你告诉我这是最新的国产ai"></a>
+#### 我以为这是摄影作品，你告诉我这是最新的国产AI？！
+摘要：商汤SenseNova U1.6
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512748.html)
+
+<a id="丢个故事就行直出15分钟ai短片家里二舅也能上手"></a>
+#### 丢个故事就行！直出15分钟AI短片，家里二舅也能上手
 摘要：（无摘要）
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512354.html)
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512727.html)
 
-<a id="八年研发首搭方程豹钛9全球首个折叠方向盘量产上车"></a>
-#### 八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车
-摘要：11月19日，方程豹钛9上市，售价27.99万元起
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512348.html)
+<a id="算力唤醒真实世界九章云极发布物理ai工厂与生态开放计划"></a>
+#### 算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划
+摘要：11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512582.html)
 
-<a id="巴新总理见证仰望u8交付巴布亚新几内亚市场"></a>
-#### 巴新总理见证，仰望U8交付巴布亚新几内亚市场
-摘要：2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512343.html)
+<a id="逐际动与商汤装置达成合作以高质量算力全撑机器仿真训练与测试"></a>
+#### 逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试
+摘要：贯通具⾝智能研发流程
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512683.html)
 
-<a id="报名从速来meet2027听ai前沿实践者交出判断"></a>
-#### 报名从速｜来MEET2027！听AI前沿实践者交出“判断”
-摘要：12.9 北京，来MEET2027现场
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512329.html)
-
-<a id="蚂蚁oceanbase发布湖库一体ai数据平台oceanlake核心引擎向全球开源"></a>
-#### 蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源
-摘要：中国AI数据平台加速崛起
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512330.html)
-
-<a id="具身行业终于等来了自己的通用智能时刻"></a>
-#### 具身行业，终于等来了自己的通用智能时刻
-摘要：行业苦等多年的预训练通用智能，终于有了答案
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512264.html)
-
-<a id="a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument"></a>
-#### A legendary philosopher isn’t buying Anthropic’s consciousness argument
-摘要：This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we app
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/)
+<a id="ai-is-straining-americas-open-records-systems"></a>
+#### AI is straining America’s open records systems
+摘要：In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1
+来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/)
 
 <a id="bytedance-researchers-open-sources-laminar-an-async-reinforcement-learning-rl-po"></a>
 #### ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework
@@ -81,22 +81,24 @@ title: "AI 资讯博客 - 今日更新"
 摘要：Meta's engineering team explains how Facebook's Your Algorithm turns plain-language interests into ranking signals for Feed and Reels, using LLM validation, 4 retrieval sources, layered filtering and a fine-tuned LLM reranker. The post Meet Facebook&#8217;s Your Algorithm: How Meta Turns Plain-Langu
 来源：[MarkTechPost](https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/)
 
+<a id="announcements"></a>
+#### Announcements
+摘要：（无摘要）
+来源：[Anthropic News](https://www.anthropic.com/news/announcements)
+
+### 多模态
+
+<a id="顶尖商用级ai视频每秒只要5毛中国开源新势力拿下全球第一"></a>
+#### 顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一
+摘要：30秒一镜到底，可自动编排镜头
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512916.html)
+
 ### 智能体Agent
 
-<a id="释放ai与出海强预期近1500人参与亿邦产业互联网年会暨首届产业智能体大会"></a>
-#### 释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会
-摘要：2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512305.html)
-
-<a id="得agent开发者得天下70技术大咖共探ai技术演进与生态变革2026奇点智能技术大会圆满收官"></a>
-#### “得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！
-摘要：「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512297.html)
-
-<a id="raising-the-stakes-for-enterprise-networks-with-ai-modernization"></a>
-#### Raising the stakes for enterprise networks with AI modernization
-摘要：Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than t
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/)
+<a id="零基础也能做开发智元灵心平台一年孵化超3万个机器人智能体"></a>
+#### 零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体
+摘要：智元推出行业首个开放且完整的具身智能生态技术体系AIMA
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/512715.html)
 
 <a id="openai-and-cisco-releases-shirudo-an-open-source-linux-runtime-allowing-agents-t"></a>
 #### OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime
@@ -105,8 +107,8 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 延伸阅读
 
-- [Google Cloud 出海峰会报名开启](https://www.qbitai.com/2026/11/512370.html)
-- [业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型](https://www.qbitai.com/2026/11/512362.html)
-- [文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议](https://www.qbitai.com/2026/11/512354.html)
-- [八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车](https://www.qbitai.com/2026/11/512348.html)
-- [巴新总理见证，仰望U8交付巴布亚新几内亚市场](https://www.qbitai.com/2026/11/512343.html)
+- [顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一](https://www.qbitai.com/2026/11/512916.html)
+- [任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习](https://www.qbitai.com/2026/11/512897.html)
+- [沈向洋刚讲了好多AI非共识啊](https://www.qbitai.com/2026/11/512840.html)
+- [AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了](https://www.qbitai.com/2026/11/512828.html)
+- [刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行](https://www.qbitai.com/2026/11/512819.html)
