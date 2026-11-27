@@ -574,3 +574,4 @@
 - 2026-11-25｜OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime → [查看](../posts/2026-11-25.md#openai-and-cisco-releases-shirudo-an-open-source-linux-runtime-allowing-agents-t)
 - 2026-11-26｜零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体 → [查看](../posts/2026-11-26.md#零基础也能做开发智元灵心平台一年孵化超3万个机器人智能体)
 - 2026-11-26｜OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime → [查看](../posts/2026-11-26.md#openai-and-cisco-releases-shirudo-an-open-source-linux-runtime-allowing-agents-t)
+- 2026-11-27｜20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩 → [查看](../posts/2026-11-27.md#20个ai-agents组队4天狂跑350次实验超越clickbench最佳公开成绩)
