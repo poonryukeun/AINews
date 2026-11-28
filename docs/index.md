@@ -4,7 +4,7 @@ title: "AI 资讯博客 - 今日更新"
 
 # AI 资讯博客
 
-> ✅ **2026-11-27** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
+> ✅ **2026-11-28** | [查看所有文章](posts/index.md) | [按主题浏览](topics/index.md)
 > 
 > 每日自动更新，聚合 AI 领域重要资讯。
 
@@ -13,18 +13,38 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 今日要点
 
+- 人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了（量子位 QbitAI）
+- 全国首批首家！商汤大装置获Token工厂智算能力最高评级（量子位 QbitAI）
+- 韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名（量子位 QbitAI）
+- DeepSeek APP突然更新账单，网友：要收费了？（量子位 QbitAI）
 - 刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑（量子位 QbitAI）
 - 钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间（量子位 QbitAI）
 - 蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准（量子位 QbitAI）
 - 20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩（量子位 QbitAI）
-- 腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻（量子位 QbitAI）
-- 具身公司抱团回应：通用大模型跨维打击？没那么简单（量子位 QbitAI）
-- 百亿具身独角兽破壁，玩家集体涌向它的牌桌（量子位 QbitAI）
-- 第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！（量子位 QbitAI）
 
 ## 主题速览
 
 ### 产品与应用
+
+<a id="人形机器人开发者集合众擎开放大小脑10亿产业级生态支持计划也来了"></a>
+#### 人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了
+摘要：一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/513352.html)
+
+<a id="全国首批首家商汤大装置获token工厂智算能力最高评级"></a>
+#### 全国首批首家！商汤大装置获Token工厂智算能力最高评级
+摘要：商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/513346.html)
+
+<a id="韦东奕再获大奖攻克近140年数学难题获两位院士共同提名"></a>
+#### 韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名
+摘要：淡泊名利，实至名归🎉
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/513320.html)
+
+<a id="deepseek-app突然更新账单网友要收费了"></a>
+#### DeepSeek APP突然更新账单，网友：要收费了？
+摘要：网页App双端亮出聊天账单
+来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/513305.html)
 
 <a id="刚刚首个带跨任务空间记忆的原生基模开源机器人端侧就能跑"></a>
 #### 刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑
@@ -51,31 +71,6 @@ title: "AI 资讯博客 - 今日更新"
 摘要：（无摘要）
 来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/513125.html)
 
-<a id="百亿具身独角兽破壁玩家集体涌向它的牌桌"></a>
-#### 百亿具身独角兽破壁，玩家集体涌向它的牌桌
-摘要：（无摘要）
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/513101.html)
-
-<a id="第三批嘉宾来袭速戳报名meet2027驭见ai新共识"></a>
-#### 第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！
-摘要：倒计时两周，报名从速！
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/513091.html)
-
-<a id="乾崑共创者计划发布加入乾崑生态共创出行未来"></a>
-#### 乾崑共创者计划发布：加入乾崑生态，共创出行未来！
-摘要：11月26日，“乾崑生态 共赴热爱”华为乾崑生态大会在广州南沙体育馆举行。
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/513087.html)
-
-<a id="陶哲轩下场验证黎曼猜想ai批量吐证明就像发电厂排核废料"></a>
-#### 陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”
-摘要：担心课题被AI抢先，该怎么办？
-来源：[量子位 QbitAI](https://www.qbitai.com/2026/11/513075.html)
-
-<a id="ai-is-straining-americas-open-records-systems"></a>
-#### AI is straining America’s open records systems
-摘要：In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1
-来源：[MIT Technology Review AI](https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/)
-
 <a id="nexosai-ai-adoption-platform-puts-200-models-behind-one-ai-gateway-with-budget-l"></a>
 #### nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in
 摘要：nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in The post nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in appeared first on MarkTechPost.
@@ -90,6 +85,11 @@ title: "AI 资讯博客 - 今日更新"
 #### Announcements
 摘要：（无摘要）
 来源：[Anthropic News](https://www.anthropic.com/news/announcements)
+
+<a id="investing-in-the-public-benefitwere-committing-a-portion-of-anthropics-shares-to"></a>
+#### Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a 
+摘要：（无摘要）
+来源：[Anthropic News](https://www.anthropic.com/news/public-benefit-fund)
 
 ### 智能体Agent
 
@@ -107,8 +107,8 @@ title: "AI 资讯博客 - 今日更新"
 
 ## 延伸阅读
 
+- [人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了](https://www.qbitai.com/2026/11/513352.html)
+- [全国首批首家！商汤大装置获Token工厂智算能力最高评级](https://www.qbitai.com/2026/11/513346.html)
+- [韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名](https://www.qbitai.com/2026/11/513320.html)
+- [DeepSeek APP突然更新账单，网友：要收费了？](https://www.qbitai.com/2026/11/513305.html)
 - [刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑](https://www.qbitai.com/2026/11/513227.html)
-- [钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间](https://www.qbitai.com/2026/11/513194.html)
-- [蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准](https://www.qbitai.com/2026/11/513211.html)
-- [20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩](https://www.qbitai.com/2026/11/513163.html)
-- [腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻](https://www.qbitai.com/2026/11/513155.html)
